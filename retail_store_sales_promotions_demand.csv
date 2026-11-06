@@ -1,0 +1,2801 @@
+store_id,product_id,date,category,price,promotion_active,discount_percent,units_sold,inventory_level,day_of_week
+12,1823,9/19/2024,Home,19.02,No,0,17,251,Friday
+6,1551,12/21/2024,Grocery,26.29,Yes,0,14,248,Wednesday
+40,1015,9/27/2024,Grocery,24.88,No,0,25,251,Saturday
+50,1475,6/16/2024,Home,2.93,Yes,5,7,470,Tuesday
+32,1004,12/5/2024,Grocery,24.7,Yes,20,37,139,Saturday
+46,1260,6/10/2024,Electronics,19.23,No,0,10,228,Friday
+26,1110,5/28/2024,Home,21.5,No,0,6,35,Monday
+4,1481,7/11/2024,Home,3.23,Yes,30,19,20,Tuesday
+22,1089,6/8/2024,Clothing,17.69,Yes,20,26,342,Tuesday
+16,1723,2/21/2024,Grocery,1.12,No,0,13,408,Monday
+44,1572,4/6/2024,Home,2.95,No,0,16,428,Thursday
+42,1392,2/29/2024,Home,21.34,Yes,30,37,413,Tuesday
+2,1215,4/5/2024,Home,17.73,Yes,0,34,158,Sunday
+17,1009,11/8/2024,Clothing,25.15,Yes,0,33,94,Tuesday
+14,1596,11/21/2024,Electronics,12.63,No,0,10,57,Monday
+9,1982,10/27/2024,Home,1.13,No,0,34,210,Friday
+20,1930,4/26/2024,Personal Care,24.03,Yes,15,27,113,Saturday
+13,1703,7/17/2024,Home,10.71,Yes,5,51,398,Saturday
+3,1524,5/10/2024,Electronics,25.22,Yes,15,9,44,Monday
+19,1532,3/30/2024,Grocery,29.35,No,0,36,151,Thursday
+18,1217,4/14/2024,Grocery,5.67,Yes,15,22,306,Saturday
+4,1047,3/31/2024,Clothing,3.33,No,0,20,230,Thursday
+22,1672,12/19/2024,Personal Care,15.6,Yes,0,33,205,Tuesday
+23,1717,6/8/2024,Grocery,24.43,Yes,20,34,37,Monday
+21,1139,2/7/2024,Grocery,1.37,Yes,15,37,54,Saturday
+22,1360,2/13/2024,Home,19.05,No,0,13,397,Monday
+37,1014,11/15/2024,Home,3.68,No,0,36,424,Monday
+41,1118,5/11/2024,Home,16.03,Yes,20,14,56,Monday
+29,1473,10/4/2024,Grocery,14.02,No,0,44,498,Saturday
+2,1235,12/23/2024,Grocery,21.74,Yes,10,37,327,Monday
+20,1146,12/13/2024,Personal Care,20.86,No,0,28,150,Monday
+16,1334,7/26/2024,Clothing,8.79,Yes,10,38,357,Thursday
+14,1393,4/22/2024,Personal Care,8.63,No,0,27,431,Sunday
+3,1728,2/2/2024,Clothing,13.46,Yes,5,28,88,Thursday
+27,1391,11/16/2024,Personal Care,7.42,Yes,15,21,261,Wednesday
+21,1076,1/17/2024,Clothing,20.72,No,0,43,386,Sunday
+20,1664,10/15/2024,Grocery,25.38,Yes,30,33,382,Wednesday
+50,1849,5/16/2024,Electronics,26.75,Yes,15,9,252,Tuesday
+41,1548,12/1/2024,Clothing,6.27,Yes,30,17,79,Thursday
+12,1731,1/6/2024,Home,3.69,Yes,5,22,441,Thursday
+35,1714,9/23/2024,Personal Care,22.4,Yes,5,28,135,Wednesday
+6,1420,7/17/2024,Electronics,25.66,Yes,15,32,454,Sunday
+25,1563,10/18/2024,Personal Care,18.95,No,0,15,120,Saturday
+7,1739,11/24/2024,Grocery,14.55,No,0,28,187,Saturday
+21,1268,1/9/2024,Clothing,9.23,Yes,15,42,64,Wednesday
+27,1786,5/20/2024,Home,21.17,Yes,0,40,245,Wednesday
+12,1545,6/20/2024,Electronics,1.66,Yes,0,17,239,Sunday
+44,1705,8/13/2024,Home,19.77,Yes,20,52,481,Saturday
+19,1851,10/14/2024,Electronics,24.21,Yes,5,41,244,Friday
+40,1213,6/4/2024,Electronics,21.91,No,0,39,179,Saturday
+27,1548,2/28/2024,Personal Care,22.81,No,0,17,313,Thursday
+34,1939,7/24/2024,Personal Care,0.7,No,0,2,34,Friday
+5,1953,10/2/2024,Home,23.55,Yes,15,28,67,Saturday
+32,1130,6/22/2024,Home,17.44,No,0,35,157,Tuesday
+40,1030,5/13/2024,Electronics,20.01,No,0,31,75,Tuesday
+1,1703,5/25/2024,Clothing,29.25,Yes,0,19,119,Tuesday
+47,1596,3/3/2024,Personal Care,15.05,Yes,20,40,275,Monday
+28,1023,7/11/2024,Home,26.03,No,0,38,387,Tuesday
+41,1223,9/28/2024,Electronics,22.18,Yes,20,53,124,Sunday
+12,1323,11/4/2024,Clothing,22.73,Yes,5,38,488,Saturday
+16,1135,2/15/2024,Clothing,8.47,Yes,5,14,474,Monday
+46,1129,4/12/2024,Home,16.38,Yes,15,42,446,Thursday
+24,1118,12/26/2024,Personal Care,26.22,Yes,0,27,122,Friday
+5,1493,2/24/2024,Grocery,26.49,No,0,27,277,Saturday
+8,1208,3/29/2024,Electronics,2.03,No,0,16,95,Tuesday
+5,1783,2/19/2024,Clothing,12.09,Yes,20,38,51,Tuesday
+28,1215,11/3/2024,Clothing,16.51,No,0,27,238,Friday
+24,1757,7/8/2024,Home,1.04,Yes,5,35,112,Thursday
+21,1914,2/13/2024,Home,8.49,Yes,0,15,282,Sunday
+18,1933,2/29/2024,Electronics,23.83,Yes,20,25,319,Wednesday
+50,1442,4/2/2024,Home,17.11,Yes,10,30,470,Friday
+31,1103,1/6/2024,Clothing,8.97,Yes,0,24,428,Wednesday
+22,1221,12/3/2024,Home,26.66,Yes,5,35,159,Saturday
+32,1657,4/19/2024,Grocery,23.82,Yes,20,41,59,Thursday
+17,1454,7/24/2024,Personal Care,16.69,Yes,0,20,335,Monday
+17,1256,5/21/2024,Clothing,2.56,Yes,30,17,212,Monday
+41,1455,11/26/2024,Grocery,23.03,No,0,11,286,Friday
+31,1993,3/27/2024,Home,23,Yes,15,32,496,Tuesday
+34,1408,11/2/2024,Clothing,22.69,Yes,15,26,273,Thursday
+36,1951,5/25/2024,Clothing,15.47,No,0,32,267,Saturday
+27,1772,12/16/2024,Home,1.6,Yes,5,16,319,Monday
+38,1740,6/12/2024,Grocery,2.66,No,0,8,403,Thursday
+49,1249,1/24/2024,Personal Care,9.66,No,0,21,388,Thursday
+39,1723,2/28/2024,Grocery,4.53,No,0,30,93,Sunday
+4,1365,9/27/2024,Electronics,26.06,No,0,18,253,Monday
+30,1615,5/14/2024,Personal Care,5.59,No,0,31,246,Tuesday
+9,1975,5/28/2024,Electronics,28.43,No,0,48,206,Sunday
+33,1639,7/2/2024,Clothing,10.26,No,0,24,78,Friday
+13,1974,5/7/2024,Personal Care,11.62,Yes,30,36,162,Sunday
+1,1277,5/12/2024,Home,27.24,Yes,30,19,40,Saturday
+5,1773,2/14/2024,Electronics,1.6,Yes,0,22,133,Friday
+23,1215,6/22/2024,Clothing,23.05,Yes,30,41,211,Thursday
+40,1858,4/19/2024,Home,20.75,Yes,0,33,430,Monday
+24,1157,11/30/2024,Personal Care,17.88,No,0,24,219,Sunday
+28,1669,7/8/2024,Personal Care,13.82,No,0,26,300,Sunday
+35,1085,8/9/2024,Personal Care,4.47,No,0,10,468,Wednesday
+20,1843,1/5/2024,Grocery,23.76,No,0,44,437,Saturday
+32,1742,12/21/2024,Clothing,13.2,Yes,30,30,329,Monday
+24,1928,3/1/2024,Clothing,12.08,Yes,5,36,203,Saturday
+29,1542,6/5/2024,Home,29.55,No,0,22,311,Friday
+16,1086,7/4/2024,Clothing,13.5,Yes,15,51,498,Saturday
+13,1756,10/15/2024,Clothing,1.48,No,0,29,366,Thursday
+6,1777,8/20/2024,Clothing,16.48,Yes,20,20,308,Tuesday
+37,1302,1/12/2024,Home,1.41,Yes,20,14,49,Friday
+22,1083,5/20/2024,Grocery,3.12,No,0,10,423,Friday
+7,1763,11/28/2024,Home,13.35,Yes,0,24,344,Saturday
+49,1470,7/20/2024,Clothing,10.55,Yes,15,29,411,Friday
+32,1550,2/7/2024,Personal Care,14.33,No,0,36,364,Tuesday
+1,1825,7/12/2024,Grocery,2.39,No,0,37,407,Sunday
+8,1431,8/3/2024,Electronics,19.53,Yes,20,19,205,Saturday
+21,1209,7/18/2024,Home,10.56,Yes,30,31,212,Saturday
+20,1748,2/28/2024,Clothing,22.17,No,0,35,160,Monday
+2,1598,9/3/2024,Grocery,27.04,Yes,5,35,487,Monday
+38,1241,11/3/2024,Home,13.3,Yes,5,19,114,Wednesday
+12,1932,6/8/2024,Personal Care,24.86,Yes,15,33,114,Wednesday
+26,1936,6/24/2024,Personal Care,23.04,No,0,36,456,Wednesday
+4,1222,3/9/2024,Home,4.28,No,0,30,461,Tuesday
+1,1895,8/29/2024,Clothing,22.1,No,0,20,423,Monday
+27,1160,6/13/2024,Electronics,18.93,Yes,30,21,235,Friday
+34,1547,1/28/2024,Electronics,11.12,Yes,30,28,399,Friday
+9,1084,6/29/2024,Clothing,23.92,Yes,0,24,124,Sunday
+48,1600,10/5/2024,Personal Care,25.68,Yes,15,13,375,Thursday
+29,1213,1/20/2024,Personal Care,12.93,Yes,5,11,233,Tuesday
+21,1318,7/26/2024,Grocery,17.42,No,0,34,100,Sunday
+24,1076,12/17/2024,Electronics,23.28,No,0,19,259,Saturday
+42,1455,1/7/2024,Home,4.83,No,0,12,366,Thursday
+30,1790,1/6/2024,Electronics,29.65,No,0,12,141,Wednesday
+48,1305,6/21/2024,Home,25.73,Yes,10,41,341,Thursday
+47,1112,6/17/2024,Clothing,23.25,Yes,10,31,116,Tuesday
+29,1846,7/14/2024,Grocery,11.71,No,0,36,390,Saturday
+12,1197,7/24/2024,Grocery,4.67,Yes,20,20,68,Tuesday
+8,1444,7/27/2024,Grocery,19.47,Yes,0,15,136,Monday
+42,1210,3/16/2024,Home,14.49,No,0,13,494,Friday
+47,1410,11/9/2024,Clothing,20.27,No,0,5,491,Thursday
+20,1666,8/13/2024,Grocery,10.53,Yes,10,28,189,Tuesday
+19,1844,2/22/2024,Personal Care,23.32,No,0,26,124,Friday
+36,1239,6/29/2024,Personal Care,29.72,Yes,10,26,412,Friday
+46,1723,4/10/2024,Personal Care,20.99,Yes,20,42,385,Tuesday
+37,1427,12/22/2024,Clothing,1.59,Yes,0,35,89,Tuesday
+29,1996,3/10/2024,Electronics,13.98,Yes,10,14,156,Thursday
+48,1918,6/20/2024,Personal Care,23.81,Yes,20,19,488,Wednesday
+16,1776,10/20/2024,Clothing,6.46,Yes,0,38,167,Saturday
+30,1032,7/25/2024,Electronics,7.29,Yes,20,23,300,Sunday
+40,1606,11/23/2024,Grocery,27.46,Yes,10,41,407,Saturday
+34,1395,3/1/2024,Personal Care,6.99,Yes,15,17,259,Monday
+16,1581,6/19/2024,Grocery,17.11,Yes,10,23,286,Tuesday
+26,1982,9/11/2024,Personal Care,26.78,Yes,30,30,363,Sunday
+49,1288,9/5/2024,Home,4.69,No,0,31,196,Thursday
+37,1117,9/26/2024,Clothing,28.77,No,0,12,442,Thursday
+4,1303,11/11/2024,Home,22,No,0,25,235,Monday
+38,1898,2/5/2024,Electronics,15.92,No,0,34,404,Sunday
+4,1487,12/21/2024,Grocery,5.59,No,0,30,144,Friday
+16,1900,2/5/2024,Clothing,22.05,Yes,20,44,176,Saturday
+15,1665,8/3/2024,Personal Care,22.87,No,0,25,308,Sunday
+8,1903,10/2/2024,Personal Care,5.52,Yes,0,23,286,Sunday
+2,1332,3/29/2024,Grocery,19.06,Yes,10,36,144,Saturday
+10,1365,12/20/2024,Personal Care,18.55,No,0,30,437,Friday
+20,1332,9/12/2024,Electronics,9.95,Yes,10,22,35,Thursday
+13,1323,6/30/2024,Home,19.85,Yes,5,19,171,Sunday
+13,1545,11/19/2024,Electronics,1.15,Yes,30,56,470,Saturday
+18,1890,8/3/2024,Electronics,8.34,Yes,30,31,74,Wednesday
+15,1882,6/6/2024,Grocery,14.21,No,0,15,232,Monday
+33,1680,5/31/2024,Clothing,29.6,Yes,10,32,112,Saturday
+12,1683,4/25/2024,Clothing,15.75,Yes,20,28,284,Tuesday
+5,1543,1/24/2024,Grocery,5.92,Yes,15,41,59,Thursday
+37,1089,3/25/2024,Clothing,25.06,No,0,32,295,Wednesday
+2,1190,3/18/2024,Grocery,8.26,Yes,5,51,162,Saturday
+1,1951,9/12/2024,Grocery,25.97,No,0,39,489,Sunday
+21,1674,9/4/2024,Grocery,7.86,Yes,20,42,417,Saturday
+48,1974,9/29/2024,Electronics,21.66,No,0,48,278,Sunday
+43,1451,10/7/2024,Clothing,24.82,Yes,0,20,331,Thursday
+38,1617,9/12/2024,Clothing,29.83,Yes,10,21,270,Friday
+12,1332,3/18/2024,Personal Care,1.94,Yes,20,37,385,Monday
+29,1740,5/14/2024,Grocery,1.22,No,0,37,432,Thursday
+38,1810,5/1/2024,Personal Care,3.47,Yes,5,50,311,Saturday
+40,1756,9/26/2024,Clothing,6.48,Yes,10,27,237,Monday
+11,1387,5/10/2024,Electronics,24.61,No,0,47,65,Saturday
+4,1323,7/29/2024,Home,7.04,No,0,44,373,Saturday
+49,1779,11/3/2024,Electronics,15.42,Yes,30,37,41,Tuesday
+1,1246,7/28/2024,Personal Care,6.42,No,0,17,287,Saturday
+28,1958,2/9/2024,Grocery,6.29,Yes,15,38,304,Wednesday
+16,1428,8/24/2024,Grocery,28.34,Yes,10,42,149,Monday
+3,1164,7/25/2024,Personal Care,9.8,No,0,18,178,Wednesday
+30,1880,7/20/2024,Electronics,27.11,Yes,30,22,195,Friday
+27,1355,5/6/2024,Electronics,16.11,No,0,18,420,Monday
+39,1478,6/6/2024,Home,23,Yes,15,21,124,Thursday
+32,1209,10/3/2024,Home,18.81,No,0,26,340,Saturday
+18,1635,1/10/2024,Personal Care,17.66,Yes,0,28,373,Wednesday
+18,1105,7/3/2024,Grocery,7.95,No,0,18,282,Thursday
+47,1859,3/2/2024,Grocery,6.78,No,0,30,90,Sunday
+21,1262,9/22/2024,Grocery,13.69,No,0,29,250,Monday
+3,1192,3/18/2024,Personal Care,12.87,No,0,36,331,Tuesday
+28,1490,10/5/2024,Electronics,24.88,Yes,0,31,126,Wednesday
+43,1386,3/16/2024,Electronics,21.67,No,0,43,180,Saturday
+34,1886,7/1/2024,Electronics,11.98,No,0,29,227,Tuesday
+9,1041,1/13/2024,Home,4.7,No,0,18,209,Wednesday
+14,1571,12/18/2024,Clothing,23.68,Yes,30,25,172,Saturday
+6,1818,8/6/2024,Grocery,27.8,Yes,10,33,140,Sunday
+22,1291,9/11/2024,Clothing,16.57,No,0,29,50,Thursday
+23,1681,12/30/2024,Electronics,9.57,Yes,15,18,123,Thursday
+31,1596,5/11/2024,Personal Care,21.81,Yes,30,20,195,Thursday
+26,1278,1/28/2024,Home,13.13,Yes,15,12,81,Wednesday
+17,1074,1/13/2024,Grocery,20.79,No,0,35,260,Saturday
+17,1834,12/8/2024,Electronics,14.71,No,0,24,476,Wednesday
+24,1031,10/21/2024,Electronics,26.8,No,0,26,216,Friday
+5,1282,2/4/2024,Home,3.59,Yes,20,35,297,Thursday
+9,1699,9/16/2024,Clothing,18.91,No,0,7,485,Thursday
+10,1619,4/8/2024,Clothing,13.14,No,0,6,204,Thursday
+34,1000,10/5/2024,Home,9.85,No,0,20,368,Tuesday
+6,1639,10/14/2024,Clothing,0.64,Yes,20,54,272,Sunday
+46,1212,12/22/2024,Home,11.31,No,0,25,73,Monday
+22,1636,12/18/2024,Home,28.62,Yes,5,16,442,Tuesday
+24,1766,12/8/2024,Personal Care,23.59,No,0,23,209,Thursday
+46,1182,9/20/2024,Electronics,20.91,Yes,30,31,147,Wednesday
+8,1869,8/19/2024,Personal Care,3.09,Yes,0,34,473,Saturday
+31,1054,6/25/2024,Clothing,28.32,No,0,26,40,Tuesday
+24,1732,12/15/2024,Clothing,16.77,No,0,31,149,Saturday
+37,1848,3/7/2024,Personal Care,8.01,No,0,28,458,Sunday
+11,1128,4/12/2024,Home,17.72,Yes,20,36,399,Sunday
+1,1483,10/26/2024,Electronics,25.94,No,0,26,138,Saturday
+25,1955,12/13/2024,Electronics,11.47,No,0,30,234,Wednesday
+13,1292,7/1/2024,Personal Care,2.49,Yes,30,23,80,Sunday
+31,1175,7/10/2024,Grocery,5.42,No,0,39,188,Monday
+15,1401,11/12/2024,Home,13.16,No,0,33,429,Sunday
+35,1289,3/16/2024,Home,6.31,No,0,28,365,Saturday
+28,1123,3/18/2024,Clothing,7.67,Yes,20,40,497,Wednesday
+18,1640,7/23/2024,Clothing,1.28,No,0,14,309,Friday
+36,1265,10/13/2024,Grocery,13.69,Yes,0,28,266,Tuesday
+43,1080,1/3/2024,Electronics,6.71,Yes,0,34,477,Sunday
+27,1495,1/17/2024,Home,14.27,No,0,27,91,Sunday
+36,1631,12/2/2024,Personal Care,14.89,No,0,18,305,Monday
+29,1584,1/25/2024,Electronics,10.83,No,0,20,116,Wednesday
+18,1367,1/13/2024,Personal Care,1.59,Yes,20,23,80,Saturday
+5,1982,7/5/2024,Grocery,13.19,Yes,20,22,258,Monday
+26,1315,9/29/2024,Grocery,22.09,No,0,36,434,Tuesday
+17,1920,11/15/2024,Grocery,20.24,No,0,41,450,Saturday
+33,1672,5/21/2024,Clothing,0.88,Yes,5,29,185,Thursday
+5,1926,11/30/2024,Clothing,26.17,No,0,22,201,Wednesday
+14,1048,3/7/2024,Personal Care,24.83,Yes,10,18,191,Tuesday
+10,1381,6/28/2024,Electronics,12.97,Yes,5,15,197,Monday
+26,1097,6/13/2024,Personal Care,18.14,Yes,0,8,224,Friday
+38,1329,8/8/2024,Home,8.88,Yes,5,12,184,Monday
+18,1071,12/12/2024,Home,9.49,No,0,26,229,Sunday
+47,1649,12/5/2024,Home,13.69,Yes,10,16,288,Monday
+29,1876,12/31/2024,Home,26.87,Yes,5,28,335,Friday
+28,1681,8/27/2024,Home,21.17,Yes,0,44,448,Saturday
+33,1942,1/17/2024,Personal Care,16.25,Yes,15,10,327,Friday
+39,1055,6/15/2024,Electronics,26.19,No,0,7,248,Wednesday
+13,1754,8/28/2024,Personal Care,22.49,No,0,25,188,Wednesday
+15,1191,11/28/2024,Electronics,16.96,Yes,5,13,405,Thursday
+12,1890,1/20/2024,Clothing,5.19,Yes,20,13,148,Wednesday
+1,1886,8/6/2024,Electronics,10.76,No,0,39,252,Tuesday
+7,1568,8/13/2024,Home,20.53,No,0,9,349,Tuesday
+5,1815,3/18/2024,Clothing,10.4,Yes,15,43,457,Monday
+19,1120,8/1/2024,Electronics,7.81,Yes,10,16,38,Wednesday
+32,1073,2/15/2024,Electronics,25.66,No,0,35,35,Sunday
+36,1684,8/8/2024,Home,22.3,No,0,27,468,Saturday
+43,1617,4/16/2024,Electronics,1.12,No,0,22,378,Wednesday
+3,1132,5/22/2024,Grocery,7.9,Yes,5,35,375,Friday
+20,1200,1/5/2024,Grocery,11.09,No,0,27,332,Friday
+50,1418,4/12/2024,Electronics,28.83,Yes,30,30,387,Wednesday
+18,1467,3/9/2024,Personal Care,3.42,No,0,31,237,Wednesday
+16,1504,10/23/2024,Grocery,5.56,Yes,10,43,283,Saturday
+15,1956,9/1/2024,Home,12.16,Yes,10,36,457,Monday
+41,1065,7/6/2024,Home,8.63,No,0,33,327,Tuesday
+19,1677,12/21/2024,Grocery,14.15,No,0,22,319,Thursday
+38,1916,5/8/2024,Home,28.02,Yes,0,13,230,Wednesday
+35,1673,2/20/2024,Home,17.72,No,0,11,194,Monday
+47,1604,12/8/2024,Clothing,9.07,Yes,10,3,28,Wednesday
+30,1517,6/10/2024,Home,1.45,Yes,15,18,57,Wednesday
+28,1848,4/27/2024,Personal Care,27.97,Yes,5,30,30,Sunday
+42,1954,4/21/2024,Personal Care,29.21,Yes,0,30,54,Thursday
+33,1404,2/19/2024,Grocery,24.43,Yes,15,27,209,Sunday
+43,1830,8/30/2024,Grocery,0.64,Yes,30,27,376,Friday
+24,1967,1/13/2024,Grocery,18.24,No,0,28,99,Monday
+8,1794,2/18/2024,Clothing,14.88,No,0,39,294,Friday
+43,1090,9/17/2024,Personal Care,21.27,Yes,0,13,310,Tuesday
+16,1604,7/30/2024,Home,13.13,No,0,30,200,Sunday
+7,1470,3/11/2024,Grocery,2.72,Yes,20,44,251,Tuesday
+27,1632,11/9/2024,Grocery,21.13,Yes,5,17,308,Friday
+48,1754,12/30/2024,Home,17.43,Yes,5,23,98,Sunday
+26,1112,9/9/2024,Clothing,6.91,No,0,6,291,Friday
+14,1267,10/1/2024,Grocery,22.74,Yes,15,13,233,Wednesday
+42,1907,10/13/2024,Electronics,27.41,No,0,18,188,Thursday
+48,1614,5/12/2024,Electronics,23.76,Yes,15,25,340,Wednesday
+23,1664,8/8/2024,Clothing,15.56,Yes,15,32,425,Thursday
+4,1167,9/27/2024,Home,18.96,Yes,0,48,179,Sunday
+44,1101,12/31/2024,Clothing,22.92,No,0,29,224,Sunday
+34,1767,9/26/2024,Home,1.82,No,0,19,204,Thursday
+1,1704,10/30/2024,Clothing,0.86,No,0,11,228,Friday
+20,1214,11/7/2024,Personal Care,10.58,No,0,38,326,Saturday
+34,1776,6/25/2024,Grocery,2.79,No,0,12,114,Thursday
+42,1880,7/10/2024,Home,4.3,Yes,10,34,321,Wednesday
+6,1406,4/25/2024,Clothing,4.17,No,0,21,312,Saturday
+19,1657,5/24/2024,Grocery,13.94,Yes,10,26,96,Sunday
+9,1949,6/23/2024,Grocery,20.58,Yes,15,43,339,Monday
+27,1343,12/13/2024,Grocery,25.77,Yes,20,39,299,Monday
+25,1775,8/17/2024,Home,7.56,Yes,15,26,370,Sunday
+8,1979,7/1/2024,Personal Care,5.33,No,0,19,183,Saturday
+45,1976,11/30/2024,Personal Care,29.66,Yes,30,30,80,Thursday
+9,1859,3/4/2024,Electronics,5.16,Yes,0,39,232,Wednesday
+25,1205,12/11/2024,Home,11.72,No,0,32,228,Monday
+33,1797,9/3/2024,Grocery,20.71,No,0,39,373,Sunday
+23,1843,3/24/2024,Clothing,23,Yes,20,9,185,Tuesday
+23,1789,10/25/2024,Electronics,15.94,No,0,34,251,Friday
+15,1647,5/13/2024,Clothing,20.18,No,0,36,187,Monday
+25,1249,4/19/2024,Home,17.32,Yes,10,23,491,Monday
+30,1396,9/6/2024,Grocery,25.79,Yes,20,42,112,Thursday
+33,1867,3/17/2024,Grocery,9.97,Yes,20,38,72,Saturday
+32,1341,9/7/2024,Electronics,29.1,No,0,40,310,Tuesday
+16,1802,3/20/2024,Electronics,18.79,No,0,11,432,Wednesday
+38,1172,7/7/2024,Clothing,8.66,No,0,17,81,Tuesday
+8,1255,7/2/2024,Grocery,15.41,Yes,30,27,433,Wednesday
+17,1574,3/8/2024,Clothing,7.56,No,0,23,361,Wednesday
+33,1155,7/18/2024,Electronics,20.36,Yes,10,19,34,Wednesday
+35,1768,12/3/2024,Personal Care,22.79,Yes,20,19,65,Friday
+50,1371,11/29/2024,Personal Care,26.65,No,0,32,176,Monday
+23,1746,4/20/2024,Personal Care,10.06,No,0,38,251,Saturday
+36,1112,10/21/2024,Grocery,11.58,No,0,9,473,Tuesday
+13,1376,6/7/2024,Clothing,12.88,Yes,0,12,497,Friday
+2,1423,10/19/2024,Electronics,6.26,Yes,30,20,360,Monday
+6,1539,12/21/2024,Clothing,28.56,Yes,15,29,289,Saturday
+27,1142,9/5/2024,Electronics,25.58,No,0,11,493,Tuesday
+6,1138,6/2/2024,Clothing,3.72,No,0,35,35,Friday
+10,1879,8/6/2024,Grocery,14.24,Yes,30,45,159,Tuesday
+11,1088,9/22/2024,Electronics,25.44,No,0,25,427,Friday
+2,1424,1/17/2024,Electronics,1.8,Yes,0,34,172,Sunday
+26,1853,4/28/2024,Home,8.13,Yes,0,18,210,Monday
+1,1920,5/3/2024,Clothing,14.85,No,0,30,132,Wednesday
+34,1691,6/29/2024,Home,2.45,No,0,36,289,Saturday
+14,1259,8/19/2024,Home,27.18,Yes,15,17,109,Tuesday
+39,1535,10/21/2024,Clothing,9.54,No,0,21,114,Tuesday
+20,1521,6/17/2024,Electronics,23.98,Yes,5,10,179,Tuesday
+44,1781,9/14/2024,Electronics,28.11,Yes,5,11,296,Monday
+24,1685,7/1/2024,Grocery,18.58,Yes,0,13,232,Friday
+22,1809,4/15/2024,Home,3.49,No,0,19,89,Thursday
+32,1033,7/13/2024,Grocery,12.25,Yes,15,11,438,Monday
+32,1983,4/25/2024,Clothing,17.9,Yes,5,16,54,Tuesday
+3,1197,5/1/2024,Electronics,14.5,Yes,5,36,92,Sunday
+24,1381,3/2/2024,Clothing,29.23,Yes,30,50,473,Saturday
+8,1314,6/13/2024,Electronics,6.49,Yes,5,9,391,Wednesday
+37,1453,9/26/2024,Clothing,24.35,Yes,10,41,289,Friday
+20,1998,12/12/2024,Personal Care,4.27,Yes,30,15,134,Monday
+19,1495,11/2/2024,Home,8.11,Yes,10,13,346,Friday
+10,1966,8/28/2024,Grocery,14.84,No,0,17,258,Monday
+11,1046,3/29/2024,Home,18.47,No,0,23,298,Monday
+40,1668,2/2/2024,Home,9.16,Yes,0,36,132,Thursday
+3,1344,5/13/2024,Personal Care,1.5,Yes,10,21,27,Tuesday
+40,1760,6/11/2024,Electronics,23.51,No,0,21,372,Thursday
+28,1553,10/27/2024,Home,15.1,Yes,20,35,317,Friday
+44,1958,11/14/2024,Electronics,11,No,0,19,487,Thursday
+16,1568,10/25/2024,Home,19.68,No,0,25,411,Tuesday
+41,1703,1/2/2024,Clothing,6.95,No,0,21,165,Saturday
+42,1388,12/17/2024,Grocery,20.13,Yes,15,50,401,Sunday
+37,1867,11/19/2024,Personal Care,27.64,No,0,36,225,Wednesday
+4,1656,3/14/2024,Grocery,19.43,Yes,0,35,183,Thursday
+4,1240,10/25/2024,Home,11.97,No,0,17,45,Monday
+7,1436,6/29/2024,Personal Care,2.2,No,0,47,119,Saturday
+19,1323,12/6/2024,Personal Care,2.88,Yes,15,17,459,Thursday
+45,1854,8/16/2024,Clothing,21.1,No,0,18,494,Tuesday
+20,1820,3/31/2024,Grocery,27.85,Yes,30,38,146,Sunday
+2,1979,9/19/2024,Clothing,19.98,No,0,7,385,Tuesday
+43,1163,2/26/2024,Clothing,19.78,No,0,19,497,Saturday
+40,1710,5/13/2024,Personal Care,12.29,No,0,16,179,Wednesday
+28,1888,7/27/2024,Home,27.08,Yes,30,24,392,Saturday
+15,1393,12/30/2024,Clothing,0.6,No,0,46,272,Saturday
+15,1669,11/12/2024,Grocery,2.1,Yes,5,30,275,Sunday
+18,1707,4/5/2024,Grocery,28.94,Yes,20,38,240,Wednesday
+22,1336,1/28/2024,Grocery,27.03,No,0,21,371,Sunday
+22,1111,5/23/2024,Electronics,12.4,No,0,18,257,Sunday
+46,1548,1/26/2024,Home,21.9,No,0,11,53,Monday
+16,1444,6/16/2024,Home,22.05,Yes,10,30,122,Friday
+34,1880,11/23/2024,Personal Care,3.36,No,0,18,46,Wednesday
+6,1124,8/7/2024,Home,17.47,Yes,15,38,491,Tuesday
+42,1946,9/13/2024,Clothing,19.99,No,0,50,410,Saturday
+13,1186,1/30/2024,Personal Care,24.51,No,0,5,26,Friday
+18,1785,11/27/2024,Grocery,6.65,Yes,20,39,159,Sunday
+31,1198,5/9/2024,Grocery,29.41,Yes,15,14,51,Thursday
+9,1435,9/12/2024,Personal Care,23.04,Yes,0,33,157,Thursday
+44,1884,11/11/2024,Home,10.52,No,0,30,437,Saturday
+4,1584,8/30/2024,Home,2.4,Yes,30,26,308,Tuesday
+47,1479,11/12/2024,Grocery,1.18,No,0,40,57,Saturday
+41,1122,6/20/2024,Clothing,9.01,Yes,30,31,269,Friday
+48,1408,4/8/2024,Clothing,1.4,Yes,30,37,280,Friday
+24,1678,8/11/2024,Electronics,1.88,Yes,30,24,157,Thursday
+27,1893,6/4/2024,Personal Care,19.05,No,0,6,181,Tuesday
+30,1675,7/11/2024,Personal Care,4.14,No,0,40,396,Thursday
+47,1618,11/2/2024,Home,16.94,Yes,30,25,136,Wednesday
+35,1600,6/23/2024,Personal Care,18.32,Yes,30,16,172,Tuesday
+23,1784,8/6/2024,Clothing,29.65,No,0,28,28,Sunday
+20,1978,4/10/2024,Home,4.19,No,0,40,133,Sunday
+42,1400,2/4/2024,Personal Care,2.94,No,0,18,318,Monday
+17,1262,12/27/2024,Personal Care,29.66,No,0,35,402,Wednesday
+47,1521,1/12/2024,Clothing,17.19,Yes,0,35,89,Sunday
+11,1944,11/16/2024,Home,23.73,No,0,25,290,Thursday
+44,1148,2/20/2024,Personal Care,27.66,No,0,41,168,Sunday
+29,1583,1/12/2024,Clothing,2.47,No,0,40,256,Friday
+1,1307,10/6/2024,Electronics,14.94,No,0,9,408,Monday
+46,1280,3/15/2024,Clothing,28.77,No,0,29,444,Tuesday
+10,1807,6/8/2024,Personal Care,24.18,Yes,20,34,211,Thursday
+41,1813,1/14/2024,Electronics,10.72,Yes,5,6,33,Monday
+43,1838,5/29/2024,Clothing,11.32,Yes,15,14,49,Saturday
+14,1866,8/30/2024,Clothing,9.15,No,0,26,378,Wednesday
+39,1517,7/2/2024,Electronics,1.63,No,0,33,489,Sunday
+42,1987,6/23/2024,Home,22.97,Yes,20,18,337,Wednesday
+31,1363,11/5/2024,Clothing,18.16,Yes,5,16,488,Friday
+31,1373,1/31/2024,Electronics,9.35,No,0,29,466,Sunday
+38,1025,2/18/2024,Clothing,20.69,Yes,30,45,401,Monday
+25,1064,2/22/2024,Home,2.31,No,0,39,409,Thursday
+45,1694,6/14/2024,Grocery,1.35,Yes,20,18,159,Monday
+23,1255,7/3/2024,Grocery,19.64,No,0,6,133,Friday
+2,1372,6/7/2024,Home,10.69,No,0,5,173,Wednesday
+7,1480,12/12/2024,Personal Care,24.74,Yes,10,17,108,Monday
+45,1735,9/13/2024,Electronics,8.27,No,0,43,299,Sunday
+30,1454,9/27/2024,Personal Care,17.42,No,0,21,205,Friday
+26,1032,11/27/2024,Grocery,22.33,Yes,10,21,31,Wednesday
+24,1889,10/12/2024,Home,25.9,No,0,17,166,Friday
+26,1513,10/10/2024,Electronics,28.83,No,0,10,401,Thursday
+22,1556,8/6/2024,Personal Care,24.26,Yes,0,39,76,Tuesday
+34,1365,2/8/2024,Personal Care,23.27,No,0,28,39,Sunday
+29,1575,8/10/2024,Personal Care,5.11,Yes,5,13,428,Thursday
+30,1762,5/4/2024,Home,22.89,Yes,20,13,383,Tuesday
+37,1943,11/19/2024,Personal Care,9.37,No,0,26,353,Friday
+39,1074,5/4/2024,Clothing,1.23,Yes,5,29,389,Saturday
+17,1192,4/24/2024,Electronics,14.17,Yes,20,20,287,Monday
+13,1649,1/16/2024,Electronics,2.84,No,0,18,37,Saturday
+21,1650,2/28/2024,Personal Care,19.89,No,0,16,432,Wednesday
+25,1732,11/27/2024,Electronics,0.77,Yes,20,25,175,Thursday
+38,1285,5/18/2024,Electronics,17.51,No,0,20,355,Monday
+25,1296,12/6/2024,Grocery,28.12,Yes,0,20,148,Tuesday
+32,1007,1/31/2024,Home,26.45,No,0,35,498,Saturday
+4,1119,1/15/2024,Clothing,20.65,No,0,21,82,Friday
+10,1965,10/30/2024,Personal Care,25.44,No,0,29,305,Wednesday
+29,1194,9/5/2024,Grocery,7.88,Yes,20,19,25,Thursday
+15,1864,8/11/2024,Personal Care,3.69,Yes,5,35,117,Thursday
+5,1151,5/21/2024,Electronics,15.88,Yes,10,29,389,Monday
+10,1088,12/31/2024,Grocery,25.69,Yes,0,39,143,Saturday
+38,1115,4/27/2024,Clothing,6.18,No,0,17,328,Sunday
+5,1655,9/24/2024,Electronics,7.87,Yes,15,20,77,Thursday
+10,1387,10/17/2024,Personal Care,3.39,Yes,20,35,425,Thursday
+3,1629,1/15/2024,Electronics,4.44,No,0,19,22,Thursday
+19,1554,5/26/2024,Electronics,14.25,Yes,15,43,474,Sunday
+46,1110,11/30/2024,Grocery,7.07,No,0,38,429,Saturday
+49,1803,2/20/2024,Electronics,11.3,No,0,20,172,Wednesday
+49,1257,2/27/2024,Personal Care,26.22,No,0,36,462,Sunday
+38,1619,12/12/2024,Personal Care,5.44,No,0,38,463,Saturday
+42,1276,10/19/2024,Electronics,24.13,No,0,45,139,Sunday
+9,1795,12/1/2024,Grocery,11.13,No,0,10,274,Friday
+13,1274,8/17/2024,Grocery,18.28,No,0,29,126,Wednesday
+35,1869,5/14/2024,Electronics,11.25,Yes,10,29,279,Saturday
+1,1704,1/2/2024,Clothing,16.07,No,0,12,395,Monday
+5,1441,4/29/2024,Home,26.76,No,0,6,260,Friday
+18,1325,10/14/2024,Home,7.78,No,0,31,458,Thursday
+35,1701,11/12/2024,Electronics,10.38,No,0,44,390,Saturday
+44,1036,8/3/2024,Home,27.34,Yes,5,16,335,Friday
+42,1059,7/8/2024,Grocery,8,Yes,20,41,364,Saturday
+44,1261,10/7/2024,Home,1.96,Yes,15,34,366,Sunday
+31,1234,2/21/2024,Grocery,15.74,Yes,0,16,348,Saturday
+9,1095,11/4/2024,Clothing,24.51,Yes,0,27,102,Friday
+28,1567,11/22/2024,Personal Care,5.42,No,0,38,363,Saturday
+29,1792,5/26/2024,Home,10.36,Yes,30,29,296,Wednesday
+31,1615,9/17/2024,Electronics,19.68,Yes,0,21,245,Thursday
+24,1621,7/6/2024,Grocery,21.4,No,0,13,50,Friday
+18,1403,12/16/2024,Home,12.38,Yes,15,34,331,Friday
+8,1047,12/25/2024,Home,16.8,No,0,10,457,Wednesday
+37,1433,2/20/2024,Personal Care,22.34,Yes,30,20,97,Thursday
+24,1393,4/19/2024,Grocery,9.93,Yes,15,27,352,Wednesday
+9,1116,2/2/2024,Personal Care,0.63,Yes,15,18,92,Tuesday
+39,1052,5/24/2024,Grocery,28.15,Yes,5,17,190,Thursday
+36,1038,11/29/2024,Clothing,14.22,Yes,15,14,419,Monday
+3,1933,11/4/2024,Electronics,19.75,No,0,28,481,Sunday
+14,1793,11/25/2024,Grocery,19.76,No,0,31,174,Wednesday
+4,1741,8/1/2024,Grocery,17.67,Yes,15,28,336,Tuesday
+35,1885,5/25/2024,Electronics,21.14,Yes,5,38,452,Friday
+49,1248,6/21/2024,Home,7.51,No,0,21,467,Tuesday
+7,1236,3/27/2024,Electronics,29.02,Yes,15,40,52,Monday
+24,1203,7/7/2024,Grocery,17.74,No,0,46,453,Saturday
+6,1719,9/15/2024,Personal Care,7.71,Yes,20,17,330,Tuesday
+27,1800,7/6/2024,Grocery,21.75,No,0,28,228,Tuesday
+36,1867,5/17/2024,Electronics,27.01,No,0,27,200,Thursday
+17,1393,6/10/2024,Personal Care,12.27,No,0,17,368,Saturday
+45,1145,11/22/2024,Personal Care,4.62,Yes,10,14,322,Thursday
+15,1096,2/4/2024,Clothing,26.28,Yes,20,50,150,Sunday
+28,1825,5/22/2024,Clothing,29.15,No,0,33,123,Sunday
+32,1196,1/7/2024,Grocery,20.14,Yes,5,26,347,Friday
+1,1247,8/20/2024,Home,17.67,Yes,0,50,425,Saturday
+34,1431,8/12/2024,Clothing,25.02,No,0,7,183,Wednesday
+9,1349,11/18/2024,Grocery,11.06,Yes,10,24,338,Sunday
+40,1160,6/2/2024,Clothing,7.71,Yes,20,35,67,Tuesday
+49,1464,11/26/2024,Grocery,24.17,No,0,10,479,Wednesday
+34,1542,7/30/2024,Personal Care,19.87,Yes,10,17,362,Monday
+48,1048,3/23/2024,Clothing,29.71,No,0,24,67,Sunday
+37,1587,5/23/2024,Personal Care,5.16,No,0,15,91,Thursday
+32,1560,7/12/2024,Grocery,14.08,Yes,10,7,431,Thursday
+27,1336,9/23/2024,Electronics,9.16,Yes,10,28,156,Saturday
+44,1476,2/24/2024,Personal Care,18.03,No,0,3,41,Wednesday
+1,1984,4/19/2024,Home,6.13,Yes,20,40,292,Friday
+12,1719,9/10/2024,Personal Care,26.16,Yes,15,46,442,Saturday
+6,1931,1/3/2024,Home,9.04,Yes,10,21,104,Thursday
+42,1867,10/2/2024,Clothing,5.72,No,0,23,66,Tuesday
+30,1517,12/16/2024,Clothing,18.4,No,0,23,33,Thursday
+37,1367,1/17/2024,Personal Care,23.71,Yes,5,25,43,Friday
+2,1083,6/11/2024,Electronics,3.75,No,0,27,362,Tuesday
+38,1703,11/12/2024,Home,15.6,Yes,10,10,422,Tuesday
+29,1783,4/28/2024,Electronics,14.28,Yes,5,6,73,Wednesday
+50,1092,6/4/2024,Grocery,3.91,Yes,5,36,213,Wednesday
+7,1812,5/14/2024,Grocery,19.01,No,0,35,201,Monday
+22,1205,4/24/2024,Grocery,12.7,No,0,15,291,Monday
+38,1697,6/12/2024,Electronics,19.29,No,0,9,482,Thursday
+3,1051,5/31/2024,Clothing,4.08,No,0,47,463,Sunday
+5,1421,5/5/2024,Home,12.47,No,0,31,224,Monday
+5,1793,1/27/2024,Clothing,24.98,No,0,36,244,Tuesday
+37,1551,5/28/2024,Clothing,17.38,No,0,30,299,Wednesday
+38,1503,7/12/2024,Grocery,1.18,No,0,26,365,Monday
+11,1117,5/1/2024,Grocery,11.55,Yes,0,34,171,Sunday
+1,1454,10/1/2024,Personal Care,20.18,Yes,30,34,470,Monday
+42,1505,2/19/2024,Clothing,7.15,Yes,15,43,71,Thursday
+44,1307,8/24/2024,Personal Care,16.31,No,0,14,277,Thursday
+4,1613,8/31/2024,Electronics,24.21,Yes,20,44,294,Friday
+10,1918,9/7/2024,Grocery,15.87,Yes,20,26,104,Friday
+22,1230,7/12/2024,Clothing,26.46,No,0,5,439,Thursday
+38,1957,12/24/2024,Personal Care,3.81,No,0,8,383,Thursday
+11,1106,10/23/2024,Home,3.65,Yes,15,29,265,Tuesday
+44,1513,2/26/2024,Electronics,19.44,Yes,15,43,84,Wednesday
+34,1445,3/9/2024,Personal Care,14.16,No,0,35,230,Friday
+15,1724,5/5/2024,Electronics,13.25,Yes,30,54,484,Sunday
+43,1301,6/8/2024,Grocery,19.33,No,0,37,330,Saturday
+43,1242,2/21/2024,Electronics,5.8,Yes,5,18,394,Sunday
+18,1994,10/24/2024,Home,5.34,Yes,10,35,300,Monday
+34,1617,12/5/2024,Clothing,5.74,No,0,22,412,Friday
+15,1761,2/29/2024,Grocery,26.68,Yes,5,17,151,Tuesday
+37,1696,2/8/2024,Grocery,29.22,No,0,36,454,Saturday
+4,1915,10/26/2024,Home,2.28,No,0,36,51,Friday
+24,1060,11/23/2024,Grocery,28.16,Yes,30,48,182,Saturday
+29,1452,12/14/2024,Personal Care,16.01,No,0,14,256,Tuesday
+15,1140,4/23/2024,Home,29.82,Yes,5,16,21,Thursday
+47,1314,11/10/2024,Electronics,28.97,Yes,30,22,432,Monday
+43,1055,12/14/2024,Personal Care,15.01,Yes,10,29,347,Monday
+30,1470,1/8/2024,Personal Care,2.65,No,0,9,330,Thursday
+1,1660,6/14/2024,Personal Care,25.66,Yes,20,12,207,Wednesday
+50,1614,4/17/2024,Home,20.63,No,0,7,323,Tuesday
+21,1939,6/28/2024,Grocery,26.47,No,0,40,382,Monday
+45,1896,2/19/2024,Personal Care,23.84,No,0,9,181,Wednesday
+39,1522,8/4/2024,Clothing,13.01,No,0,10,400,Monday
+37,1543,6/3/2024,Electronics,2.37,No,0,27,338,Saturday
+22,1500,9/25/2024,Personal Care,13.78,Yes,20,27,174,Thursday
+19,1974,12/24/2024,Personal Care,11.39,No,0,27,53,Thursday
+23,1133,5/6/2024,Grocery,5.96,No,0,8,399,Thursday
+39,1474,3/9/2024,Home,22.4,Yes,20,37,75,Friday
+5,1752,12/8/2024,Grocery,13.3,No,0,29,50,Thursday
+39,1437,6/12/2024,Personal Care,11.13,Yes,5,35,107,Wednesday
+6,1614,10/24/2024,Grocery,9.07,No,0,37,481,Sunday
+46,1739,9/26/2024,Personal Care,20.25,Yes,20,23,372,Tuesday
+29,1507,1/15/2024,Home,0.54,Yes,0,46,452,Sunday
+1,1947,8/27/2024,Grocery,29.17,No,0,40,40,Saturday
+27,1527,9/26/2024,Clothing,13.94,Yes,30,19,232,Wednesday
+24,1209,4/7/2024,Grocery,12.26,No,0,30,198,Monday
+11,1928,1/26/2024,Personal Care,4.6,Yes,20,39,269,Monday
+6,1226,1/10/2024,Electronics,14.18,No,0,19,171,Wednesday
+24,1561,6/9/2024,Clothing,1.67,Yes,15,34,317,Thursday
+23,1623,11/13/2024,Personal Care,8.22,No,0,6,72,Thursday
+44,1871,4/13/2024,Electronics,2.56,Yes,30,31,84,Tuesday
+35,1504,1/27/2024,Clothing,12.6,Yes,20,22,274,Monday
+1,1901,6/30/2024,Grocery,9.35,Yes,5,18,171,Saturday
+7,1367,9/30/2024,Clothing,15.08,Yes,5,20,241,Tuesday
+29,1842,3/4/2024,Electronics,2.79,Yes,15,34,70,Sunday
+1,1557,10/10/2024,Home,24.1,No,0,31,441,Sunday
+15,1203,3/4/2024,Home,22.47,Yes,30,42,249,Tuesday
+27,1881,1/26/2024,Personal Care,12.02,Yes,20,31,65,Friday
+16,1174,2/2/2024,Home,5.44,Yes,30,35,454,Thursday
+6,1354,11/6/2024,Home,23.48,Yes,0,35,144,Tuesday
+9,1024,10/31/2024,Clothing,17.55,Yes,30,24,27,Tuesday
+26,1502,9/24/2024,Grocery,26.85,Yes,20,18,175,Thursday
+12,1854,9/9/2024,Electronics,26.4,Yes,30,52,475,Sunday
+49,1469,8/30/2024,Home,13.48,No,0,33,123,Monday
+49,1197,5/19/2024,Clothing,6.05,No,0,23,160,Thursday
+40,1149,10/11/2024,Personal Care,25.76,Yes,30,43,474,Friday
+31,1837,4/16/2024,Grocery,22.41,Yes,10,33,256,Monday
+8,1583,11/14/2024,Home,15.99,No,0,8,278,Thursday
+8,1520,2/10/2024,Home,6.44,No,0,13,388,Monday
+29,1566,12/14/2024,Electronics,4.94,Yes,0,9,443,Monday
+7,1864,3/10/2024,Personal Care,11.81,Yes,0,32,122,Wednesday
+36,1352,7/28/2024,Personal Care,3.22,No,0,18,101,Monday
+27,1029,2/17/2024,Home,8.96,No,0,6,124,Tuesday
+12,1629,4/12/2024,Personal Care,6.79,Yes,10,22,315,Wednesday
+17,1761,12/13/2024,Electronics,11.96,No,0,27,154,Sunday
+17,1815,11/27/2024,Grocery,23.03,No,0,6,106,Friday
+16,1068,2/21/2024,Electronics,13.21,Yes,0,20,318,Friday
+1,1848,11/17/2024,Electronics,28.02,Yes,15,31,159,Tuesday
+7,1388,11/5/2024,Personal Care,25.22,Yes,20,29,138,Friday
+47,1893,4/25/2024,Grocery,12.12,Yes,30,31,220,Sunday
+36,1302,9/22/2024,Personal Care,10.44,No,0,13,80,Thursday
+39,1241,5/29/2024,Grocery,23.15,Yes,30,46,107,Friday
+2,1588,7/21/2024,Personal Care,24.07,No,0,23,179,Monday
+45,1233,12/15/2024,Clothing,19.09,No,0,20,111,Sunday
+34,1733,3/29/2024,Personal Care,8.81,Yes,5,17,358,Monday
+19,1518,8/25/2024,Personal Care,26.82,No,0,14,261,Friday
+40,1275,10/8/2024,Electronics,28.7,Yes,10,26,395,Monday
+32,1752,10/8/2024,Electronics,12.31,No,0,42,210,Sunday
+40,1160,7/15/2024,Home,15.08,Yes,20,30,273,Friday
+50,1446,9/5/2024,Personal Care,4.06,Yes,0,19,182,Friday
+18,1092,12/11/2024,Personal Care,26.47,No,0,50,361,Sunday
+48,1170,7/19/2024,Personal Care,29.32,Yes,15,48,265,Saturday
+10,1181,12/30/2024,Electronics,25.9,No,0,6,172,Tuesday
+1,1562,4/12/2024,Home,7.46,Yes,10,45,65,Saturday
+24,1451,5/26/2024,Grocery,3.67,No,0,37,103,Sunday
+37,1613,8/5/2024,Clothing,25.62,No,0,5,438,Friday
+38,1047,11/27/2024,Electronics,8.21,No,0,37,194,Friday
+29,1237,4/16/2024,Home,20.47,No,0,15,167,Thursday
+30,1634,11/22/2024,Home,9.95,No,0,22,199,Friday
+46,1343,7/3/2024,Clothing,26.52,Yes,5,50,337,Saturday
+39,1880,11/14/2024,Clothing,18.29,No,0,31,274,Saturday
+37,1147,9/24/2024,Personal Care,16.17,No,0,32,221,Thursday
+23,1126,1/8/2024,Personal Care,18.3,Yes,5,11,400,Tuesday
+32,1107,8/24/2024,Grocery,2.66,No,0,21,35,Sunday
+26,1322,8/30/2024,Home,7.27,No,0,13,26,Saturday
+31,1381,7/4/2024,Home,25.77,Yes,20,24,74,Monday
+15,1205,3/22/2024,Home,5,No,0,35,493,Thursday
+6,1628,5/3/2024,Grocery,20.41,No,0,8,138,Friday
+15,1011,12/18/2024,Personal Care,8.17,No,0,11,278,Thursday
+13,1521,11/16/2024,Electronics,11.27,Yes,10,36,143,Thursday
+8,1086,1/23/2024,Personal Care,10.79,Yes,30,13,350,Monday
+21,1150,8/24/2024,Personal Care,1.7,Yes,10,45,427,Sunday
+45,1768,8/8/2024,Personal Care,25.97,Yes,15,20,387,Friday
+33,1228,4/4/2024,Personal Care,10.66,Yes,0,10,459,Tuesday
+28,1942,12/13/2024,Home,23.49,No,0,28,165,Monday
+26,1674,6/15/2024,Home,11.09,Yes,15,15,224,Wednesday
+15,1791,6/30/2024,Grocery,13.48,Yes,20,34,448,Wednesday
+30,1749,10/25/2024,Clothing,20.22,No,0,24,282,Sunday
+28,1731,12/16/2024,Personal Care,17.02,Yes,5,39,183,Friday
+32,1503,11/5/2024,Clothing,17.91,No,0,21,302,Saturday
+48,1363,3/20/2024,Personal Care,12.7,No,0,10,324,Thursday
+48,1025,3/10/2024,Personal Care,26.28,Yes,15,26,133,Sunday
+43,1174,1/24/2024,Personal Care,12.88,No,0,36,392,Monday
+50,1828,4/29/2024,Home,19.68,Yes,15,40,139,Monday
+34,1189,4/24/2024,Grocery,21.31,Yes,20,42,329,Tuesday
+30,1427,11/21/2024,Personal Care,8.19,No,0,46,288,Sunday
+24,1901,4/12/2024,Grocery,24.2,No,0,39,230,Thursday
+16,1651,11/9/2024,Electronics,28.76,Yes,20,27,72,Monday
+16,1176,6/4/2024,Grocery,23,No,0,32,330,Wednesday
+29,1068,8/7/2024,Personal Care,6.16,No,0,37,259,Wednesday
+29,1693,8/16/2024,Personal Care,26.4,Yes,20,45,434,Saturday
+27,1238,10/12/2024,Personal Care,27.18,No,0,22,180,Tuesday
+42,1487,10/2/2024,Electronics,18.07,No,0,22,163,Monday
+42,1901,3/20/2024,Grocery,3.57,Yes,30,22,163,Sunday
+40,1853,4/1/2024,Personal Care,12.71,No,0,48,500,Saturday
+48,1296,12/5/2024,Electronics,4.37,No,0,26,135,Thursday
+31,1959,7/13/2024,Grocery,19.01,No,0,31,412,Monday
+5,1613,7/7/2024,Home,23.78,Yes,20,54,169,Saturday
+49,1530,11/17/2024,Electronics,2.4,No,0,18,259,Tuesday
+16,1477,1/23/2024,Clothing,25,No,0,35,150,Friday
+13,1121,7/18/2024,Grocery,23.09,No,0,31,96,Saturday
+9,1623,7/10/2024,Clothing,26.71,No,0,40,397,Saturday
+13,1974,8/9/2024,Home,12.22,No,0,30,400,Sunday
+25,1377,7/12/2024,Electronics,7.8,Yes,30,30,76,Tuesday
+11,1409,12/4/2024,Grocery,14.21,No,0,15,205,Tuesday
+28,1945,4/15/2024,Grocery,12.38,No,0,26,155,Saturday
+29,1423,3/27/2024,Personal Care,29.39,No,0,29,450,Wednesday
+26,1637,7/3/2024,Grocery,19.28,Yes,0,25,206,Friday
+41,1082,3/16/2024,Clothing,20.5,Yes,15,6,25,Thursday
+16,1278,9/27/2024,Clothing,10.12,Yes,15,46,315,Saturday
+35,1759,12/9/2024,Grocery,14.12,No,0,8,185,Tuesday
+40,1051,11/17/2024,Electronics,13.99,No,0,20,441,Saturday
+19,1712,2/28/2024,Clothing,15.92,No,0,31,139,Tuesday
+6,1545,3/12/2024,Home,1.56,Yes,30,52,68,Saturday
+33,1704,9/24/2024,Clothing,7.03,No,0,47,243,Sunday
+25,1196,2/24/2024,Home,15.82,No,0,12,34,Saturday
+28,1557,3/10/2024,Clothing,22.13,Yes,30,27,58,Thursday
+29,1694,9/29/2024,Grocery,25.13,Yes,15,37,73,Tuesday
+31,1330,5/26/2024,Electronics,0.81,No,0,29,311,Monday
+1,1374,1/31/2024,Grocery,13.42,No,0,34,193,Thursday
+44,1899,2/23/2024,Personal Care,16.3,No,0,39,298,Monday
+29,1670,12/11/2024,Electronics,18.37,No,0,36,69,Saturday
+4,1721,5/4/2024,Personal Care,20.55,No,0,38,239,Tuesday
+47,1526,9/18/2024,Home,7.3,No,0,26,413,Friday
+2,1706,8/27/2024,Electronics,16.08,No,0,43,406,Sunday
+6,1902,12/3/2024,Grocery,11.61,Yes,0,34,279,Friday
+27,1917,4/1/2024,Clothing,25.7,No,0,8,167,Friday
+42,1962,4/2/2024,Home,8.58,No,0,29,284,Monday
+11,1468,5/16/2024,Home,4.95,Yes,20,22,108,Thursday
+43,1216,5/8/2024,Home,8.13,Yes,10,15,41,Saturday
+48,1716,6/6/2024,Grocery,19.19,Yes,0,34,352,Friday
+8,1187,6/1/2024,Electronics,12.1,Yes,30,14,371,Friday
+47,1750,10/16/2024,Grocery,1.9,Yes,30,34,404,Monday
+17,1083,7/16/2024,Electronics,26.27,Yes,15,22,231,Monday
+21,1979,1/19/2024,Electronics,16.48,No,0,21,25,Sunday
+30,1874,2/10/2024,Clothing,15.87,Yes,15,12,157,Tuesday
+33,1479,1/4/2024,Home,5.6,Yes,20,47,398,Saturday
+38,1448,3/12/2024,Clothing,17.36,No,0,36,111,Saturday
+50,1029,6/1/2024,Personal Care,18.46,No,0,37,469,Sunday
+14,1872,5/20/2024,Clothing,19.45,Yes,5,44,361,Saturday
+5,1663,5/23/2024,Home,12.33,Yes,10,20,48,Sunday
+41,1014,7/2/2024,Home,1.48,No,0,28,264,Sunday
+35,1072,9/7/2024,Personal Care,18.36,Yes,5,34,34,Saturday
+10,1584,9/4/2024,Clothing,18.47,Yes,10,42,85,Tuesday
+13,1621,8/10/2024,Clothing,15.52,No,0,32,319,Saturday
+41,1543,11/9/2024,Clothing,15.84,Yes,20,43,278,Saturday
+41,1141,3/6/2024,Electronics,13.57,No,0,22,22,Wednesday
+32,1348,7/10/2024,Clothing,4.36,No,0,39,409,Friday
+20,1590,1/5/2024,Home,2.64,Yes,0,35,214,Sunday
+29,1867,2/11/2024,Clothing,13.06,No,0,28,305,Sunday
+7,1694,11/12/2024,Grocery,19.88,Yes,30,32,165,Monday
+41,1937,9/28/2024,Clothing,26.26,Yes,30,21,64,Thursday
+5,1801,4/20/2024,Home,4.23,No,0,37,417,Monday
+26,1442,7/23/2024,Clothing,23.69,Yes,20,14,93,Friday
+5,1105,8/30/2024,Home,25.72,Yes,15,15,408,Monday
+26,1151,6/28/2024,Electronics,9.49,Yes,20,22,314,Friday
+48,1077,2/13/2024,Home,23.38,No,0,26,26,Friday
+13,1395,8/22/2024,Electronics,26.16,No,0,28,49,Friday
+26,1520,12/24/2024,Personal Care,1.09,No,0,13,55,Wednesday
+26,1719,1/27/2024,Home,24.47,Yes,15,37,318,Sunday
+19,1984,11/17/2024,Grocery,24.92,No,0,30,93,Tuesday
+5,1652,8/21/2024,Electronics,4.39,No,0,41,133,Saturday
+41,1645,3/14/2024,Personal Care,25.54,Yes,15,24,111,Friday
+35,1711,3/8/2024,Clothing,9.47,Yes,20,10,118,Tuesday
+40,1518,11/16/2024,Clothing,29.22,Yes,10,42,368,Friday
+17,1058,5/25/2024,Personal Care,23.15,Yes,15,13,142,Thursday
+10,1462,9/14/2024,Personal Care,19.64,Yes,30,28,468,Tuesday
+12,1316,2/4/2024,Electronics,24.58,Yes,15,31,216,Thursday
+21,1237,8/27/2024,Electronics,20.17,Yes,0,35,249,Friday
+50,1116,6/29/2024,Electronics,20.96,No,0,36,200,Sunday
+28,1116,5/29/2024,Grocery,5.77,No,0,31,433,Tuesday
+39,1536,3/2/2024,Clothing,10.81,No,0,17,274,Sunday
+39,1830,12/4/2024,Personal Care,28.86,No,0,35,399,Monday
+13,1063,9/13/2024,Personal Care,19.19,No,0,20,290,Wednesday
+1,1327,4/16/2024,Electronics,13.26,Yes,30,52,207,Saturday
+23,1114,12/19/2024,Home,25.86,No,0,45,274,Saturday
+33,1642,9/16/2024,Clothing,13.96,Yes,20,19,335,Thursday
+5,1217,1/20/2024,Electronics,28.82,No,0,45,153,Sunday
+38,1896,12/2/2024,Grocery,15.95,Yes,20,23,268,Tuesday
+49,1498,5/30/2024,Personal Care,3.22,Yes,10,8,86,Friday
+34,1096,11/16/2024,Clothing,13.04,No,0,16,483,Tuesday
+19,1265,12/13/2024,Personal Care,11.76,No,0,16,173,Monday
+6,1395,12/16/2024,Home,25.53,No,0,8,209,Tuesday
+6,1547,12/4/2024,Grocery,9.19,Yes,20,27,37,Wednesday
+4,1519,2/12/2024,Electronics,1.46,No,0,37,95,Thursday
+37,1302,12/3/2024,Personal Care,22.82,Yes,15,28,38,Sunday
+6,1062,6/9/2024,Electronics,2.62,Yes,0,10,319,Wednesday
+1,1660,2/4/2024,Personal Care,17.47,No,0,9,314,Tuesday
+44,1140,4/27/2024,Home,5.69,No,0,24,116,Sunday
+42,1007,8/2/2024,Personal Care,9.17,Yes,20,31,134,Monday
+4,1112,12/24/2024,Grocery,5.67,Yes,10,37,136,Friday
+34,1095,1/29/2024,Clothing,25.92,No,0,38,85,Monday
+22,1777,6/28/2024,Personal Care,18.94,No,0,40,354,Sunday
+14,1029,4/8/2024,Clothing,9.06,Yes,30,13,423,Wednesday
+40,1833,4/23/2024,Home,17.72,No,0,43,448,Saturday
+47,1258,2/13/2024,Home,9.34,No,0,33,444,Thursday
+22,1028,4/11/2024,Clothing,9.11,No,0,6,75,Wednesday
+17,1695,4/2/2024,Electronics,24.1,No,0,15,40,Tuesday
+21,1580,9/17/2024,Home,28.61,Yes,5,1,38,Tuesday
+12,1438,6/16/2024,Grocery,7.79,Yes,0,21,48,Monday
+37,1215,7/29/2024,Clothing,13.66,No,0,5,333,Tuesday
+20,1450,6/10/2024,Electronics,2.93,Yes,20,16,454,Wednesday
+5,2000,10/24/2024,Electronics,10.58,Yes,5,28,385,Wednesday
+18,1883,4/1/2024,Personal Care,22.12,Yes,15,39,298,Monday
+14,1673,12/16/2024,Clothing,10.41,Yes,0,7,333,Monday
+32,1499,2/15/2024,Personal Care,27.61,Yes,30,45,172,Wednesday
+12,1940,6/27/2024,Clothing,29.47,Yes,15,33,333,Sunday
+31,1135,2/1/2024,Clothing,2.42,No,0,32,344,Monday
+33,1386,10/11/2024,Clothing,12.52,Yes,15,16,238,Friday
+6,1814,5/14/2024,Personal Care,17.17,No,0,38,465,Wednesday
+9,1494,12/8/2024,Clothing,7.59,No,0,17,437,Friday
+45,1320,7/8/2024,Clothing,20.87,No,0,29,388,Friday
+14,1158,1/11/2024,Grocery,9.77,Yes,20,38,90,Saturday
+37,1448,2/17/2024,Grocery,12.7,No,0,36,385,Sunday
+41,1094,9/11/2024,Electronics,18.37,No,0,35,257,Sunday
+45,1772,10/26/2024,Personal Care,6.2,No,0,31,46,Wednesday
+47,1417,2/1/2024,Home,9.22,No,0,10,395,Thursday
+3,1549,4/15/2024,Clothing,4.81,Yes,10,12,68,Tuesday
+29,1050,2/10/2024,Clothing,15.07,Yes,30,21,85,Thursday
+27,1268,10/24/2024,Grocery,25.56,No,0,20,111,Friday
+22,1086,8/9/2024,Clothing,29.59,Yes,15,38,426,Sunday
+44,1746,5/5/2024,Clothing,21.2,Yes,10,28,304,Monday
+25,1626,8/25/2024,Grocery,26,Yes,5,41,182,Tuesday
+40,1237,2/22/2024,Grocery,16.42,No,0,40,444,Tuesday
+40,1390,2/13/2024,Home,3.54,No,0,22,414,Wednesday
+6,1982,6/17/2024,Grocery,24.83,No,0,36,342,Sunday
+6,1210,9/27/2024,Grocery,9.95,No,0,5,342,Wednesday
+42,1818,12/15/2024,Electronics,7.25,No,0,44,100,Sunday
+39,1991,12/1/2024,Grocery,15.01,Yes,10,40,141,Saturday
+18,1571,12/31/2024,Personal Care,1.69,No,0,24,37,Friday
+25,1258,5/20/2024,Clothing,29.01,Yes,15,31,295,Friday
+33,1509,11/2/2024,Electronics,9.81,No,0,12,64,Thursday
+3,1849,2/29/2024,Home,17.12,Yes,20,37,40,Monday
+14,1549,2/9/2024,Grocery,5.44,Yes,10,11,394,Thursday
+36,1206,1/2/2024,Electronics,5.47,Yes,5,24,348,Sunday
+21,1082,10/13/2024,Clothing,1.13,Yes,15,41,352,Thursday
+37,1038,1/14/2024,Electronics,1.88,Yes,15,36,405,Friday
+49,1907,4/24/2024,Grocery,18.82,No,0,31,267,Thursday
+1,1114,6/12/2024,Clothing,18.58,Yes,15,24,67,Sunday
+45,1116,5/26/2024,Home,8.95,Yes,30,13,356,Tuesday
+34,1487,9/23/2024,Grocery,23.04,No,0,49,59,Sunday
+13,1190,6/29/2024,Electronics,14.45,Yes,0,30,382,Saturday
+14,1506,11/26/2024,Grocery,6.84,No,0,35,338,Tuesday
+28,1937,2/16/2024,Home,5.44,No,0,40,378,Friday
+21,1632,11/10/2024,Grocery,26.89,No,0,11,429,Tuesday
+21,1408,10/29/2024,Home,2.88,Yes,10,20,390,Saturday
+3,1473,3/24/2024,Grocery,3.17,No,0,36,272,Sunday
+31,1386,2/28/2024,Home,9.92,Yes,5,2,31,Wednesday
+27,1784,8/8/2024,Grocery,25.92,Yes,5,38,142,Saturday
+17,1568,8/25/2024,Clothing,4.4,No,0,34,339,Thursday
+13,1448,3/11/2024,Grocery,16.97,No,0,29,443,Monday
+45,1919,7/7/2024,Electronics,11.62,Yes,15,37,329,Thursday
+44,1597,4/15/2024,Clothing,16.47,Yes,20,43,126,Thursday
+29,1300,4/30/2024,Electronics,1.63,No,0,21,308,Thursday
+30,1085,9/7/2024,Home,21.1,No,0,28,84,Thursday
+22,1545,2/16/2024,Electronics,1.63,No,0,30,414,Thursday
+27,1854,9/9/2024,Home,14.34,Yes,30,54,368,Saturday
+14,1507,10/2/2024,Clothing,21.14,No,0,8,323,Monday
+42,1759,12/4/2024,Personal Care,24.36,Yes,15,52,396,Sunday
+13,1722,7/13/2024,Home,14.87,Yes,0,44,323,Saturday
+35,1517,10/21/2024,Grocery,24.42,Yes,10,20,20,Sunday
+37,1134,11/27/2024,Personal Care,12.07,No,0,40,272,Wednesday
+48,1643,10/10/2024,Clothing,19.46,No,0,29,29,Wednesday
+46,1932,1/14/2024,Personal Care,27.64,Yes,10,41,58,Thursday
+29,1335,6/9/2024,Personal Care,16.63,No,0,9,486,Tuesday
+23,1928,4/1/2024,Home,8.31,No,0,31,322,Friday
+35,1646,7/24/2024,Clothing,15.25,No,0,37,235,Thursday
+46,1793,12/7/2024,Grocery,11.01,No,0,9,246,Thursday
+11,1564,6/1/2024,Clothing,4.39,No,0,21,233,Saturday
+42,1039,11/27/2024,Personal Care,6.54,No,0,28,252,Friday
+14,1009,11/11/2024,Grocery,7.62,No,0,10,223,Thursday
+23,1298,4/1/2024,Grocery,3.16,Yes,30,49,86,Saturday
+40,1484,7/12/2024,Personal Care,25.4,No,0,16,294,Friday
+8,1498,2/11/2024,Grocery,21.12,No,0,32,174,Saturday
+36,1503,8/27/2024,Personal Care,19.04,Yes,30,29,62,Tuesday
+24,1163,6/24/2024,Home,8.88,Yes,10,52,148,Sunday
+16,1669,6/3/2024,Grocery,5.89,No,0,7,158,Friday
+15,1973,8/12/2024,Grocery,29.65,Yes,0,25,292,Tuesday
+3,1361,5/12/2024,Electronics,10.16,No,0,19,219,Wednesday
+31,1899,8/28/2024,Grocery,15.35,No,0,5,124,Wednesday
+48,1127,8/19/2024,Grocery,7.99,No,0,14,285,Monday
+27,1177,4/17/2024,Personal Care,9.22,Yes,15,44,175,Sunday
+14,1135,10/4/2024,Personal Care,12.89,Yes,20,36,86,Monday
+24,1600,8/19/2024,Home,20.32,Yes,15,30,34,Saturday
+45,1204,1/17/2024,Home,12.81,No,0,29,54,Friday
+47,1115,7/3/2024,Home,11.82,Yes,15,51,85,Saturday
+18,1511,6/3/2024,Personal Care,1.03,Yes,5,8,417,Friday
+48,1777,4/16/2024,Clothing,16.18,No,0,32,301,Monday
+28,1273,9/15/2024,Grocery,14.04,Yes,15,38,141,Saturday
+34,1771,1/4/2024,Personal Care,22.35,No,0,29,185,Wednesday
+25,1480,3/12/2024,Clothing,2.04,No,0,13,324,Thursday
+24,1755,2/5/2024,Clothing,14.95,Yes,20,24,74,Monday
+37,1752,9/29/2024,Clothing,25.61,No,0,19,103,Monday
+45,1743,10/21/2024,Electronics,27.31,No,0,46,304,Saturday
+18,1315,5/10/2024,Electronics,19.9,No,0,26,455,Monday
+36,1291,9/16/2024,Home,6,Yes,0,18,90,Monday
+22,1787,9/17/2024,Personal Care,10.84,No,0,44,325,Saturday
+11,1533,8/6/2024,Grocery,12.85,Yes,10,21,416,Saturday
+31,1872,4/19/2024,Clothing,25.02,No,0,26,165,Monday
+37,1705,9/30/2024,Clothing,18.17,No,0,8,242,Friday
+17,1780,2/9/2024,Clothing,20.45,No,0,28,28,Wednesday
+21,1875,5/19/2024,Personal Care,15.45,Yes,30,30,216,Monday
+31,1943,9/29/2024,Grocery,12.44,No,0,24,390,Monday
+42,1795,7/3/2024,Personal Care,10.06,Yes,5,22,372,Tuesday
+42,1224,2/6/2024,Clothing,21.31,Yes,10,27,289,Friday
+31,1621,9/26/2024,Home,23.02,Yes,20,23,135,Sunday
+40,1796,11/5/2024,Home,4.53,No,0,38,352,Friday
+47,1185,12/2/2024,Grocery,21.72,Yes,10,2,30,Thursday
+37,1214,11/30/2024,Home,13.66,Yes,0,24,226,Sunday
+35,1497,1/7/2024,Home,1.72,Yes,5,36,432,Sunday
+17,1202,11/29/2024,Grocery,0.92,Yes,30,45,69,Monday
+25,1876,6/21/2024,Home,5.89,Yes,30,28,145,Saturday
+24,1324,9/2/2024,Electronics,6.74,No,0,27,278,Sunday
+8,1350,10/12/2024,Personal Care,18.8,Yes,15,18,339,Monday
+21,1678,3/26/2024,Home,24.74,Yes,10,25,88,Sunday
+10,1136,11/5/2024,Home,21.27,No,0,17,256,Tuesday
+42,1529,8/8/2024,Clothing,24.16,No,0,24,303,Friday
+39,1219,7/29/2024,Grocery,17.85,No,0,7,156,Monday
+29,1097,12/17/2024,Grocery,17.87,No,0,12,48,Saturday
+23,1766,1/9/2024,Electronics,15.16,No,0,28,145,Tuesday
+22,1843,9/21/2024,Clothing,28.31,Yes,10,41,254,Sunday
+47,1462,5/24/2024,Personal Care,17.36,No,0,21,123,Thursday
+42,1825,7/13/2024,Electronics,21.07,No,0,29,232,Saturday
+31,1417,1/23/2024,Electronics,20.76,Yes,20,38,389,Saturday
+45,1214,9/13/2024,Grocery,18.08,No,0,47,376,Saturday
+34,1419,10/27/2024,Electronics,13.72,No,0,5,187,Monday
+24,1588,12/23/2024,Personal Care,19.4,Yes,30,26,26,Wednesday
+50,1911,1/15/2024,Grocery,23.99,No,0,31,383,Tuesday
+10,1863,1/11/2024,Personal Care,28.64,Yes,15,17,102,Tuesday
+42,1565,12/20/2024,Home,17,Yes,20,39,53,Monday
+29,1849,5/27/2024,Home,10.56,No,0,28,51,Monday
+26,1813,6/17/2024,Clothing,8.21,Yes,5,20,206,Thursday
+48,1773,7/1/2024,Personal Care,1.23,Yes,0,15,441,Thursday
+32,1683,8/11/2024,Grocery,1.99,No,0,16,81,Wednesday
+50,1830,5/21/2024,Grocery,2.44,No,0,6,397,Wednesday
+48,1211,9/23/2024,Grocery,7.28,Yes,5,26,211,Friday
+8,1961,12/9/2024,Electronics,9.24,Yes,10,36,377,Wednesday
+41,1656,5/25/2024,Personal Care,18.09,No,0,15,205,Tuesday
+45,1940,2/29/2024,Home,21.26,No,0,49,288,Saturday
+34,1992,10/13/2024,Personal Care,23.57,No,0,35,247,Sunday
+49,1722,4/7/2024,Personal Care,23.02,No,0,26,451,Sunday
+6,1340,6/13/2024,Clothing,22.49,No,0,10,474,Monday
+18,1375,11/1/2024,Home,13.97,No,0,29,64,Monday
+24,1238,8/10/2024,Home,14.21,Yes,5,41,87,Monday
+12,1820,4/26/2024,Electronics,26.37,No,0,8,193,Thursday
+24,1574,2/9/2024,Home,26.23,Yes,20,4,44,Friday
+28,1531,7/15/2024,Electronics,1.3,Yes,0,18,95,Sunday
+46,1218,5/10/2024,Personal Care,16.07,No,0,28,86,Tuesday
+9,1107,3/31/2024,Clothing,9.46,Yes,0,14,54,Monday
+17,1490,2/6/2024,Electronics,12.63,Yes,5,29,455,Thursday
+20,1522,11/20/2024,Clothing,7.89,Yes,30,45,268,Sunday
+46,1635,7/22/2024,Personal Care,21.06,No,0,27,466,Saturday
+6,1446,10/3/2024,Grocery,28.46,Yes,5,28,105,Tuesday
+5,1846,5/16/2024,Personal Care,13.26,Yes,5,28,159,Saturday
+44,1492,9/25/2024,Electronics,14.16,No,0,27,193,Friday
+45,1796,8/31/2024,Electronics,8.8,No,0,20,105,Tuesday
+38,1813,3/30/2024,Clothing,28.82,No,0,30,498,Monday
+39,1269,8/5/2024,Grocery,8.64,No,0,7,268,Friday
+20,1758,11/29/2024,Clothing,19.6,Yes,0,14,110,Monday
+36,1619,10/18/2024,Electronics,24.75,No,0,29,477,Wednesday
+7,1379,2/5/2024,Home,6.78,No,0,16,163,Wednesday
+41,1997,4/21/2024,Grocery,17.24,Yes,0,11,197,Wednesday
+13,1577,10/6/2024,Electronics,7.8,Yes,20,11,423,Friday
+41,1797,1/12/2024,Grocery,4.86,Yes,0,42,470,Saturday
+18,1694,4/12/2024,Grocery,3.11,No,0,21,445,Friday
+14,1830,9/12/2024,Electronics,3.95,Yes,20,22,186,Wednesday
+44,1526,6/29/2024,Grocery,2.37,No,0,20,43,Tuesday
+36,1722,8/18/2024,Electronics,23.45,Yes,15,23,494,Sunday
+40,1759,3/24/2024,Clothing,15.44,No,0,34,87,Friday
+42,1956,5/18/2024,Home,26.33,No,0,5,259,Friday
+3,1314,4/3/2024,Personal Care,19.3,Yes,30,19,224,Tuesday
+27,1390,3/24/2024,Clothing,0.59,No,0,27,444,Tuesday
+7,1445,3/29/2024,Grocery,28.34,No,0,23,242,Saturday
+43,1536,10/16/2024,Grocery,19.79,Yes,20,13,465,Tuesday
+5,1988,12/19/2024,Electronics,29.09,Yes,20,36,158,Sunday
+36,1704,12/23/2024,Electronics,27.38,Yes,10,10,382,Tuesday
+9,1114,7/11/2024,Home,11.52,No,0,37,387,Monday
+8,1277,4/15/2024,Grocery,18.2,Yes,20,32,127,Sunday
+33,1576,2/5/2024,Home,14.48,Yes,15,10,147,Friday
+20,1266,6/17/2024,Electronics,13.59,Yes,10,35,395,Monday
+29,1708,8/30/2024,Clothing,12.79,No,0,25,102,Thursday
+20,1538,5/18/2024,Clothing,18.05,Yes,0,49,138,Sunday
+2,1191,5/27/2024,Personal Care,3.61,Yes,0,15,350,Sunday
+44,1184,7/19/2024,Clothing,13.75,No,0,18,110,Tuesday
+42,1680,1/9/2024,Grocery,18.92,Yes,10,15,30,Thursday
+39,1383,10/9/2024,Personal Care,27.87,No,0,30,35,Sunday
+50,1463,11/28/2024,Electronics,28.58,Yes,20,29,380,Tuesday
+46,1012,8/26/2024,Grocery,26.91,Yes,5,39,386,Sunday
+16,1214,1/10/2024,Electronics,3.12,Yes,20,37,189,Tuesday
+18,1835,4/10/2024,Electronics,3.15,No,0,10,151,Wednesday
+21,1044,6/13/2024,Electronics,7.21,Yes,15,8,33,Friday
+33,1981,5/2/2024,Clothing,19.54,No,0,6,58,Monday
+33,1209,8/24/2024,Grocery,27.79,Yes,10,15,464,Thursday
+11,1503,11/22/2024,Home,28.89,No,0,28,196,Saturday
+13,1437,1/26/2024,Electronics,11.66,No,0,16,395,Friday
+18,1224,9/23/2024,Personal Care,25.81,Yes,0,45,452,Sunday
+39,1273,1/21/2024,Electronics,27.08,No,0,19,479,Wednesday
+12,1817,12/3/2024,Clothing,15.34,No,0,29,228,Saturday
+42,1460,7/18/2024,Personal Care,0.78,No,0,23,149,Friday
+30,1805,4/29/2024,Grocery,16.08,Yes,0,26,340,Tuesday
+27,1101,4/2/2024,Electronics,1.35,Yes,10,39,464,Sunday
+2,1875,1/5/2024,Personal Care,9,No,0,24,24,Sunday
+9,1268,3/8/2024,Home,25.08,No,0,15,270,Friday
+31,1287,1/22/2024,Personal Care,19.75,Yes,30,22,142,Friday
+5,1757,2/15/2024,Home,11.06,No,0,15,289,Monday
+46,1013,7/18/2024,Clothing,6.33,No,0,32,78,Tuesday
+22,1466,3/1/2024,Personal Care,2.27,No,0,36,167,Thursday
+19,1178,5/20/2024,Home,23.85,No,0,19,379,Sunday
+9,1903,2/1/2024,Personal Care,8.62,No,0,36,478,Monday
+13,1747,11/8/2024,Home,2.74,No,0,27,379,Friday
+17,1820,6/5/2024,Home,20.77,No,0,32,164,Thursday
+9,1746,2/5/2024,Home,2.36,Yes,30,41,492,Friday
+33,1917,6/6/2024,Personal Care,10.5,No,0,5,87,Wednesday
+31,1378,9/28/2024,Grocery,21.6,Yes,15,15,55,Monday
+8,1132,7/13/2024,Electronics,25.34,No,0,37,173,Wednesday
+45,1761,10/5/2024,Grocery,3.02,Yes,0,16,115,Wednesday
+11,1551,8/7/2024,Electronics,18.66,Yes,15,41,84,Sunday
+21,1243,12/6/2024,Grocery,28.87,No,0,35,61,Wednesday
+31,1793,12/21/2024,Home,27.74,No,0,28,363,Monday
+13,1247,4/6/2024,Clothing,14.52,Yes,20,12,494,Friday
+20,1955,6/7/2024,Personal Care,9.4,No,0,27,293,Wednesday
+49,1797,5/27/2024,Home,2.31,No,0,31,35,Wednesday
+1,1514,11/20/2024,Personal Care,12.94,Yes,15,17,48,Saturday
+12,1422,9/20/2024,Clothing,3.77,Yes,30,15,469,Wednesday
+10,1359,5/1/2024,Clothing,24.98,Yes,20,42,249,Tuesday
+42,1233,3/9/2024,Clothing,12.95,No,0,22,318,Thursday
+4,1925,2/17/2024,Electronics,23.25,Yes,10,33,172,Tuesday
+14,1493,1/18/2024,Personal Care,23.09,Yes,5,21,21,Tuesday
+48,1926,1/13/2024,Grocery,5.74,No,0,15,379,Monday
+23,1831,6/17/2024,Grocery,10.98,Yes,10,21,98,Monday
+38,1555,2/9/2024,Home,21.03,Yes,20,25,235,Saturday
+18,1330,12/31/2024,Personal Care,13.89,Yes,10,19,261,Thursday
+50,1510,9/2/2024,Personal Care,27.5,No,0,30,176,Wednesday
+2,1488,4/23/2024,Electronics,2.53,Yes,30,12,219,Wednesday
+25,1398,10/13/2024,Grocery,27.07,No,0,38,188,Tuesday
+25,1396,1/13/2024,Clothing,27.9,No,0,18,308,Wednesday
+27,1074,2/14/2024,Home,17.91,No,0,32,177,Tuesday
+38,1970,7/18/2024,Home,21.83,No,0,7,305,Friday
+48,1720,1/23/2024,Clothing,19.14,Yes,15,18,374,Friday
+22,1702,12/5/2024,Home,12.11,Yes,0,41,363,Saturday
+3,1481,12/16/2024,Clothing,22.71,Yes,20,28,442,Sunday
+47,1824,8/11/2024,Personal Care,3.31,No,0,10,307,Friday
+39,1019,6/21/2024,Electronics,14.24,No,0,14,390,Thursday
+46,1679,1/9/2024,Personal Care,19.25,Yes,15,30,179,Friday
+6,1174,9/16/2024,Clothing,29.54,Yes,30,13,20,Monday
+29,1130,7/18/2024,Clothing,3.66,No,0,30,237,Sunday
+34,1591,12/28/2024,Grocery,20.35,No,0,13,155,Thursday
+20,1222,5/8/2024,Electronics,6.55,No,0,22,168,Saturday
+47,1171,1/2/2024,Grocery,20.42,Yes,15,23,357,Wednesday
+25,1308,12/4/2024,Home,27.06,No,0,35,138,Monday
+31,1178,2/25/2024,Electronics,14.72,Yes,15,39,475,Saturday
+10,1709,10/13/2024,Grocery,27.1,No,0,32,47,Monday
+12,1532,7/25/2024,Personal Care,10.23,Yes,5,9,190,Wednesday
+17,1287,9/23/2024,Grocery,11.01,No,0,33,286,Tuesday
+13,1649,9/27/2024,Electronics,5.57,Yes,10,9,455,Monday
+18,1296,4/21/2024,Grocery,16.25,Yes,20,13,362,Wednesday
+17,1579,8/20/2024,Clothing,28.99,Yes,5,8,295,Friday
+18,1062,2/6/2024,Home,10.49,Yes,5,10,373,Wednesday
+11,1226,9/12/2024,Electronics,12.09,No,0,14,348,Wednesday
+43,1264,12/9/2024,Personal Care,1.7,Yes,0,29,166,Friday
+14,1710,4/11/2024,Personal Care,17.51,No,0,50,383,Saturday
+33,1970,8/29/2024,Home,3.62,Yes,0,37,400,Monday
+28,1140,8/22/2024,Electronics,26.18,No,0,43,325,Sunday
+14,1407,5/24/2024,Home,29.26,Yes,20,16,426,Friday
+14,1278,12/3/2024,Clothing,10.95,Yes,30,30,33,Saturday
+48,1690,11/24/2024,Personal Care,13.13,No,0,49,74,Saturday
+11,1716,7/15/2024,Personal Care,23.3,Yes,10,29,427,Friday
+13,1828,3/23/2024,Grocery,14.97,Yes,5,9,158,Monday
+5,1850,7/23/2024,Clothing,4.3,Yes,5,36,391,Wednesday
+12,1243,11/9/2024,Electronics,17.4,Yes,10,34,231,Tuesday
+20,1421,8/1/2024,Grocery,29.98,Yes,20,42,400,Friday
+11,1278,11/14/2024,Home,25.52,No,0,49,474,Sunday
+33,1691,10/25/2024,Home,25.83,Yes,0,3,46,Friday
+7,1689,4/15/2024,Personal Care,26.04,No,0,21,162,Friday
+30,1902,12/31/2024,Electronics,9.87,Yes,15,37,352,Sunday
+35,1752,1/16/2024,Grocery,0.82,No,0,13,99,Tuesday
+45,1800,6/1/2024,Personal Care,17.89,Yes,0,33,269,Tuesday
+45,1387,2/25/2024,Grocery,22.67,No,0,33,486,Friday
+50,1809,3/12/2024,Electronics,8.6,Yes,0,36,473,Friday
+25,1178,7/15/2024,Clothing,20.38,Yes,5,23,258,Wednesday
+37,1433,9/21/2024,Home,28.83,No,0,33,342,Thursday
+25,1509,11/18/2024,Clothing,4.98,No,0,17,34,Sunday
+12,1552,8/27/2024,Home,3.72,No,0,37,316,Saturday
+35,1994,11/22/2024,Personal Care,16.34,Yes,10,47,327,Saturday
+40,1381,12/10/2024,Home,16.91,No,0,10,142,Monday
+41,1473,9/2/2024,Personal Care,13.2,Yes,10,10,96,Thursday
+30,1881,6/27/2024,Personal Care,8.09,No,0,17,310,Monday
+23,1317,1/17/2024,Home,1.47,Yes,5,35,308,Friday
+14,1253,6/29/2024,Home,25.18,Yes,5,15,196,Wednesday
+8,1274,2/19/2024,Home,0.73,No,0,34,426,Wednesday
+47,1065,7/24/2024,Electronics,11.28,Yes,5,29,152,Tuesday
+30,1786,10/24/2024,Home,5.38,Yes,10,14,487,Wednesday
+35,1860,2/5/2024,Electronics,3.49,No,0,20,406,Monday
+9,1556,11/21/2024,Clothing,20.27,No,0,21,445,Friday
+29,1101,9/19/2024,Electronics,20.08,Yes,5,32,78,Monday
+27,1339,11/9/2024,Clothing,27.52,No,0,19,271,Tuesday
+4,1378,10/6/2024,Personal Care,19.33,Yes,20,21,150,Wednesday
+49,1527,3/30/2024,Electronics,29.59,No,0,25,159,Friday
+4,1192,10/4/2024,Home,17.99,No,0,6,437,Tuesday
+10,1628,10/5/2024,Grocery,27.44,No,0,49,371,Saturday
+15,1778,1/28/2024,Personal Care,11.99,Yes,30,40,279,Tuesday
+44,1926,5/28/2024,Electronics,24.78,Yes,5,25,301,Friday
+16,1130,12/27/2024,Clothing,11.24,No,0,35,291,Sunday
+20,1608,11/7/2024,Electronics,18.06,No,0,26,371,Friday
+46,1805,11/14/2024,Electronics,2.74,Yes,10,34,73,Sunday
+14,1587,8/14/2024,Home,1.1,Yes,30,22,449,Sunday
+2,1228,2/12/2024,Home,4.21,Yes,20,26,459,Tuesday
+6,1553,10/6/2024,Clothing,1.44,Yes,30,38,460,Thursday
+46,1472,9/10/2024,Personal Care,28.48,Yes,20,21,21,Wednesday
+28,1479,12/4/2024,Personal Care,26.43,Yes,30,14,21,Monday
+10,1525,2/16/2024,Home,22.59,No,0,18,133,Friday
+25,1392,8/25/2024,Grocery,9.98,No,0,23,168,Wednesday
+16,1076,4/30/2024,Grocery,25.1,No,0,35,63,Monday
+48,1761,4/27/2024,Grocery,14.98,No,0,26,151,Wednesday
+38,1763,2/24/2024,Clothing,22.61,No,0,26,40,Thursday
+12,1196,7/11/2024,Electronics,24.28,No,0,37,261,Sunday
+34,1291,8/23/2024,Grocery,5.15,Yes,10,33,143,Thursday
+31,1900,3/17/2024,Home,20.91,No,0,29,104,Tuesday
+18,1371,6/20/2024,Electronics,21.56,Yes,0,24,24,Sunday
+36,1165,8/16/2024,Grocery,23.57,Yes,20,17,395,Friday
+1,1091,1/10/2024,Personal Care,14.24,No,0,36,350,Thursday
+26,1802,4/23/2024,Electronics,2.3,No,0,18,147,Tuesday
+17,1739,5/19/2024,Grocery,22.71,No,0,23,295,Monday
+50,1770,7/11/2024,Clothing,15.08,No,0,28,338,Tuesday
+32,1139,8/10/2024,Grocery,26.17,Yes,10,42,111,Sunday
+46,1882,11/14/2024,Personal Care,24.65,No,0,14,65,Monday
+3,1872,10/29/2024,Clothing,13.56,No,0,16,240,Thursday
+36,1079,10/3/2024,Home,9.1,No,0,10,123,Friday
+44,1839,3/7/2024,Clothing,19.64,No,0,22,101,Thursday
+33,1871,4/29/2024,Clothing,15.04,No,0,22,260,Tuesday
+27,1562,5/29/2024,Grocery,20.07,No,0,12,189,Wednesday
+11,1367,10/15/2024,Clothing,16.13,No,0,21,21,Sunday
+22,1880,12/8/2024,Personal Care,21.39,No,0,6,479,Friday
+8,1684,11/21/2024,Electronics,17.12,Yes,10,24,83,Monday
+43,1551,10/9/2024,Clothing,18.53,Yes,20,12,57,Tuesday
+41,1356,3/22/2024,Electronics,14.42,Yes,15,12,485,Monday
+16,1662,3/26/2024,Grocery,9.45,No,0,32,352,Thursday
+16,1141,5/11/2024,Personal Care,13.1,No,0,21,327,Thursday
+12,1642,4/14/2024,Home,13.57,Yes,5,11,199,Thursday
+24,1220,4/9/2024,Clothing,21.13,No,0,41,416,Sunday
+45,1923,3/17/2024,Clothing,19.92,No,0,7,168,Friday
+5,1258,3/21/2024,Personal Care,27.09,No,0,22,230,Thursday
+48,1374,10/5/2024,Electronics,5.43,Yes,30,30,174,Wednesday
+16,1858,10/21/2024,Electronics,14.98,Yes,0,44,276,Sunday
+44,1016,10/9/2024,Home,0.62,No,0,29,50,Tuesday
+50,1553,4/12/2024,Electronics,13.73,Yes,10,28,159,Sunday
+33,1159,7/30/2024,Personal Care,0.61,Yes,0,20,407,Saturday
+19,1868,10/26/2024,Electronics,1.21,Yes,10,9,450,Tuesday
+13,1135,3/8/2024,Grocery,14.45,Yes,0,18,431,Tuesday
+12,1893,7/22/2024,Electronics,5.34,No,0,34,277,Saturday
+20,1135,1/20/2024,Clothing,22.97,Yes,0,22,99,Tuesday
+36,1846,8/7/2024,Home,26.64,No,0,42,261,Sunday
+33,1770,12/9/2024,Home,4.05,No,0,24,339,Friday
+13,1993,7/22/2024,Personal Care,4.41,No,0,28,148,Saturday
+50,1163,6/11/2024,Electronics,23.73,Yes,10,37,154,Saturday
+49,1355,3/14/2024,Home,14.39,Yes,15,31,261,Friday
+16,1952,4/15/2024,Home,9.19,Yes,5,19,285,Wednesday
+46,1047,6/27/2024,Clothing,8.35,No,0,19,316,Monday
+22,1460,5/31/2024,Electronics,6.86,No,0,36,175,Tuesday
+24,1568,1/5/2024,Personal Care,4.73,No,0,14,278,Wednesday
+24,1097,8/29/2024,Home,6.47,No,0,22,207,Friday
+24,1700,12/4/2024,Personal Care,22.38,No,0,24,60,Monday
+8,1596,1/11/2024,Home,11.98,Yes,10,17,277,Sunday
+42,1325,3/15/2024,Clothing,19.71,Yes,5,25,118,Thursday
+2,1272,7/4/2024,Personal Care,3.59,No,0,9,69,Thursday
+34,1153,8/30/2024,Electronics,28.2,No,0,42,391,Saturday
+50,1303,6/26/2024,Home,2.62,Yes,5,42,94,Sunday
+26,1721,11/27/2024,Home,6.17,No,0,25,96,Friday
+8,1668,3/8/2024,Electronics,20.39,Yes,30,34,191,Saturday
+16,1572,11/4/2024,Clothing,7.79,Yes,0,34,217,Saturday
+25,1528,3/18/2024,Clothing,23.7,Yes,5,40,357,Thursday
+50,1330,11/11/2024,Personal Care,1.87,No,0,27,116,Saturday
+10,1862,6/28/2024,Clothing,1.63,Yes,30,40,248,Saturday
+12,1160,4/15/2024,Electronics,8.84,Yes,15,24,460,Tuesday
+9,1505,4/1/2024,Grocery,4.67,No,0,27,108,Wednesday
+28,1756,3/3/2024,Home,17.02,Yes,0,7,404,Wednesday
+34,1721,8/22/2024,Grocery,19.71,Yes,5,43,436,Saturday
+35,1781,12/14/2024,Electronics,8.49,Yes,0,20,473,Saturday
+48,1722,8/12/2024,Personal Care,17.93,No,0,35,372,Wednesday
+28,1048,6/24/2024,Home,11.57,No,0,37,448,Tuesday
+44,1284,12/10/2024,Clothing,18.08,Yes,0,23,363,Sunday
+38,1604,10/7/2024,Clothing,3.52,Yes,30,45,51,Saturday
+18,1180,8/21/2024,Personal Care,18.75,No,0,26,301,Tuesday
+11,1991,10/6/2024,Clothing,7.92,Yes,20,44,102,Tuesday
+11,1079,1/27/2024,Home,15.9,No,0,32,185,Monday
+18,1541,5/7/2024,Home,20.59,Yes,10,29,127,Saturday
+28,1668,3/10/2024,Personal Care,14.14,No,0,10,422,Friday
+14,1060,12/7/2024,Electronics,1.53,Yes,20,37,384,Wednesday
+9,1060,1/5/2024,Personal Care,22.33,Yes,0,11,140,Friday
+8,1936,8/29/2024,Electronics,25.71,Yes,20,11,33,Wednesday
+40,1595,9/4/2024,Personal Care,5.99,No,0,15,230,Saturday
+48,1161,8/14/2024,Personal Care,22.6,No,0,8,127,Wednesday
+43,1794,11/16/2024,Home,6.37,Yes,10,26,26,Thursday
+7,1211,2/5/2024,Grocery,21.37,No,0,32,160,Thursday
+9,1180,12/25/2024,Personal Care,16.39,No,0,38,255,Saturday
+40,1638,11/1/2024,Personal Care,7.08,No,0,5,329,Tuesday
+37,1978,9/22/2024,Clothing,5.67,Yes,20,24,410,Saturday
+38,1280,12/29/2024,Electronics,8.94,No,0,22,228,Wednesday
+47,1603,4/11/2024,Grocery,4.74,No,0,21,243,Friday
+11,1182,9/12/2024,Clothing,27.45,Yes,10,18,90,Sunday
+43,1886,2/18/2024,Clothing,6.33,Yes,15,9,22,Tuesday
+37,1650,4/5/2024,Grocery,6.26,No,0,31,204,Friday
+41,1749,5/23/2024,Electronics,16.26,No,0,42,337,Saturday
+27,1916,10/28/2024,Personal Care,1.6,No,0,50,137,Sunday
+2,1658,9/16/2024,Personal Care,24.96,No,0,45,335,Sunday
+37,1712,7/18/2024,Electronics,10.89,Yes,0,26,61,Thursday
+44,1635,8/18/2024,Clothing,7.17,No,0,33,74,Saturday
+46,1676,1/19/2024,Grocery,15.59,Yes,10,9,410,Friday
+13,1798,7/9/2024,Personal Care,6.74,Yes,5,19,368,Thursday
+36,1084,8/20/2024,Personal Care,6.95,Yes,20,54,380,Sunday
+14,1357,4/29/2024,Personal Care,7.87,No,0,27,387,Friday
+17,1644,4/9/2024,Electronics,2.71,Yes,30,26,215,Sunday
+19,1265,7/26/2024,Clothing,18.2,No,0,30,145,Sunday
+38,1052,7/4/2024,Clothing,29.68,No,0,13,79,Monday
+47,1848,11/30/2024,Personal Care,27.28,Yes,15,11,164,Friday
+30,1636,11/3/2024,Grocery,13.54,Yes,30,56,266,Sunday
+32,1031,8/4/2024,Personal Care,27.7,No,0,5,269,Monday
+13,1357,10/19/2024,Clothing,28.33,No,0,38,158,Tuesday
+12,1229,6/27/2024,Clothing,8.4,Yes,15,38,85,Monday
+40,1906,2/22/2024,Home,13.15,Yes,15,13,282,Tuesday
+7,1620,11/16/2024,Personal Care,28.54,No,0,31,365,Wednesday
+18,1032,11/28/2024,Clothing,3.45,Yes,30,35,482,Friday
+16,1817,4/30/2024,Clothing,29.53,No,0,24,53,Saturday
+44,1270,2/25/2024,Home,20.9,Yes,30,33,240,Wednesday
+28,1324,8/18/2024,Personal Care,19.37,Yes,30,44,322,Sunday
+10,1600,8/15/2024,Clothing,23.26,Yes,5,18,95,Thursday
+29,1586,4/4/2024,Home,16.34,No,0,17,446,Monday
+11,1416,9/25/2024,Grocery,9.31,No,0,6,235,Friday
+16,1064,11/19/2024,Grocery,15.42,No,0,13,375,Thursday
+32,1152,7/11/2024,Home,26.86,No,0,17,328,Tuesday
+28,1971,4/26/2024,Electronics,5.85,No,0,10,274,Friday
+29,1072,10/10/2024,Home,16.91,No,0,38,89,Sunday
+1,1064,7/21/2024,Clothing,28.23,Yes,10,36,131,Wednesday
+29,1443,9/4/2024,Clothing,9.78,No,0,18,383,Saturday
+23,1612,4/15/2024,Personal Care,16.97,Yes,30,35,236,Friday
+10,1664,11/29/2024,Personal Care,21.32,No,0,21,157,Sunday
+41,1436,10/7/2024,Clothing,10.23,Yes,30,27,318,Saturday
+6,1113,9/27/2024,Grocery,21.06,No,0,37,82,Thursday
+21,1965,11/24/2024,Grocery,20.09,Yes,20,19,267,Sunday
+8,1363,9/3/2024,Electronics,19.16,No,0,19,231,Sunday
+38,1400,8/11/2024,Clothing,7.58,Yes,15,16,152,Wednesday
+21,1692,11/2/2024,Electronics,5.64,No,0,10,135,Tuesday
+40,1789,3/1/2024,Clothing,0.61,No,0,36,219,Sunday
+6,1567,5/30/2024,Clothing,14.84,Yes,15,23,480,Thursday
+1,1658,9/24/2024,Clothing,25.39,Yes,10,39,240,Saturday
+45,1259,3/22/2024,Grocery,18.18,No,0,29,292,Thursday
+8,1975,5/5/2024,Home,18.11,No,0,25,333,Monday
+40,1287,11/14/2024,Personal Care,13.19,Yes,15,28,356,Wednesday
+37,1085,10/20/2024,Grocery,5.79,No,0,12,101,Tuesday
+37,1254,3/2/2024,Home,11.23,Yes,15,25,310,Thursday
+2,1312,12/15/2024,Electronics,5.23,Yes,30,31,45,Monday
+22,1148,6/7/2024,Home,27.31,Yes,10,10,386,Thursday
+15,1158,9/13/2024,Clothing,9.36,No,0,30,342,Thursday
+16,1121,10/12/2024,Personal Care,21.8,Yes,15,24,419,Tuesday
+15,1200,5/22/2024,Electronics,11.91,No,0,27,206,Monday
+41,1359,11/23/2024,Personal Care,23.54,No,0,7,296,Thursday
+24,1562,4/8/2024,Home,21.44,No,0,18,325,Sunday
+5,1528,12/26/2024,Home,9,Yes,20,27,78,Friday
+14,1566,3/8/2024,Clothing,22.02,Yes,5,26,89,Sunday
+32,1323,5/3/2024,Grocery,23.22,Yes,0,35,262,Sunday
+3,1840,8/10/2024,Personal Care,20.5,Yes,20,41,110,Tuesday
+27,1103,8/20/2024,Personal Care,18.47,Yes,10,45,378,Saturday
+38,1272,10/17/2024,Electronics,10.61,Yes,5,22,473,Monday
+23,1072,7/7/2024,Electronics,4.02,Yes,0,39,493,Sunday
+5,1949,7/28/2024,Clothing,9.2,No,0,6,117,Thursday
+43,1557,3/14/2024,Clothing,18.66,Yes,5,39,489,Wednesday
+21,1524,8/22/2024,Clothing,27.57,Yes,30,24,173,Tuesday
+26,1258,6/11/2024,Home,22.2,Yes,5,41,131,Thursday
+34,1959,1/30/2024,Personal Care,29.84,Yes,10,42,221,Sunday
+15,1407,6/4/2024,Personal Care,9.69,Yes,20,29,56,Sunday
+40,1756,10/17/2024,Clothing,15.95,No,0,38,454,Monday
+15,1650,10/1/2024,Electronics,9.3,Yes,15,37,280,Friday
+47,1306,8/3/2024,Personal Care,2.13,Yes,10,30,35,Tuesday
+47,1946,3/24/2024,Grocery,29.15,No,0,29,174,Friday
+22,1413,7/1/2024,Electronics,10.62,No,0,16,388,Tuesday
+14,1324,5/24/2024,Personal Care,3.99,Yes,10,23,432,Wednesday
+2,1856,2/5/2024,Clothing,25.36,Yes,30,28,278,Sunday
+3,1833,11/7/2024,Electronics,10.52,Yes,0,33,416,Monday
+29,1876,8/25/2024,Grocery,24.49,Yes,30,21,334,Thursday
+27,1758,11/9/2024,Clothing,3.49,No,0,9,233,Thursday
+6,1832,1/15/2024,Grocery,16.58,Yes,5,7,427,Wednesday
+33,1135,9/17/2024,Electronics,14.54,No,0,20,69,Thursday
+21,1257,10/8/2024,Personal Care,6.57,No,0,31,96,Saturday
+11,1469,4/25/2024,Clothing,14.61,No,0,46,454,Sunday
+19,1766,12/28/2024,Grocery,17.15,No,0,17,93,Wednesday
+8,1129,9/7/2024,Personal Care,8.77,Yes,5,29,81,Sunday
+28,1399,9/11/2024,Home,19.4,Yes,5,26,492,Sunday
+23,1368,11/4/2024,Personal Care,21.45,Yes,30,18,30,Saturday
+17,1894,8/26/2024,Personal Care,10.38,No,0,13,317,Tuesday
+46,1732,4/21/2024,Grocery,3.35,No,0,10,285,Tuesday
+1,1275,7/21/2024,Clothing,12.38,Yes,20,26,430,Thursday
+9,1001,11/24/2024,Home,2.26,No,0,28,384,Sunday
+40,1515,10/20/2024,Home,18.05,Yes,0,17,69,Friday
+37,1052,12/20/2024,Personal Care,28.82,No,0,28,124,Thursday
+13,1886,11/11/2024,Clothing,7.27,Yes,15,40,144,Saturday
+29,1134,5/18/2024,Electronics,11.6,Yes,10,32,493,Wednesday
+42,1383,1/15/2024,Home,7.9,No,0,31,462,Thursday
+43,1063,4/24/2024,Home,11.94,Yes,30,45,52,Wednesday
+41,1113,11/10/2024,Electronics,15.8,Yes,30,53,116,Sunday
+16,1031,4/24/2024,Clothing,17.89,Yes,0,14,337,Thursday
+4,1329,9/9/2024,Clothing,6.65,No,0,26,395,Friday
+2,1414,10/2/2024,Electronics,6.02,Yes,15,28,175,Tuesday
+24,1599,11/24/2024,Clothing,21.99,Yes,5,35,45,Thursday
+48,1177,1/4/2024,Clothing,29.72,Yes,0,15,483,Friday
+10,1406,2/22/2024,Electronics,8.89,No,0,22,471,Monday
+24,1643,4/25/2024,Personal Care,9.7,Yes,15,42,258,Sunday
+41,1381,12/13/2024,Grocery,8.28,No,0,8,436,Tuesday
+38,1667,7/4/2024,Personal Care,25.89,Yes,20,17,389,Friday
+29,1525,1/26/2024,Clothing,25.67,No,0,14,171,Monday
+20,1903,12/30/2024,Clothing,21.39,No,0,39,369,Sunday
+47,1840,1/14/2024,Personal Care,24.24,Yes,10,33,377,Friday
+28,1269,8/9/2024,Grocery,0.57,Yes,15,22,470,Friday
+1,1389,4/15/2024,Home,4.39,Yes,0,20,300,Thursday
+37,1002,1/5/2024,Personal Care,19.12,Yes,10,11,105,Thursday
+7,1497,10/22/2024,Clothing,25.04,Yes,10,8,63,Thursday
+30,1727,7/6/2024,Clothing,5.66,No,0,30,499,Friday
+16,1928,5/3/2024,Electronics,24.96,No,0,16,449,Friday
+19,1418,9/8/2024,Home,14.42,Yes,15,37,393,Monday
+9,1672,1/1/2024,Clothing,21.67,Yes,0,19,26,Friday
+12,1284,6/22/2024,Personal Care,19.14,Yes,15,18,184,Saturday
+26,1116,7/6/2024,Personal Care,9.96,Yes,5,37,393,Sunday
+21,1694,8/19/2024,Home,12.22,Yes,30,44,434,Sunday
+47,1307,2/1/2024,Clothing,14.23,Yes,0,8,52,Friday
+48,1633,11/16/2024,Electronics,7.44,No,0,11,498,Monday
+16,1035,1/24/2024,Electronics,2.06,Yes,5,13,405,Monday
+41,1360,3/13/2024,Grocery,16.33,Yes,5,13,281,Tuesday
+22,1365,4/25/2024,Electronics,17.93,No,0,9,32,Wednesday
+3,1477,12/19/2024,Clothing,20.6,Yes,20,27,41,Thursday
+44,1039,4/26/2024,Grocery,8.86,Yes,0,18,197,Friday
+17,1980,12/26/2024,Grocery,6.51,No,0,17,368,Thursday
+16,1410,7/3/2024,Clothing,23.77,No,0,27,377,Thursday
+15,1171,8/31/2024,Clothing,20.68,No,0,36,106,Friday
+48,1082,12/12/2024,Home,13.22,No,0,24,57,Friday
+4,1688,6/19/2024,Personal Care,16.53,No,0,33,206,Sunday
+46,1772,1/25/2024,Grocery,3.97,Yes,30,40,276,Wednesday
+40,1557,8/18/2024,Clothing,24.05,Yes,5,31,277,Sunday
+16,1664,12/2/2024,Grocery,3.4,No,0,12,465,Friday
+50,1810,3/14/2024,Grocery,1.8,No,0,31,176,Sunday
+26,1289,3/23/2024,Personal Care,4.33,No,0,33,89,Monday
+32,1426,8/25/2024,Home,21.39,No,0,8,426,Friday
+45,1033,2/19/2024,Personal Care,26.12,Yes,15,29,461,Thursday
+30,1535,9/21/2024,Grocery,10.13,No,0,17,304,Sunday
+40,1382,3/24/2024,Clothing,13.52,No,0,30,354,Sunday
+17,1022,10/30/2024,Home,25.04,No,0,7,255,Friday
+49,1146,11/6/2024,Clothing,6.87,No,0,41,186,Saturday
+7,1643,7/19/2024,Grocery,2.07,No,0,6,179,Monday
+27,1336,12/6/2024,Personal Care,6.61,No,0,24,413,Monday
+39,1747,7/9/2024,Clothing,3.62,No,0,7,105,Tuesday
+6,1813,11/27/2024,Home,14.24,No,0,26,229,Thursday
+18,1773,1/24/2024,Home,23.83,Yes,15,9,259,Tuesday
+47,1055,2/15/2024,Home,6.06,No,0,39,253,Friday
+47,1080,7/27/2024,Personal Care,17.59,No,0,32,205,Friday
+5,1462,6/11/2024,Grocery,23.89,No,0,17,416,Thursday
+16,1500,4/18/2024,Electronics,3.79,No,0,15,179,Sunday
+25,1653,5/17/2024,Clothing,6.65,No,0,38,450,Monday
+28,1794,9/3/2024,Personal Care,14.95,No,0,16,77,Sunday
+5,1790,6/30/2024,Home,4.71,No,0,17,282,Wednesday
+1,1649,11/3/2024,Clothing,3.7,Yes,5,20,276,Saturday
+36,1697,8/21/2024,Personal Care,8.15,No,0,26,103,Saturday
+40,1654,9/3/2024,Clothing,10.65,Yes,20,41,282,Tuesday
+49,1544,9/27/2024,Home,29.13,Yes,15,24,138,Thursday
+46,1166,9/21/2024,Clothing,20.77,Yes,30,36,59,Monday
+35,1631,11/28/2024,Clothing,23.55,Yes,10,32,282,Sunday
+35,1355,8/15/2024,Personal Care,3.82,No,0,13,91,Wednesday
+27,1452,8/4/2024,Clothing,18.93,Yes,15,7,45,Tuesday
+12,1264,9/25/2024,Personal Care,26.97,Yes,5,4,38,Monday
+17,1503,4/16/2024,Personal Care,17.76,Yes,0,16,128,Saturday
+17,1757,2/2/2024,Electronics,16.29,No,0,24,401,Sunday
+26,1679,5/8/2024,Personal Care,12.56,Yes,20,30,108,Wednesday
+42,1377,2/28/2024,Grocery,24.65,No,0,13,317,Friday
+45,1446,4/28/2024,Grocery,2.07,No,0,17,496,Thursday
+2,1277,9/23/2024,Electronics,15.95,Yes,30,50,244,Sunday
+32,1918,4/19/2024,Grocery,25.84,Yes,15,30,411,Thursday
+32,1616,10/1/2024,Grocery,26.43,No,0,35,83,Tuesday
+14,1443,4/21/2024,Personal Care,20.59,Yes,5,19,403,Thursday
+48,1806,11/23/2024,Clothing,18.06,Yes,0,36,171,Tuesday
+31,1007,3/25/2024,Home,18.26,Yes,0,37,381,Wednesday
+4,1362,3/3/2024,Grocery,27.28,No,0,28,277,Tuesday
+22,1751,6/6/2024,Grocery,10.07,Yes,15,25,25,Friday
+19,1070,8/21/2024,Clothing,24.97,Yes,15,10,185,Thursday
+7,1844,5/15/2024,Grocery,0.66,No,0,36,264,Sunday
+16,1842,7/7/2024,Home,27.94,Yes,20,21,310,Thursday
+22,1674,9/11/2024,Electronics,15.96,No,0,23,262,Saturday
+21,1433,7/22/2024,Grocery,16.03,No,0,27,292,Thursday
+15,1784,2/15/2024,Home,28.94,No,0,22,272,Friday
+13,1343,1/24/2024,Personal Care,28.23,No,0,30,393,Tuesday
+7,1815,9/26/2024,Grocery,9.07,No,0,8,194,Friday
+45,1646,4/29/2024,Electronics,0.91,No,0,30,299,Monday
+14,1182,7/17/2024,Clothing,19.19,Yes,0,21,236,Saturday
+22,1580,4/2/2024,Personal Care,19.81,Yes,0,40,58,Sunday
+31,1139,7/20/2024,Clothing,15.76,No,0,45,301,Saturday
+42,1672,9/5/2024,Clothing,20.24,No,0,38,100,Monday
+39,1896,2/10/2024,Personal Care,25.52,No,0,16,366,Saturday
+11,1582,12/16/2024,Grocery,5.85,Yes,30,31,320,Wednesday
+31,1402,7/16/2024,Personal Care,21.53,Yes,15,23,85,Wednesday
+34,1521,4/24/2024,Personal Care,7.28,Yes,5,22,247,Tuesday
+49,1075,8/5/2024,Home,0.71,No,0,47,104,Saturday
+11,1979,1/23/2024,Personal Care,26.73,Yes,0,49,75,Sunday
+18,1935,9/12/2024,Clothing,21.13,Yes,20,38,129,Wednesday
+15,1285,2/12/2024,Electronics,21.77,Yes,15,39,346,Tuesday
+18,1071,5/3/2024,Grocery,6,Yes,20,24,255,Wednesday
+47,1433,10/6/2024,Personal Care,19.28,No,0,24,401,Sunday
+43,1101,1/31/2024,Home,4.72,No,0,26,185,Thursday
+2,1253,10/12/2024,Home,12.3,Yes,20,25,110,Friday
+29,1351,3/1/2024,Home,23.98,Yes,20,31,356,Sunday
+48,1525,5/8/2024,Clothing,12.13,No,0,15,181,Wednesday
+33,1000,2/14/2024,Electronics,10.13,No,0,23,301,Monday
+45,1019,11/7/2024,Electronics,1.37,No,0,31,132,Thursday
+45,1387,4/18/2024,Grocery,14.63,No,0,7,181,Monday
+4,1467,2/13/2024,Clothing,26.15,Yes,0,20,481,Sunday
+23,1350,5/8/2024,Grocery,20.3,Yes,30,14,112,Thursday
+9,1332,8/10/2024,Home,8.86,Yes,5,21,119,Monday
+33,1044,3/14/2024,Home,4.08,Yes,5,20,108,Wednesday
+2,1923,1/29/2024,Personal Care,18.83,No,0,47,317,Sunday
+22,1849,8/13/2024,Clothing,9.24,Yes,20,9,415,Monday
+22,1266,6/28/2024,Clothing,5.41,Yes,15,31,73,Friday
+9,1414,1/25/2024,Electronics,20.52,Yes,5,20,412,Monday
+31,1568,4/3/2024,Clothing,13.21,Yes,15,25,148,Friday
+30,1013,4/14/2024,Grocery,8.15,Yes,5,7,293,Tuesday
+37,1092,6/3/2024,Home,12.01,Yes,30,12,208,Thursday
+22,1229,4/11/2024,Clothing,19.77,Yes,20,42,485,Tuesday
+44,1971,9/8/2024,Personal Care,14.64,Yes,10,27,447,Thursday
+50,1242,1/21/2024,Grocery,23.24,No,0,16,60,Wednesday
+29,1364,10/6/2024,Grocery,2.47,No,0,9,362,Friday
+34,1305,10/24/2024,Clothing,26.77,Yes,15,12,288,Wednesday
+8,1779,12/15/2024,Clothing,6.08,No,0,47,255,Sunday
+22,1487,2/7/2024,Clothing,15.77,Yes,20,38,194,Sunday
+16,1240,6/23/2024,Electronics,1.35,Yes,0,30,173,Monday
+10,1705,11/16/2024,Grocery,12.32,No,0,24,268,Wednesday
+12,1839,3/31/2024,Clothing,9.66,No,0,11,484,Monday
+50,1431,11/4/2024,Clothing,19.11,No,0,21,307,Saturday
+20,1107,3/6/2024,Grocery,22.8,No,0,31,56,Friday
+45,1596,6/15/2024,Personal Care,15.7,Yes,30,56,473,Sunday
+26,1450,4/19/2024,Personal Care,21.29,No,0,35,221,Saturday
+44,1077,5/4/2024,Home,5.14,Yes,15,34,303,Friday
+14,1016,1/18/2024,Clothing,25.9,No,0,29,113,Monday
+32,1054,12/27/2024,Grocery,12.41,No,0,6,90,Wednesday
+8,1109,4/13/2024,Electronics,8.57,Yes,10,26,68,Thursday
+15,1525,11/29/2024,Electronics,5.78,No,0,24,347,Saturday
+6,1838,5/12/2024,Home,12.02,No,0,10,239,Wednesday
+25,1207,8/15/2024,Clothing,0.6,Yes,0,19,326,Monday
+29,1921,9/20/2024,Clothing,14.23,Yes,10,41,473,Sunday
+32,1081,2/19/2024,Personal Care,18.19,No,0,39,261,Friday
+3,1486,3/1/2024,Grocery,4.58,Yes,5,23,39,Wednesday
+37,1022,12/1/2024,Clothing,21.37,No,0,26,64,Wednesday
+14,1908,10/19/2024,Grocery,27.72,No,0,21,281,Sunday
+22,1074,6/8/2024,Home,11.54,No,0,24,321,Tuesday
+7,1330,8/30/2024,Clothing,23.31,Yes,0,7,413,Wednesday
+47,1250,8/22/2024,Electronics,24.48,Yes,5,24,199,Saturday
+49,1952,7/14/2024,Electronics,8.56,Yes,20,14,482,Tuesday
+33,1986,10/13/2024,Grocery,8.56,Yes,15,35,418,Sunday
+18,1361,9/27/2024,Electronics,5.98,No,0,38,277,Tuesday
+27,1132,2/8/2024,Clothing,11.38,No,0,19,227,Thursday
+33,1930,9/25/2024,Clothing,24.03,No,0,7,457,Tuesday
+48,1181,6/19/2024,Electronics,27.86,Yes,0,29,464,Tuesday
+39,1396,10/7/2024,Electronics,14.15,No,0,36,278,Monday
+47,1512,10/7/2024,Grocery,6.36,No,0,16,287,Friday
+10,1072,10/3/2024,Home,14.16,Yes,5,31,190,Saturday
+34,1228,1/28/2024,Clothing,1.96,No,0,16,86,Sunday
+38,1102,1/6/2024,Electronics,2.84,Yes,0,22,282,Wednesday
+37,1704,5/9/2024,Personal Care,26.61,Yes,20,41,294,Sunday
+35,1688,12/9/2024,Home,4.01,No,0,14,201,Wednesday
+23,1809,4/23/2024,Clothing,25.28,Yes,10,24,448,Tuesday
+41,1049,9/23/2024,Grocery,8.65,No,0,10,46,Thursday
+10,1266,11/11/2024,Electronics,21.38,No,0,5,437,Tuesday
+4,1628,12/27/2024,Grocery,9.62,No,0,14,105,Thursday
+9,1521,12/27/2024,Home,12.86,No,0,13,414,Thursday
+3,1311,7/24/2024,Home,12.35,Yes,15,35,108,Monday
+24,1005,8/30/2024,Electronics,8.6,No,0,10,181,Monday
+22,1676,2/17/2024,Home,25.94,No,0,17,107,Monday
+3,1595,9/13/2024,Electronics,16.24,Yes,0,26,250,Sunday
+23,1999,9/27/2024,Grocery,15.37,Yes,20,21,496,Thursday
+12,1805,9/14/2024,Personal Care,6.7,No,0,40,317,Wednesday
+36,1189,5/13/2024,Electronics,14.54,No,0,22,134,Wednesday
+19,1999,10/9/2024,Clothing,13.04,Yes,15,26,440,Sunday
+16,1548,3/5/2024,Home,28.09,Yes,5,27,477,Thursday
+11,1711,12/15/2024,Personal Care,5.09,No,0,39,412,Sunday
+9,1622,6/2/2024,Clothing,19.75,No,0,16,257,Thursday
+12,1340,12/2/2024,Personal Care,11.75,No,0,33,321,Saturday
+10,1315,7/20/2024,Home,7.2,Yes,10,14,494,Tuesday
+29,1548,3/6/2024,Clothing,4,Yes,20,21,383,Friday
+41,1303,4/8/2024,Grocery,10.24,Yes,30,18,364,Thursday
+12,1401,5/21/2024,Clothing,5.79,No,0,35,220,Thursday
+49,1738,11/20/2024,Grocery,22.75,Yes,10,23,25,Friday
+2,1086,9/20/2024,Electronics,25.73,No,0,34,447,Wednesday
+4,1536,8/20/2024,Personal Care,11.78,Yes,30,38,68,Friday
+27,1262,10/13/2024,Home,5.16,Yes,30,37,176,Sunday
+1,1106,3/2/2024,Grocery,13.98,Yes,5,41,465,Friday
+17,1832,4/2/2024,Personal Care,18.01,No,0,5,161,Friday
+26,1120,1/26/2024,Electronics,14.48,Yes,15,28,145,Monday
+41,1980,4/18/2024,Home,13.24,No,0,29,33,Friday
+47,1641,4/25/2024,Electronics,15.04,No,0,30,301,Sunday
+28,1814,5/27/2024,Grocery,28.14,No,0,24,237,Monday
+20,1113,5/22/2024,Personal Care,20.15,No,0,15,450,Tuesday
+49,1357,6/3/2024,Electronics,7.6,No,0,22,44,Thursday
+42,1028,7/18/2024,Personal Care,19.2,Yes,0,30,37,Friday
+19,1015,1/9/2024,Clothing,21.4,Yes,5,23,98,Thursday
+25,1918,1/24/2024,Grocery,14.36,Yes,10,36,295,Monday
+29,1361,10/31/2024,Personal Care,19.66,Yes,0,12,353,Wednesday
+37,1476,1/15/2024,Grocery,16.86,Yes,15,35,452,Monday
+35,1042,2/13/2024,Grocery,13.2,No,0,24,233,Monday
+14,1680,12/25/2024,Home,8.09,Yes,30,17,77,Thursday
+5,1458,3/5/2024,Electronics,24.64,Yes,30,16,74,Tuesday
+2,1409,10/14/2024,Clothing,2.48,Yes,15,37,157,Sunday
+24,1318,12/26/2024,Grocery,28.22,No,0,19,80,Saturday
+11,1918,8/11/2024,Grocery,25.98,Yes,5,6,300,Monday
+49,1146,2/1/2024,Grocery,15.96,Yes,10,34,342,Wednesday
+47,1149,3/15/2024,Personal Care,21.2,Yes,30,37,120,Wednesday
+35,1779,4/16/2024,Personal Care,6.7,No,0,28,243,Saturday
+20,1216,7/5/2024,Home,24.64,Yes,0,30,275,Monday
+5,1932,8/23/2024,Grocery,20.95,Yes,0,9,57,Thursday
+31,1724,4/23/2024,Grocery,13.82,Yes,10,23,146,Thursday
+45,1836,4/26/2024,Home,8.5,No,0,41,61,Sunday
+44,1222,4/22/2024,Personal Care,28.14,No,0,37,194,Sunday
+23,1926,3/21/2024,Clothing,13.88,Yes,0,11,414,Tuesday
+2,1499,1/4/2024,Clothing,6.08,Yes,15,21,93,Friday
+31,1004,4/25/2024,Electronics,22.56,Yes,5,6,378,Monday
+12,1494,8/13/2024,Electronics,16.39,No,0,21,234,Monday
+50,1997,1/14/2024,Home,2.21,Yes,15,34,252,Friday
+40,1607,1/14/2024,Grocery,6.26,Yes,0,48,50,Saturday
+3,1579,11/12/2024,Clothing,12.65,Yes,5,27,230,Sunday
+19,1573,8/27/2024,Home,20.76,No,0,38,429,Tuesday
+39,1312,4/11/2024,Home,10.3,No,0,50,382,Sunday
+32,1429,9/19/2024,Home,29.94,No,0,11,21,Sunday
+16,1371,1/1/2024,Grocery,14.07,Yes,15,31,499,Thursday
+6,1863,1/20/2024,Grocery,5.19,No,0,17,335,Wednesday
+4,1136,2/5/2024,Grocery,20.86,Yes,15,17,72,Wednesday
+23,1929,2/10/2024,Personal Care,18.67,Yes,5,41,456,Wednesday
+16,1560,7/14/2024,Electronics,12.02,Yes,15,44,86,Sunday
+26,1217,5/25/2024,Clothing,9.79,No,0,12,481,Thursday
+10,1915,2/4/2024,Grocery,26.51,Yes,0,9,491,Thursday
+10,1217,9/1/2024,Home,13.48,Yes,10,31,140,Wednesday
+11,1203,4/19/2024,Personal Care,11.68,Yes,0,39,145,Monday
+21,1042,3/30/2024,Electronics,13.79,No,0,7,113,Tuesday
+47,1917,5/17/2024,Home,23.95,No,0,26,437,Tuesday
+11,1917,8/1/2024,Grocery,24.89,No,0,36,308,Saturday
+45,1661,1/9/2024,Personal Care,24.69,Yes,15,40,137,Wednesday
+25,1894,11/14/2024,Home,23.52,Yes,15,31,374,Thursday
+28,1111,10/28/2024,Electronics,4.95,No,0,5,87,Tuesday
+42,1155,2/18/2024,Clothing,20.44,Yes,5,40,482,Tuesday
+34,1921,1/11/2024,Grocery,17.71,Yes,15,26,483,Thursday
+23,1224,3/9/2024,Electronics,11.52,Yes,20,41,79,Tuesday
+46,1840,8/28/2024,Electronics,9.25,No,0,21,213,Wednesday
+22,1273,10/10/2024,Electronics,2.15,Yes,0,20,50,Tuesday
+3,1862,2/25/2024,Personal Care,15.46,Yes,15,34,326,Monday
+35,1474,2/8/2024,Electronics,25.31,No,0,27,140,Wednesday
+10,1131,7/15/2024,Electronics,5.2,Yes,30,28,93,Sunday
+9,1917,5/29/2024,Electronics,24.91,Yes,15,38,352,Friday
+29,1177,3/1/2024,Grocery,24.37,No,0,14,136,Wednesday
+29,1335,6/7/2024,Home,18.35,Yes,15,11,149,Thursday
+4,1734,6/19/2024,Electronics,22.79,Yes,5,31,451,Monday
+4,1089,3/7/2024,Electronics,27.21,No,0,12,206,Friday
+39,1567,8/18/2024,Personal Care,1.81,Yes,0,13,300,Thursday
+19,1251,10/5/2024,Home,3.03,Yes,0,29,74,Friday
+32,1430,11/9/2024,Electronics,14.43,No,0,31,65,Tuesday
+19,1670,1/22/2024,Clothing,8.28,Yes,10,21,176,Wednesday
+16,1198,8/24/2024,Grocery,15.33,Yes,30,55,325,Saturday
+16,1377,8/8/2024,Clothing,9.38,No,0,29,38,Monday
+3,1874,3/14/2024,Grocery,6.83,Yes,10,27,382,Monday
+19,1873,12/10/2024,Electronics,1.2,No,0,46,365,Saturday
+27,1936,7/8/2024,Home,3.36,Yes,5,45,77,Saturday
+4,1814,2/8/2024,Grocery,6.1,No,0,37,376,Monday
+17,1299,2/6/2024,Home,9.96,Yes,10,25,379,Wednesday
+20,1678,1/22/2024,Grocery,28.12,No,0,6,253,Friday
+47,1164,11/29/2024,Grocery,15.41,No,0,24,295,Sunday
+31,1756,7/1/2024,Grocery,18.84,No,0,31,344,Monday
+36,1985,10/29/2024,Home,29.47,No,0,28,132,Thursday
+19,1826,9/19/2024,Home,8.61,No,0,32,151,Wednesday
+27,1950,12/3/2024,Personal Care,29.12,Yes,30,32,323,Sunday
+34,1965,1/26/2024,Grocery,24.01,No,0,32,461,Friday
+11,1136,3/25/2024,Home,28.57,Yes,20,38,315,Thursday
+9,1141,4/21/2024,Grocery,16.45,No,0,14,264,Wednesday
+28,1644,11/1/2024,Electronics,15.86,Yes,20,32,318,Thursday
+12,1132,6/22/2024,Grocery,8.33,Yes,0,18,110,Saturday
+33,1014,1/8/2024,Electronics,25.98,No,0,12,466,Friday
+44,1775,10/18/2024,Electronics,19.32,Yes,0,8,329,Tuesday
+14,1310,6/21/2024,Home,0.5,No,0,35,80,Thursday
+15,1379,10/26/2024,Home,0.75,Yes,15,41,92,Tuesday
+39,1799,10/23/2024,Clothing,7.06,No,0,40,161,Saturday
+36,1079,1/8/2024,Grocery,22.19,Yes,10,14,234,Thursday
+37,1267,9/1/2024,Clothing,7.66,No,0,22,180,Sunday
+22,1971,1/29/2024,Grocery,14.78,No,0,34,118,Monday
+13,1610,5/7/2024,Home,1.85,No,0,36,317,Sunday
+12,1073,3/12/2024,Electronics,10.69,No,0,42,193,Sunday
+39,1203,11/24/2024,Personal Care,23.1,No,0,19,339,Wednesday
+18,1349,9/15/2024,Electronics,10.54,No,0,26,312,Saturday
+37,1745,5/19/2024,Grocery,11.64,No,0,15,157,Tuesday
+34,1110,8/24/2024,Electronics,28.39,No,0,21,27,Friday
+44,1756,1/11/2024,Home,8.29,No,0,33,116,Friday
+45,1431,11/10/2024,Electronics,13.08,No,0,12,210,Tuesday
+34,1603,11/6/2024,Home,29.51,No,0,17,375,Sunday
+6,1539,8/15/2024,Home,22.85,Yes,10,34,166,Thursday
+25,1609,12/21/2024,Home,30,Yes,20,19,272,Monday
+48,1413,1/24/2024,Home,24.58,No,0,16,169,Tuesday
+48,1820,2/21/2024,Electronics,20.17,No,0,14,78,Thursday
+38,1292,3/8/2024,Home,7.59,Yes,10,52,466,Sunday
+28,1589,8/28/2024,Clothing,25.63,No,0,15,399,Sunday
+47,1948,6/25/2024,Home,8.37,No,0,8,284,Wednesday
+2,1902,8/5/2024,Grocery,17.46,Yes,0,22,137,Sunday
+23,1361,9/25/2024,Grocery,3.78,Yes,30,28,418,Friday
+24,1589,6/25/2024,Grocery,24.38,No,0,36,434,Monday
+16,1274,12/29/2024,Grocery,9.51,Yes,10,16,76,Monday
+4,1636,11/25/2024,Personal Care,20.75,No,0,30,207,Friday
+48,1499,4/16/2024,Personal Care,13.84,Yes,20,16,239,Friday
+28,1324,3/18/2024,Home,10.01,No,0,10,470,Thursday
+30,1370,11/8/2024,Grocery,3.94,No,0,14,93,Wednesday
+40,1593,7/21/2024,Clothing,27.91,No,0,21,161,Sunday
+29,1557,6/28/2024,Personal Care,6.88,Yes,20,33,33,Friday
+12,1361,6/10/2024,Grocery,16.56,No,0,26,171,Wednesday
+7,1186,7/31/2024,Personal Care,12.45,Yes,15,9,122,Friday
+10,1172,3/5/2024,Grocery,10.43,Yes,30,41,79,Friday
+1,1809,6/30/2024,Personal Care,1.83,No,0,10,467,Monday
+44,1796,11/4/2024,Grocery,18.17,No,0,30,396,Monday
+33,1362,11/24/2024,Grocery,17.73,No,0,16,388,Tuesday
+8,1787,8/18/2024,Grocery,16.35,No,0,19,346,Monday
+32,1974,6/26/2024,Clothing,6.37,Yes,10,35,222,Thursday
+45,1002,11/4/2024,Home,2.28,No,0,11,154,Friday
+20,1464,12/26/2024,Clothing,21.65,Yes,5,19,429,Monday
+2,1017,4/19/2024,Personal Care,21,Yes,20,26,267,Monday
+8,1246,2/23/2024,Home,4.7,Yes,5,32,211,Sunday
+17,1633,8/8/2024,Electronics,24.32,Yes,30,51,401,Saturday
+23,1494,1/18/2024,Home,9.36,Yes,10,31,102,Tuesday
+41,1586,2/7/2024,Personal Care,10,No,0,9,241,Thursday
+16,1346,7/4/2024,Grocery,21.9,No,0,28,188,Friday
+23,1825,7/15/2024,Home,2.26,No,0,23,108,Wednesday
+36,1248,1/25/2024,Personal Care,17.48,Yes,30,22,408,Tuesday
+7,1026,5/19/2024,Home,24.81,Yes,30,20,109,Thursday
+4,1463,3/3/2024,Grocery,23.57,Yes,0,5,369,Tuesday
+43,1618,4/21/2024,Clothing,7.03,No,0,26,458,Thursday
+38,1186,4/18/2024,Personal Care,12.42,No,0,41,344,Sunday
+20,1108,8/15/2024,Electronics,6.26,No,0,30,242,Monday
+9,1236,12/30/2024,Personal Care,0.8,Yes,0,37,145,Thursday
+28,1725,6/29/2024,Home,6.97,No,0,31,84,Tuesday
+13,1549,5/29/2024,Home,23.18,No,0,37,83,Wednesday
+29,1600,8/15/2024,Clothing,14.61,No,0,25,357,Thursday
+14,1253,3/24/2024,Personal Care,14.9,No,0,23,54,Sunday
+23,1535,6/19/2024,Personal Care,6.44,No,0,8,440,Tuesday
+29,1680,5/21/2024,Grocery,10.03,Yes,20,33,269,Thursday
+9,1094,11/30/2024,Clothing,27.03,No,0,18,145,Saturday
+35,1484,6/12/2024,Clothing,7.16,No,0,29,333,Sunday
+43,1343,3/12/2024,Personal Care,20.73,No,0,36,55,Monday
+27,1775,8/7/2024,Home,21.7,Yes,0,7,487,Wednesday
+2,1356,4/12/2024,Home,27.35,Yes,15,30,30,Saturday
+37,1301,7/15/2024,Clothing,6.7,No,0,16,315,Friday
+49,1651,9/27/2024,Personal Care,25.32,Yes,10,14,498,Tuesday
+35,1763,2/17/2024,Personal Care,10.96,Yes,20,43,92,Monday
+16,1172,11/30/2024,Electronics,24.96,Yes,15,18,58,Sunday
+6,1722,1/30/2024,Grocery,18,Yes,5,27,45,Saturday
+16,1143,12/15/2024,Electronics,25.54,Yes,30,15,81,Wednesday
+26,1129,1/28/2024,Personal Care,14.99,No,0,25,125,Sunday
+36,1047,4/23/2024,Grocery,24.69,Yes,20,32,142,Friday
+14,1513,7/6/2024,Grocery,24.04,No,0,21,418,Sunday
+27,1969,4/21/2024,Personal Care,18.38,Yes,10,36,171,Saturday
+21,1285,12/30/2024,Home,28.44,No,0,27,222,Monday
+3,1652,6/21/2024,Personal Care,16.99,No,0,37,437,Wednesday
+48,1112,7/1/2024,Home,20.58,No,0,25,197,Saturday
+7,1597,10/5/2024,Home,28.96,Yes,10,24,381,Thursday
+7,1890,6/13/2024,Electronics,0.62,Yes,20,43,356,Friday
+21,1787,6/21/2024,Clothing,22.66,No,0,36,42,Sunday
+3,1728,9/20/2024,Clothing,11.72,Yes,30,28,376,Sunday
+12,1437,7/24/2024,Electronics,29.57,Yes,10,14,216,Thursday
+46,1890,5/28/2024,Personal Care,21.86,Yes,30,50,471,Saturday
+19,1946,7/23/2024,Clothing,29.04,No,0,29,89,Thursday
+2,1217,11/20/2024,Home,28.73,No,0,40,498,Saturday
+4,1142,5/27/2024,Home,14.3,Yes,10,20,328,Friday
+37,1998,9/28/2024,Home,25.94,No,0,29,197,Saturday
+33,1842,10/23/2024,Home,19.85,No,0,13,466,Friday
+1,1472,10/21/2024,Electronics,1.26,Yes,5,18,278,Monday
+3,1884,2/27/2024,Personal Care,12.95,No,0,40,360,Saturday
+47,1547,3/27/2024,Home,12.88,Yes,10,39,463,Thursday
+33,1114,10/5/2024,Home,19.12,No,0,38,307,Sunday
+38,1719,10/28/2024,Grocery,8.59,Yes,10,32,39,Friday
+42,1397,2/1/2024,Clothing,28.45,Yes,15,24,160,Thursday
+5,1095,8/7/2024,Electronics,3.33,Yes,0,7,325,Friday
+11,1670,9/19/2024,Home,6.48,Yes,5,42,292,Sunday
+48,1644,6/18/2024,Home,18.29,No,0,22,65,Saturday
+12,1810,5/7/2024,Home,24.65,No,0,14,367,Wednesday
+25,1988,7/23/2024,Clothing,9.09,No,0,7,446,Monday
+41,1444,3/13/2024,Grocery,27.06,Yes,30,14,369,Thursday
+2,1470,5/7/2024,Clothing,3.74,No,0,12,405,Friday
+38,1906,11/4/2024,Home,15.45,Yes,20,37,78,Monday
+48,1968,1/1/2024,Clothing,14.26,Yes,5,44,409,Saturday
+34,1080,10/26/2024,Grocery,13.76,No,0,14,60,Friday
+40,1293,8/1/2024,Grocery,15.53,Yes,30,34,403,Wednesday
+43,1205,2/25/2024,Home,13,Yes,15,44,161,Sunday
+39,1608,2/20/2024,Home,18.28,Yes,0,16,27,Thursday
+5,1095,10/1/2024,Electronics,8.76,No,0,35,184,Tuesday
+35,1853,4/8/2024,Grocery,28.6,Yes,20,31,172,Thursday
+30,1456,9/13/2024,Personal Care,8.61,Yes,30,13,300,Thursday
+22,1685,4/26/2024,Grocery,26.99,No,0,12,46,Wednesday
+49,1243,10/12/2024,Personal Care,8.63,No,0,29,457,Sunday
+14,1578,8/13/2024,Clothing,24.92,No,0,17,255,Tuesday
+46,1574,11/9/2024,Home,12.43,Yes,30,48,331,Saturday
+49,1284,1/30/2024,Electronics,18.67,Yes,5,15,494,Tuesday
+3,1691,11/19/2024,Electronics,10.58,No,0,24,131,Friday
+42,1283,10/9/2024,Grocery,6.48,No,0,18,228,Saturday
+27,1094,4/14/2024,Home,7.88,No,0,34,457,Sunday
+15,1573,12/15/2024,Personal Care,28.7,No,0,30,129,Saturday
+18,1434,4/9/2024,Personal Care,16.05,Yes,15,31,345,Thursday
+19,1968,4/27/2024,Personal Care,11.43,No,0,20,331,Monday
+36,1048,10/4/2024,Electronics,26.9,Yes,0,12,206,Monday
+29,1719,11/19/2024,Personal Care,28.56,No,0,11,374,Thursday
+24,1886,1/2/2024,Personal Care,13.86,Yes,5,10,429,Wednesday
+35,1142,1/10/2024,Personal Care,7.97,Yes,15,30,30,Saturday
+40,1310,3/1/2024,Grocery,20.23,Yes,0,17,480,Sunday
+15,1292,7/5/2024,Home,4.95,No,0,19,135,Saturday
+17,1162,2/17/2024,Clothing,18.66,Yes,0,6,450,Thursday
+42,1342,11/14/2024,Electronics,22.08,Yes,20,12,183,Tuesday
+8,1055,12/9/2024,Home,23.42,Yes,30,41,186,Sunday
+45,1605,12/15/2024,Personal Care,9.76,No,0,36,174,Tuesday
+48,1966,8/8/2024,Electronics,7.39,Yes,20,28,322,Wednesday
+9,1909,12/15/2024,Personal Care,17.34,Yes,20,41,299,Wednesday
+38,1410,4/26/2024,Grocery,13.9,Yes,5,27,130,Monday
+39,1532,5/30/2024,Clothing,15.83,Yes,30,15,186,Thursday
+15,1047,2/19/2024,Grocery,6.93,Yes,5,33,64,Thursday
+46,1412,11/5/2024,Personal Care,22.8,Yes,20,18,366,Monday
+40,1388,6/2/2024,Personal Care,15.11,Yes,20,43,272,Sunday
+30,1007,12/28/2024,Clothing,4.2,No,0,50,128,Sunday
+9,1558,2/11/2024,Home,24.65,No,0,47,83,Saturday
+46,1977,1/26/2024,Electronics,1.99,Yes,30,26,268,Sunday
+23,1573,3/24/2024,Clothing,27.72,Yes,30,36,483,Friday
+20,1099,8/18/2024,Grocery,23.62,Yes,30,44,196,Saturday
+34,1000,10/3/2024,Electronics,23,No,0,27,199,Friday
+41,1090,8/14/2024,Electronics,22.97,Yes,0,19,144,Wednesday
+4,1754,6/22/2024,Clothing,24.06,Yes,10,13,157,Wednesday
+23,1328,12/10/2024,Clothing,11.47,No,0,30,331,Monday
+10,1045,1/19/2024,Home,6.71,No,0,6,70,Friday
+19,1074,10/18/2024,Clothing,17.14,No,0,34,180,Saturday
+11,1153,10/27/2024,Home,16.09,No,0,14,142,Thursday
+24,1958,1/6/2024,Personal Care,18.75,No,0,8,365,Wednesday
+42,1527,5/22/2024,Home,9.17,No,0,19,498,Friday
+35,1744,5/10/2024,Electronics,6.12,No,0,16,355,Tuesday
+21,1233,3/16/2024,Clothing,10.5,No,0,37,118,Sunday
+23,1982,6/20/2024,Home,7.49,No,0,35,429,Friday
+37,1774,8/21/2024,Home,14.33,Yes,5,24,58,Tuesday
+7,1670,10/23/2024,Personal Care,27.17,Yes,15,27,444,Tuesday
+28,1172,9/11/2024,Grocery,12.76,Yes,15,36,193,Thursday
+30,1892,6/28/2024,Grocery,8.93,Yes,10,21,388,Monday
+43,1691,7/27/2024,Electronics,29.83,Yes,10,20,401,Friday
+42,1892,1/25/2024,Clothing,13.93,No,0,27,391,Thursday
+25,1675,10/29/2024,Personal Care,7.12,No,0,15,499,Sunday
+17,1674,9/20/2024,Grocery,28.59,No,0,30,325,Tuesday
+4,1639,11/29/2024,Home,9.09,No,0,8,44,Wednesday
+15,1465,8/5/2024,Home,27.02,Yes,5,20,449,Friday
+31,1312,1/19/2024,Grocery,6.82,Yes,30,25,168,Wednesday
+45,1742,11/16/2024,Home,28.65,Yes,20,22,353,Friday
+18,1367,2/28/2024,Grocery,10.94,No,0,19,293,Friday
+18,1709,2/24/2024,Personal Care,10.53,No,0,21,21,Saturday
+27,1173,6/20/2024,Personal Care,11.05,Yes,15,26,322,Friday
+47,1319,2/25/2024,Electronics,15.33,No,0,17,324,Sunday
+39,1519,6/14/2024,Home,21.71,No,0,31,317,Wednesday
+48,1470,9/2/2024,Home,18.34,Yes,10,14,270,Friday
+32,1787,3/22/2024,Home,17.2,Yes,20,40,190,Sunday
+43,1569,12/19/2024,Personal Care,21.35,Yes,0,39,158,Saturday
+39,1570,11/3/2024,Grocery,16.95,Yes,30,35,445,Tuesday
+32,1385,10/27/2024,Personal Care,15.72,Yes,30,37,401,Friday
+26,1651,1/11/2024,Clothing,21.44,Yes,10,43,376,Sunday
+15,1689,9/28/2024,Grocery,3.71,Yes,10,24,482,Thursday
+25,1629,3/13/2024,Home,3.41,Yes,10,7,492,Thursday
+49,1021,6/28/2024,Clothing,24.84,Yes,20,29,194,Tuesday
+11,1572,5/1/2024,Grocery,16.44,No,0,33,83,Tuesday
+24,1901,3/20/2024,Home,20.18,No,0,23,341,Wednesday
+7,1137,6/27/2024,Clothing,21.09,Yes,0,22,422,Sunday
+6,1556,12/25/2024,Clothing,27.04,Yes,0,19,101,Friday
+33,1751,10/17/2024,Personal Care,10.74,Yes,20,24,187,Friday
+23,1472,12/8/2024,Personal Care,7.67,No,0,39,415,Thursday
+47,1913,3/28/2024,Personal Care,17.11,No,0,36,285,Tuesday
+1,1346,10/6/2024,Electronics,16.8,No,0,21,425,Tuesday
+12,1643,1/25/2024,Personal Care,1.39,Yes,10,50,476,Sunday
+26,1900,5/25/2024,Home,16.33,Yes,15,43,109,Sunday
+47,1082,11/1/2024,Electronics,29.43,No,0,9,36,Monday
+32,1480,7/18/2024,Clothing,0.52,Yes,20,37,344,Monday
+22,1045,12/30/2024,Electronics,27.67,Yes,30,29,489,Saturday
+28,1137,1/20/2024,Clothing,29.34,Yes,20,33,390,Saturday
+43,1730,1/11/2024,Personal Care,26.06,Yes,5,37,69,Sunday
+8,1317,12/7/2024,Clothing,19.78,No,0,18,123,Monday
+21,1883,5/25/2024,Clothing,10.3,No,0,12,402,Tuesday
+46,1010,9/4/2024,Grocery,19.88,Yes,30,43,378,Friday
+41,1865,6/12/2024,Grocery,21.89,No,0,34,371,Wednesday
+12,1109,3/12/2024,Electronics,25.49,No,0,16,336,Friday
+50,1860,6/26/2024,Clothing,29.13,No,0,6,400,Friday
+13,1684,7/17/2024,Personal Care,29.16,Yes,20,15,388,Wednesday
+32,1628,7/19/2024,Electronics,24.82,Yes,0,25,378,Sunday
+16,1634,6/13/2024,Grocery,17.6,Yes,10,29,450,Monday
+16,1357,5/24/2024,Electronics,23.47,Yes,20,45,52,Saturday
+30,1986,3/12/2024,Personal Care,24.89,No,0,30,169,Thursday
+43,1629,6/4/2024,Home,19.21,No,0,16,235,Sunday
+41,1836,12/11/2024,Grocery,12.57,No,0,14,148,Monday
+46,1451,9/20/2024,Grocery,5.97,Yes,20,15,144,Monday
+20,1118,1/21/2024,Electronics,18.3,Yes,20,34,344,Wednesday
+41,1277,6/15/2024,Electronics,27.79,Yes,5,28,205,Thursday
+20,1167,3/18/2024,Grocery,23.35,No,0,15,164,Thursday
+23,1367,2/13/2024,Clothing,11.21,No,0,39,313,Monday
+1,1043,10/30/2024,Electronics,14.87,Yes,15,27,468,Monday
+43,1530,12/27/2024,Grocery,8.87,No,0,41,127,Sunday
+25,1879,11/16/2024,Clothing,21.77,No,0,25,493,Tuesday
+30,1053,4/8/2024,Personal Care,16.05,Yes,0,16,281,Monday
+7,1320,5/28/2024,Grocery,26.66,Yes,20,37,61,Wednesday
+47,1490,11/28/2024,Electronics,3.78,Yes,15,10,73,Wednesday
+35,1331,12/7/2024,Home,5.11,No,0,14,269,Wednesday
+43,1015,3/1/2024,Clothing,2.62,Yes,5,29,240,Wednesday
+24,1930,7/25/2024,Home,28.83,Yes,30,18,209,Tuesday
+12,1365,12/17/2024,Grocery,28.75,Yes,30,26,350,Sunday
+15,1907,10/16/2024,Electronics,10.6,No,0,33,368,Saturday
+4,1984,8/28/2024,Personal Care,7.9,No,0,28,393,Monday
+9,1989,7/6/2024,Home,3.98,No,0,18,328,Monday
+9,1851,3/15/2024,Grocery,5.99,No,0,19,366,Tuesday
+7,1696,9/28/2024,Home,6.68,Yes,15,53,294,Saturday
+6,1646,4/10/2024,Grocery,19.57,No,0,17,203,Sunday
+33,1051,9/18/2024,Personal Care,19.2,Yes,15,33,184,Wednesday
+12,1687,5/25/2024,Personal Care,17,Yes,10,39,158,Sunday
+16,1636,8/1/2024,Home,11.25,No,0,32,239,Tuesday
+17,1784,6/10/2024,Personal Care,11.89,Yes,10,10,198,Friday
+15,1205,9/23/2024,Clothing,18.43,Yes,20,32,183,Wednesday
+50,1801,2/24/2024,Electronics,28.75,Yes,15,34,432,Wednesday
+11,1756,6/15/2024,Grocery,25.35,Yes,15,25,382,Friday
+27,1323,2/15/2024,Personal Care,21.59,No,0,28,78,Wednesday
+3,1422,7/28/2024,Grocery,10.89,No,0,31,94,Saturday
+17,1394,1/23/2024,Personal Care,16.73,No,0,27,136,Friday
+34,1326,11/7/2024,Grocery,19.04,Yes,5,36,280,Thursday
+41,1733,6/16/2024,Electronics,8.84,Yes,10,32,377,Wednesday
+32,1958,6/23/2024,Grocery,17.29,No,0,25,25,Wednesday
+39,1250,4/16/2024,Grocery,21.31,No,0,30,58,Saturday
+40,1378,2/26/2024,Personal Care,2.99,No,0,12,166,Friday
+14,1869,4/6/2024,Electronics,25.14,Yes,5,20,213,Tuesday
+30,1891,8/6/2024,Personal Care,1.86,Yes,30,30,64,Saturday
+22,1921,5/27/2024,Clothing,12.49,Yes,5,27,163,Sunday
+21,1616,7/9/2024,Personal Care,12.91,No,0,17,207,Sunday
+37,1352,4/20/2024,Grocery,3.56,Yes,15,21,379,Sunday
+49,1925,5/30/2024,Electronics,18.71,Yes,5,14,37,Saturday
+24,1849,11/16/2024,Home,5.97,Yes,5,28,479,Thursday
+27,1545,6/4/2024,Grocery,4.83,No,0,34,89,Monday
+25,1893,12/19/2024,Home,27.98,Yes,5,11,417,Tuesday
+37,1847,6/28/2024,Grocery,15.71,No,0,18,94,Monday
+43,1220,6/14/2024,Clothing,15.06,Yes,20,33,425,Monday
+42,1461,8/23/2024,Personal Care,29.86,No,0,26,271,Saturday
+23,1469,10/17/2024,Home,27.43,Yes,15,14,179,Wednesday
+11,1347,11/11/2024,Grocery,15,Yes,20,21,470,Wednesday
+16,1244,7/6/2024,Clothing,17.21,No,0,32,458,Friday
+11,1066,4/12/2024,Electronics,24.72,No,0,20,172,Tuesday
+43,1224,12/23/2024,Grocery,23.34,No,0,31,290,Friday
+49,1739,6/25/2024,Clothing,28.22,No,0,32,338,Monday
+13,1136,2/14/2024,Personal Care,4.18,Yes,30,16,347,Monday
+47,1920,6/12/2024,Grocery,29.15,No,0,14,69,Monday
+35,1292,11/22/2024,Personal Care,13.67,Yes,5,38,333,Thursday
+29,1895,7/19/2024,Grocery,15.86,No,0,27,311,Tuesday
+17,1115,8/28/2024,Personal Care,7.42,No,0,38,123,Monday
+1,1195,9/23/2024,Personal Care,17.63,No,0,9,424,Monday
+25,1524,3/7/2024,Electronics,13.18,Yes,10,29,205,Wednesday
+41,1366,3/12/2024,Grocery,19.21,No,0,14,134,Monday
+44,1383,3/22/2024,Electronics,18.27,No,0,15,366,Tuesday
+13,1608,4/9/2024,Electronics,24.19,Yes,10,17,180,Tuesday
+34,1378,5/3/2024,Electronics,6.98,Yes,30,23,224,Tuesday
+36,1492,8/14/2024,Personal Care,13.13,No,0,23,483,Thursday
+18,1098,2/15/2024,Electronics,15.58,No,0,25,333,Wednesday
+38,1021,12/14/2024,Electronics,29.85,Yes,30,45,115,Friday
+36,1404,12/19/2024,Clothing,24.51,No,0,30,449,Thursday
+24,1799,5/1/2024,Personal Care,10.62,Yes,5,38,379,Monday
+7,1917,1/9/2024,Clothing,12.19,No,0,12,181,Thursday
+3,1119,11/22/2024,Home,28.23,Yes,15,11,90,Monday
+17,1130,2/14/2024,Personal Care,20.75,Yes,30,24,331,Tuesday
+41,1385,10/28/2024,Personal Care,9.25,No,0,29,259,Thursday
+37,1150,11/22/2024,Personal Care,5.95,Yes,10,8,460,Friday
+47,1425,12/23/2024,Grocery,15.67,No,0,39,245,Tuesday
+27,1052,9/23/2024,Home,29.84,No,0,26,184,Friday
+26,1845,9/23/2024,Personal Care,2.97,Yes,15,13,24,Wednesday
+29,1237,10/23/2024,Electronics,7.62,No,0,48,126,Saturday
+18,1740,1/7/2024,Grocery,14.66,Yes,5,33,463,Friday
+16,1636,8/24/2024,Grocery,1.18,Yes,30,48,329,Saturday
+7,1143,7/15/2024,Grocery,25.93,No,0,41,275,Sunday
+1,1350,11/17/2024,Clothing,20.22,No,0,50,462,Sunday
+26,1101,10/3/2024,Personal Care,15.43,No,0,14,241,Thursday
+27,1558,7/2/2024,Grocery,9.15,Yes,20,22,101,Wednesday
+40,1625,1/23/2024,Home,15.35,Yes,20,13,26,Wednesday
+24,1474,10/19/2024,Grocery,3.86,Yes,10,19,310,Thursday
+22,1317,6/23/2024,Clothing,17.78,No,0,28,448,Friday
+32,1737,12/28/2024,Electronics,8.55,No,0,25,451,Monday
+14,1591,8/22/2024,Electronics,23.57,Yes,5,10,243,Tuesday
+35,1061,2/29/2024,Personal Care,18.43,Yes,30,39,459,Monday
+4,1150,10/19/2024,Clothing,14.38,No,0,38,465,Tuesday
+13,1291,3/11/2024,Home,18.3,Yes,0,7,165,Thursday
+46,1762,12/4/2024,Clothing,1.78,No,0,23,276,Wednesday
+31,1880,5/3/2024,Electronics,13.89,No,0,47,153,Sunday
+2,1171,4/29/2024,Clothing,29.62,No,0,1,33,Monday
+24,1998,1/12/2024,Electronics,12.7,No,0,19,378,Friday
+13,1563,1/14/2024,Electronics,22.09,Yes,10,24,346,Tuesday
+9,1925,7/13/2024,Personal Care,20.43,No,0,2,21,Tuesday
+30,1244,6/7/2024,Personal Care,16.05,Yes,10,41,396,Tuesday
+36,1414,8/26/2024,Clothing,16.23,Yes,10,7,94,Friday
+46,1003,2/25/2024,Clothing,22.26,No,0,6,256,Tuesday
+50,1093,7/24/2024,Home,14.17,Yes,15,16,303,Monday
+14,1722,2/24/2024,Electronics,28.6,No,0,14,453,Monday
+26,1536,3/2/2024,Clothing,29.87,No,0,35,301,Tuesday
+13,1330,5/27/2024,Electronics,9.94,Yes,15,15,71,Wednesday
+30,1662,11/26/2024,Home,17.49,No,0,13,83,Tuesday
+6,1285,2/5/2024,Home,15.88,No,0,40,85,Saturday
+15,1566,11/10/2024,Electronics,21.29,Yes,30,34,92,Tuesday
+45,1129,5/18/2024,Home,26.27,No,0,20,417,Thursday
+19,1550,6/10/2024,Grocery,17.11,Yes,10,22,460,Thursday
+29,1736,2/3/2024,Grocery,3.02,No,0,16,332,Sunday
+29,1332,12/17/2024,Home,18,Yes,10,13,20,Tuesday
+24,1206,2/13/2024,Grocery,26.33,Yes,15,27,385,Wednesday
+10,1571,4/21/2024,Personal Care,4.42,Yes,10,36,234,Wednesday
+18,1606,4/2/2024,Electronics,1.12,Yes,20,23,374,Wednesday
+17,1559,7/18/2024,Home,19.35,Yes,5,37,417,Sunday
+32,1961,3/1/2024,Personal Care,13.98,No,0,5,460,Wednesday
+2,1952,10/22/2024,Personal Care,27.02,No,0,28,423,Thursday
+50,1284,3/25/2024,Personal Care,5.81,No,0,25,129,Monday
+49,1554,7/25/2024,Grocery,0.93,No,0,45,386,Sunday
+22,1945,4/19/2024,Grocery,7.26,Yes,5,24,24,Wednesday
+36,1964,7/12/2024,Home,2.1,No,0,25,81,Friday
+20,1998,4/26/2024,Home,20.21,No,0,25,188,Saturday
+18,1598,1/2/2024,Home,25.16,No,0,31,128,Friday
+22,1094,9/27/2024,Home,4.29,Yes,20,23,367,Saturday
+20,1816,12/18/2024,Clothing,27.18,Yes,0,11,307,Wednesday
+20,1810,2/2/2024,Clothing,15.85,Yes,0,15,446,Wednesday
+4,1256,12/7/2024,Electronics,29,No,0,8,398,Tuesday
+43,1844,1/11/2024,Personal Care,6.99,Yes,10,30,441,Thursday
+24,1861,10/6/2024,Home,15.95,Yes,0,26,472,Thursday
+42,1616,3/5/2024,Grocery,15.37,Yes,20,15,322,Thursday
+8,1900,11/3/2024,Grocery,0.71,No,0,30,412,Saturday
+18,1438,3/26/2024,Personal Care,7.87,Yes,30,37,485,Monday
+7,1685,8/8/2024,Grocery,29.89,Yes,15,31,225,Monday
+46,1791,12/12/2024,Clothing,25.57,Yes,30,32,68,Saturday
+34,1683,1/24/2024,Electronics,0.75,Yes,20,26,368,Friday
+8,1512,7/24/2024,Clothing,7.64,No,0,19,142,Thursday
+46,1477,5/26/2024,Personal Care,1.71,Yes,10,15,49,Saturday
+26,1839,5/2/2024,Clothing,6.01,No,0,24,24,Wednesday
+47,1954,5/23/2024,Clothing,27.21,Yes,5,46,225,Saturday
+2,1590,9/17/2024,Home,25.99,No,0,15,457,Tuesday
+30,1876,7/3/2024,Grocery,11.01,Yes,20,26,32,Sunday
+7,1289,12/11/2024,Grocery,26.63,Yes,30,26,244,Saturday
+45,1224,11/14/2024,Grocery,7.05,No,0,38,218,Thursday
+5,1095,1/21/2024,Grocery,18.57,No,0,31,440,Tuesday
+46,1114,10/31/2024,Clothing,18.12,No,0,16,373,Wednesday
+7,1256,7/30/2024,Grocery,17.08,No,0,32,281,Friday
+9,1174,10/15/2024,Home,2.26,Yes,10,22,144,Saturday
+38,1829,11/7/2024,Personal Care,15.21,Yes,5,21,192,Friday
+8,1044,4/29/2024,Grocery,5.23,No,0,29,210,Tuesday
+15,1213,2/23/2024,Grocery,3.79,Yes,20,34,332,Saturday
+36,1085,3/17/2024,Electronics,23.08,Yes,5,34,52,Sunday
+14,1488,2/22/2024,Clothing,10.34,Yes,20,42,95,Monday
+39,1178,2/26/2024,Home,9.86,Yes,15,28,308,Friday
+42,1289,9/23/2024,Grocery,29.64,No,0,10,321,Monday
+48,1330,2/22/2024,Home,17.57,Yes,30,44,135,Monday
+8,1907,11/7/2024,Grocery,9.15,No,0,20,91,Friday
+15,1857,4/14/2024,Home,7.94,Yes,10,9,364,Friday
+49,1400,1/23/2024,Home,18.6,Yes,5,13,426,Monday
+4,1064,11/26/2024,Home,20.6,Yes,0,10,425,Wednesday
+22,1026,2/5/2024,Grocery,26.5,No,0,14,271,Friday
+13,1882,9/5/2024,Home,18.69,No,0,31,269,Saturday
+8,1973,11/4/2024,Personal Care,2.27,No,0,24,62,Friday
+16,1565,7/28/2024,Clothing,14.86,No,0,21,473,Monday
+32,1202,10/22/2024,Grocery,22.43,No,0,26,436,Tuesday
+1,1759,3/6/2024,Grocery,25.91,Yes,30,32,142,Friday
+37,1172,9/7/2024,Electronics,17.07,No,0,47,476,Sunday
+13,1532,12/14/2024,Electronics,12.9,No,0,19,177,Thursday
+1,1202,1/24/2024,Clothing,0.73,Yes,30,51,427,Sunday
+17,1017,9/13/2024,Clothing,1.13,Yes,20,29,118,Monday
+27,1787,6/12/2024,Grocery,9.91,No,0,30,115,Monday
+48,1124,3/30/2024,Grocery,0.64,No,0,7,359,Tuesday
+27,1236,8/23/2024,Grocery,2.02,No,0,26,136,Tuesday
+5,1338,10/29/2024,Home,22.2,No,0,42,241,Sunday
+30,1184,8/20/2024,Electronics,25.62,Yes,15,20,352,Thursday
+11,1162,11/15/2024,Electronics,10.86,No,0,25,164,Monday
+1,1267,6/21/2024,Home,17.03,Yes,20,22,140,Thursday
+2,1140,1/11/2024,Clothing,15.15,No,0,22,443,Thursday
+3,1518,11/24/2024,Grocery,3.91,Yes,30,37,105,Sunday
+42,1878,4/6/2024,Grocery,11.02,Yes,20,31,171,Sunday
+22,1326,11/16/2024,Personal Care,22.06,No,0,32,289,Saturday
+10,1823,9/4/2024,Home,5.72,Yes,0,20,220,Thursday
+49,1042,4/1/2024,Personal Care,21.44,No,0,8,222,Tuesday
+50,1302,11/7/2024,Clothing,2.38,No,0,39,437,Friday
+6,1093,12/29/2024,Personal Care,18.75,No,0,33,135,Saturday
+26,1994,7/23/2024,Home,12.98,No,0,26,61,Monday
+13,1191,1/21/2024,Electronics,15.14,Yes,10,34,221,Monday
+28,1862,6/26/2024,Clothing,12.59,No,0,39,358,Wednesday
+26,1210,4/27/2024,Grocery,9.45,Yes,20,20,402,Saturday
+37,1025,12/31/2024,Grocery,29.11,No,0,40,311,Friday
+11,1469,7/28/2024,Electronics,14.43,Yes,30,37,275,Saturday
+5,1207,5/12/2024,Electronics,25.03,Yes,0,37,241,Tuesday
+38,1477,5/13/2024,Clothing,22.49,Yes,5,23,355,Friday
+48,1172,7/28/2024,Personal Care,6.05,No,0,26,492,Thursday
+20,1116,6/18/2024,Personal Care,14.84,No,0,32,212,Saturday
+20,1974,12/10/2024,Grocery,4.31,No,0,19,56,Tuesday
+12,1226,8/13/2024,Grocery,17.14,Yes,30,14,281,Tuesday
+27,1418,9/30/2024,Home,7.52,No,0,5,156,Wednesday
+33,1834,1/24/2024,Electronics,10.82,Yes,15,42,245,Sunday
+34,1192,6/22/2024,Clothing,1.57,No,0,28,169,Thursday
+26,1248,6/21/2024,Home,16.09,Yes,10,23,65,Saturday
+20,1395,6/23/2024,Grocery,18.75,No,0,15,394,Monday
+45,1410,9/27/2024,Electronics,10.79,No,0,47,349,Saturday
+22,1053,11/14/2024,Personal Care,11.6,Yes,10,25,127,Monday
+12,1507,12/12/2024,Electronics,2.34,Yes,5,14,61,Friday
+3,1949,5/26/2024,Electronics,21.31,Yes,10,44,247,Sunday
+44,1157,1/29/2024,Grocery,7.2,Yes,10,8,455,Monday
+31,1049,9/15/2024,Personal Care,4.65,Yes,5,27,476,Monday
+7,1368,5/5/2024,Clothing,9.61,Yes,10,39,357,Wednesday
+10,1030,7/21/2024,Electronics,21.4,Yes,5,17,396,Wednesday
+46,1036,11/1/2024,Home,5.47,No,0,38,151,Tuesday
+40,1943,3/27/2024,Clothing,2.66,No,0,35,35,Sunday
+12,1433,2/3/2024,Clothing,6.59,Yes,20,13,292,Monday
+5,1369,4/12/2024,Electronics,28.35,Yes,30,21,316,Tuesday
+39,1232,4/2/2024,Electronics,10.86,No,0,40,234,Tuesday
+3,1940,8/30/2024,Clothing,21.19,Yes,0,17,68,Saturday
+34,1441,12/26/2024,Electronics,26.07,Yes,5,26,144,Thursday
+49,1154,5/31/2024,Personal Care,19.27,Yes,30,23,23,Monday
+50,1837,3/6/2024,Electronics,26.18,No,0,7,433,Tuesday
+44,1592,9/10/2024,Grocery,11.06,Yes,5,27,53,Saturday
+48,1911,10/29/2024,Clothing,15.47,Yes,20,35,366,Sunday
+21,1041,3/23/2024,Personal Care,3.44,Yes,20,21,476,Saturday
+22,1546,4/26/2024,Personal Care,20.5,No,0,38,299,Tuesday
+8,1393,9/26/2024,Electronics,14.4,Yes,5,16,191,Tuesday
+31,1458,9/30/2024,Clothing,1.17,Yes,30,40,454,Saturday
+42,1067,5/3/2024,Personal Care,9.6,Yes,10,8,143,Monday
+6,1436,3/5/2024,Clothing,23.6,No,0,20,192,Wednesday
+17,1559,5/7/2024,Grocery,18.13,No,0,6,490,Friday
+12,1309,11/2/2024,Electronics,23.78,No,0,41,450,Saturday
+6,1150,6/7/2024,Grocery,19.71,No,0,30,296,Thursday
+30,1840,3/14/2024,Personal Care,19.49,No,0,18,52,Saturday
+13,1759,2/22/2024,Grocery,29.21,No,0,22,137,Friday
+2,1487,5/15/2024,Personal Care,28.47,Yes,10,23,250,Sunday
+32,1486,9/25/2024,Electronics,8.17,Yes,10,8,466,Wednesday
+18,1000,3/2/2024,Home,26.49,No,0,22,110,Thursday
+36,1059,4/14/2024,Electronics,11.58,Yes,20,22,332,Thursday
+37,1578,12/13/2024,Grocery,29.9,Yes,15,43,126,Sunday
+3,1244,10/18/2024,Grocery,14.45,No,0,29,420,Friday
+47,1762,6/16/2024,Home,25.36,Yes,0,24,292,Friday
+17,1965,1/24/2024,Electronics,0.56,No,0,12,206,Monday
+14,1230,1/25/2024,Clothing,8.48,No,0,19,241,Tuesday
+28,1035,5/24/2024,Clothing,13.09,Yes,0,19,285,Saturday
+37,1210,3/6/2024,Personal Care,23.53,No,0,20,248,Thursday
+20,1688,11/1/2024,Personal Care,28.36,No,0,30,84,Tuesday
+45,1095,3/1/2024,Electronics,17.34,No,0,24,91,Wednesday
+46,1135,12/22/2024,Home,29.14,No,0,24,269,Saturday
+42,1553,9/26/2024,Grocery,0.69,No,0,13,493,Wednesday
+14,1864,11/22/2024,Personal Care,25.23,Yes,5,44,338,Saturday
+20,1083,12/15/2024,Electronics,2.79,Yes,20,35,344,Sunday
+11,1107,2/26/2024,Personal Care,0.53,Yes,10,32,369,Tuesday
+15,1974,10/12/2024,Clothing,0.71,No,0,17,139,Monday
+1,1013,9/12/2024,Personal Care,1.28,No,0,6,397,Monday
+45,1834,11/26/2024,Home,3.83,No,0,22,325,Friday
+48,1689,1/9/2024,Personal Care,26.83,No,0,47,80,Sunday
+17,1995,4/18/2024,Home,4.03,Yes,0,41,470,Saturday
+3,1507,11/26/2024,Clothing,26.07,Yes,5,26,100,Sunday
+48,1430,5/11/2024,Clothing,14.07,Yes,10,34,34,Wednesday
+23,1296,10/9/2024,Personal Care,26.46,No,0,38,347,Thursday
+23,1719,8/31/2024,Grocery,17.32,Yes,20,21,216,Wednesday
+1,1578,7/4/2024,Grocery,0.63,No,0,21,347,Saturday
+2,1153,7/14/2024,Clothing,12.05,Yes,30,16,289,Monday
+4,1961,4/8/2024,Home,21.76,Yes,20,33,498,Thursday
+24,1723,1/28/2024,Home,26.02,Yes,20,36,240,Thursday
+10,1734,9/3/2024,Grocery,26.12,Yes,10,18,446,Tuesday
+27,1229,3/15/2024,Grocery,26.96,No,0,31,202,Friday
+11,1337,10/7/2024,Home,8.16,Yes,10,43,146,Sunday
+6,1027,12/18/2024,Home,28.5,No,0,34,472,Thursday
+10,1625,12/28/2024,Grocery,1.75,No,0,45,224,Sunday
+50,1316,5/19/2024,Clothing,22.03,Yes,5,40,245,Sunday
+42,1629,12/11/2024,Clothing,26.16,No,0,12,104,Thursday
+21,1761,6/11/2024,Home,7.73,No,0,11,226,Monday
+41,1629,4/11/2024,Clothing,14.43,Yes,5,18,158,Friday
+48,1904,5/3/2024,Grocery,14.06,Yes,5,13,387,Monday
+22,1364,4/30/2024,Personal Care,15.59,No,0,34,256,Friday
+35,1090,6/11/2024,Grocery,17.29,No,0,18,240,Saturday
+33,1023,12/6/2024,Grocery,15.79,No,0,32,51,Friday
+6,1500,11/14/2024,Home,28.4,No,0,18,419,Saturday
+18,1512,9/6/2024,Personal Care,19.11,Yes,20,36,237,Friday
+43,1917,1/20/2024,Electronics,19.61,No,0,27,173,Tuesday
+36,1102,5/7/2024,Electronics,24.74,Yes,15,28,192,Thursday
+12,1050,4/30/2024,Electronics,14.05,Yes,5,40,79,Sunday
+33,1915,6/5/2024,Clothing,15.88,Yes,20,38,252,Saturday
+28,1915,5/22/2024,Personal Care,8.81,Yes,10,10,88,Friday
+37,1520,6/2/2024,Electronics,9.73,No,0,18,473,Friday
+18,1780,5/20/2024,Clothing,19.64,No,0,30,490,Wednesday
+41,1053,4/12/2024,Personal Care,2.78,Yes,30,33,436,Wednesday
+8,1173,12/4/2024,Home,7.23,No,0,17,132,Wednesday
+38,1375,7/19/2024,Electronics,9.01,No,0,37,177,Monday
+45,1524,12/9/2024,Grocery,23.79,Yes,0,15,180,Tuesday
+35,1317,2/2/2024,Home,13.79,Yes,20,19,289,Tuesday
+23,1493,12/18/2024,Electronics,29.23,Yes,0,26,30,Sunday
+4,1948,1/15/2024,Electronics,25.1,No,0,18,109,Friday
+21,1126,11/8/2024,Personal Care,19.8,Yes,5,37,283,Sunday
+28,1434,11/18/2024,Grocery,28.49,Yes,0,23,491,Friday
+18,1334,3/16/2024,Electronics,3.48,Yes,0,50,478,Saturday
+42,1555,12/28/2024,Electronics,24.89,No,0,7,433,Tuesday
+18,1427,12/21/2024,Clothing,23.77,Yes,15,45,463,Saturday
+23,1837,9/25/2024,Grocery,20.03,Yes,15,10,389,Friday
+5,1043,10/23/2024,Home,3.59,Yes,20,19,226,Monday
+20,1601,6/6/2024,Electronics,26.14,No,0,28,85,Thursday
+23,1361,5/14/2024,Home,15.78,No,0,22,332,Friday
+20,1824,2/2/2024,Home,22.75,Yes,15,41,468,Thursday
+50,1802,5/21/2024,Home,24.21,Yes,5,8,125,Wednesday
+13,1840,8/10/2024,Electronics,8.67,No,0,30,53,Tuesday
+23,1358,8/20/2024,Home,16.94,No,0,26,306,Tuesday
+40,1651,5/2/2024,Electronics,12.84,No,0,21,42,Monday
+21,1776,9/28/2024,Clothing,5.27,No,0,28,235,Wednesday
+37,1994,8/28/2024,Grocery,16.38,No,0,40,83,Thursday
+6,1210,8/13/2024,Home,26.82,Yes,0,6,260,Wednesday
+24,1404,7/19/2024,Home,3.74,No,0,40,98,Saturday
+15,1119,8/1/2024,Grocery,28.66,No,0,29,316,Friday
+31,1101,9/11/2024,Home,2.87,No,0,10,332,Tuesday
+44,1844,9/13/2024,Grocery,4.03,No,0,18,135,Thursday
+36,1057,2/8/2024,Grocery,29.51,No,0,27,73,Friday
+18,1312,5/9/2024,Electronics,19.03,Yes,15,42,113,Monday
+20,1196,3/21/2024,Grocery,18.24,No,0,31,262,Saturday
+43,1628,2/24/2024,Personal Care,14.9,No,0,10,40,Sunday
+5,1160,9/7/2024,Electronics,25.49,No,0,14,121,Monday
+30,1611,9/12/2024,Personal Care,23.27,Yes,10,32,53,Thursday
+31,1584,7/1/2024,Grocery,22.09,Yes,0,32,246,Monday
+31,1889,2/11/2024,Personal Care,17.24,Yes,10,41,148,Saturday
+21,1792,11/19/2024,Electronics,12.69,Yes,15,43,355,Saturday
+20,1692,12/12/2024,Electronics,10.06,Yes,30,14,258,Thursday
+2,1701,1/13/2024,Clothing,27.33,No,0,37,268,Friday
+50,1534,5/21/2024,Grocery,19.3,No,0,41,114,Sunday
+12,1344,7/15/2024,Home,14.79,Yes,0,30,327,Wednesday
+26,1639,9/26/2024,Electronics,25.33,Yes,15,19,81,Saturday
+25,1453,2/13/2024,Personal Care,20.94,Yes,30,24,24,Saturday
+14,1480,11/28/2024,Personal Care,20.68,No,0,27,66,Sunday
+15,1064,5/22/2024,Clothing,15.5,Yes,20,11,181,Friday
+5,1049,8/23/2024,Home,12.56,No,0,40,349,Saturday
+16,1304,3/18/2024,Electronics,5.65,No,0,5,383,Tuesday
+41,1644,11/11/2024,Grocery,10.76,No,0,43,395,Sunday
+15,1475,9/15/2024,Personal Care,24.08,Yes,15,42,135,Saturday
+40,1457,7/31/2024,Clothing,12.21,Yes,10,21,411,Saturday
+25,1297,11/11/2024,Electronics,29.42,Yes,10,18,339,Saturday
+45,1102,9/10/2024,Clothing,15.58,Yes,10,34,127,Sunday
+36,1345,12/10/2024,Electronics,25.55,No,0,14,393,Tuesday
+23,1257,11/13/2024,Grocery,13.51,Yes,30,42,343,Monday
+11,1659,12/7/2024,Clothing,18.48,No,0,31,448,Monday
+11,1974,5/13/2024,Personal Care,2.65,Yes,30,26,404,Saturday
+18,1377,2/4/2024,Electronics,20.3,No,0,15,316,Sunday
+9,1446,1/18/2024,Grocery,8.07,Yes,20,41,209,Tuesday
+30,1625,3/11/2024,Clothing,15.96,Yes,10,28,292,Friday
+41,1373,3/2/2024,Personal Care,2.81,No,0,48,106,Saturday
+42,1155,3/31/2024,Electronics,10.19,Yes,15,36,411,Tuesday
+45,1197,2/26/2024,Grocery,28.91,Yes,0,11,267,Thursday
+38,1146,10/1/2024,Home,25.9,Yes,30,33,424,Wednesday
+47,1940,12/3/2024,Clothing,3.08,No,0,32,40,Saturday
+30,1118,6/16/2024,Personal Care,27.52,No,0,27,159,Wednesday
+36,1680,9/26/2024,Home,20.76,No,0,29,428,Tuesday
+43,1103,5/25/2024,Electronics,9.5,No,0,14,478,Tuesday
+47,1416,8/15/2024,Clothing,15.89,Yes,10,21,21,Wednesday
+37,1001,9/17/2024,Clothing,23.35,Yes,20,17,213,Tuesday
+15,1205,1/28/2024,Clothing,8.68,No,0,47,101,Saturday
+50,1718,2/24/2024,Home,9.6,Yes,10,12,306,Friday
+14,1188,8/16/2024,Personal Care,22.37,Yes,5,16,308,Monday
+16,1101,10/24/2024,Home,28.54,Yes,15,14,269,Friday
+44,1156,7/24/2024,Clothing,15.85,Yes,20,23,81,Tuesday
+13,1850,9/6/2024,Home,26.19,No,0,30,392,Thursday
+8,1831,1/2/2024,Grocery,7.29,Yes,30,13,456,Monday
+14,1875,11/21/2024,Clothing,21.55,Yes,30,37,479,Sunday
+24,1376,12/7/2024,Home,28.45,Yes,15,36,444,Wednesday
+23,1310,10/8/2024,Personal Care,26.19,Yes,10,3,29,Tuesday
+27,1090,10/1/2024,Personal Care,4.93,Yes,10,43,195,Sunday
+5,1491,5/23/2024,Personal Care,5.48,Yes,15,36,43,Wednesday
+30,1122,4/25/2024,Electronics,28,No,0,14,319,Tuesday
+12,1740,3/22/2024,Electronics,29.69,Yes,20,26,365,Tuesday
+29,1733,9/17/2024,Home,12.6,Yes,30,17,215,Monday
+19,1283,11/12/2024,Grocery,17.6,No,0,26,448,Thursday
+31,1126,4/8/2024,Grocery,8.01,Yes,0,22,47,Wednesday
+22,1560,11/14/2024,Personal Care,24.52,Yes,0,18,235,Thursday
+38,1554,5/15/2024,Grocery,22.01,Yes,30,24,252,Monday
+22,1804,8/4/2024,Personal Care,26.53,No,0,32,316,Saturday
+25,1776,9/14/2024,Personal Care,10.89,No,0,47,219,Sunday
+28,1792,8/19/2024,Home,11.26,Yes,30,54,466,Sunday
+27,1663,7/16/2024,Electronics,6.37,No,0,21,141,Sunday
+43,1940,11/30/2024,Grocery,8.05,Yes,0,18,268,Monday
+23,1400,2/12/2024,Grocery,29.36,Yes,10,35,105,Saturday
+16,1236,4/4/2024,Clothing,1.28,No,0,13,31,Tuesday
+18,1317,10/1/2024,Grocery,14.03,Yes,5,17,435,Saturday
+15,1084,1/29/2024,Clothing,3.79,No,0,40,70,Saturday
+24,1939,4/22/2024,Clothing,7.83,Yes,15,31,266,Tuesday
+9,1918,12/25/2024,Electronics,5.45,No,0,25,305,Sunday
+11,1923,4/18/2024,Electronics,11.73,Yes,5,35,140,Friday
+41,1458,7/27/2024,Home,4.7,No,0,10,152,Tuesday
+10,1921,2/7/2024,Grocery,6.95,No,0,39,45,Saturday
+32,1766,5/3/2024,Home,29.08,No,0,17,44,Wednesday
+23,1966,1/10/2024,Home,11.91,Yes,0,38,170,Tuesday
+6,1053,12/22/2024,Personal Care,23.69,No,0,6,235,Thursday
+42,1285,4/28/2024,Personal Care,21.93,No,0,25,243,Friday
+32,1842,3/23/2024,Home,0.99,Yes,30,29,152,Sunday
+30,1105,6/20/2024,Clothing,13.7,No,0,24,213,Tuesday
+13,1293,4/6/2024,Clothing,20.17,No,0,32,420,Wednesday
+26,1377,2/21/2024,Electronics,23.43,No,0,43,367,Sunday
+38,1183,6/12/2024,Electronics,25.78,No,0,29,311,Tuesday
+21,1606,12/15/2024,Home,19.81,No,0,24,393,Tuesday
+50,1565,2/3/2024,Electronics,2.68,Yes,30,40,101,Saturday
+14,1408,2/11/2024,Electronics,22.63,No,0,21,474,Wednesday
+23,1257,3/6/2024,Electronics,3.66,No,0,26,456,Monday
+34,1640,11/19/2024,Electronics,8.8,No,0,19,342,Friday
+29,1590,10/16/2024,Grocery,7.35,No,0,10,102,Wednesday
+30,1874,9/2/2024,Clothing,23.31,Yes,30,33,52,Thursday
+38,1992,10/21/2024,Electronics,20.63,Yes,20,39,398,Sunday
+37,1984,8/28/2024,Home,6.76,Yes,10,7,320,Friday
+33,1769,4/5/2024,Electronics,29.81,Yes,10,12,86,Tuesday
+13,1199,1/19/2024,Personal Care,17.54,No,0,33,338,Wednesday
+35,1191,7/30/2024,Electronics,19.41,Yes,15,19,179,Tuesday
+26,1878,12/21/2024,Electronics,10.89,No,0,24,64,Monday
+46,1212,5/10/2024,Grocery,23.38,No,0,43,303,Saturday
+3,1415,6/23/2024,Grocery,23.06,No,0,23,69,Saturday
+16,1040,3/23/2024,Grocery,5.76,No,0,40,131,Monday
+11,1340,2/10/2024,Home,22.31,No,0,15,415,Thursday
+9,1807,1/27/2024,Home,8.42,No,0,50,393,Sunday
+13,1261,7/7/2024,Personal Care,22.43,No,0,33,381,Friday
+23,1818,8/24/2024,Personal Care,3.23,No,0,24,116,Tuesday
+8,1492,4/25/2024,Home,20.65,No,0,49,265,Saturday
+44,1218,12/27/2024,Home,22.77,Yes,15,19,474,Monday
+20,1452,6/2/2024,Home,15.39,No,0,23,75,Monday
+13,1339,2/5/2024,Grocery,2.37,No,0,26,435,Friday
+9,1523,1/23/2024,Personal Care,15.73,Yes,20,12,394,Wednesday
+6,1426,3/2/2024,Grocery,24.72,Yes,30,23,46,Saturday
+44,1361,4/16/2024,Home,18.45,No,0,39,62,Tuesday
+26,1274,7/21/2024,Clothing,24.07,No,0,4,35,Friday
+8,1409,10/11/2024,Personal Care,13.43,Yes,30,38,293,Tuesday
+25,1273,7/5/2024,Personal Care,11.37,No,0,9,182,Wednesday
+8,1330,7/23/2024,Clothing,26.91,No,0,6,231,Thursday
+46,1579,2/17/2024,Personal Care,2.83,No,0,14,413,Thursday
+50,1096,9/10/2024,Personal Care,11.29,No,0,24,411,Monday
+24,1721,3/25/2024,Clothing,13.84,No,0,30,34,Friday
+41,1957,10/5/2024,Grocery,24.77,No,0,20,331,Sunday
+10,1008,8/15/2024,Home,26.33,No,0,15,345,Tuesday
+24,1992,6/17/2024,Clothing,24.78,No,0,32,218,Monday
+28,1987,3/27/2024,Grocery,0.58,Yes,20,41,91,Sunday
+12,1047,7/4/2024,Grocery,20.89,Yes,15,48,450,Sunday
+18,1592,10/28/2024,Clothing,21.51,Yes,30,38,64,Saturday
+26,1905,3/27/2024,Home,1.72,No,0,28,333,Sunday
+30,1103,4/10/2024,Personal Care,7.54,Yes,20,18,401,Wednesday
+9,1298,7/19/2024,Clothing,26.6,No,0,20,450,Monday
+40,1526,1/7/2024,Electronics,8.63,No,0,28,179,Wednesday
+16,1714,4/11/2024,Home,21.9,Yes,0,11,84,Tuesday
+29,1954,12/16/2024,Clothing,16.29,Yes,5,22,130,Saturday
+46,1148,5/9/2024,Personal Care,7.02,Yes,10,29,318,Monday
+37,1994,8/9/2024,Grocery,9.4,Yes,5,30,94,Saturday
+24,1949,1/29/2024,Clothing,8.08,Yes,10,38,326,Friday
+50,1649,1/19/2024,Clothing,24.53,Yes,20,14,169,Thursday
+11,1159,6/19/2024,Personal Care,17.6,No,0,25,400,Saturday
+18,1021,7/29/2024,Home,2.8,No,0,9,170,Monday
+15,1076,10/8/2024,Home,16.93,No,0,42,315,Sunday
+35,1099,5/28/2024,Home,20.11,No,0,33,157,Saturday
+8,1096,6/18/2024,Personal Care,27.48,Yes,10,8,167,Wednesday
+26,1947,7/28/2024,Clothing,12.11,Yes,30,27,384,Wednesday
+2,1038,3/11/2024,Electronics,6.13,No,0,12,463,Monday
+7,1988,3/18/2024,Electronics,6.57,Yes,20,18,170,Thursday
+40,1914,4/2/2024,Personal Care,11.04,Yes,10,39,135,Sunday
+12,1316,4/26/2024,Electronics,3.37,Yes,20,17,63,Thursday
+16,1519,6/21/2024,Grocery,24.74,No,0,21,373,Tuesday
+7,1229,10/24/2024,Home,10.46,No,0,19,117,Tuesday
+32,1777,9/26/2024,Clothing,4.44,No,0,27,125,Saturday
+39,1306,10/15/2024,Grocery,15.52,No,0,26,272,Sunday
+29,1805,1/15/2024,Grocery,9.28,No,0,31,123,Sunday
+31,1695,4/10/2024,Clothing,1.3,No,0,38,415,Thursday
+9,1217,4/13/2024,Grocery,22.8,No,0,23,475,Tuesday
+17,1991,9/29/2024,Electronics,23.12,No,0,21,68,Friday
+9,1828,11/5/2024,Home,9.32,Yes,5,10,187,Tuesday
+32,1618,8/12/2024,Grocery,28.1,No,0,39,299,Sunday
+17,1094,6/26/2024,Grocery,0.58,Yes,5,37,65,Saturday
+2,1164,11/2/2024,Clothing,26.71,Yes,20,16,457,Tuesday
+36,1560,8/23/2024,Grocery,3.3,Yes,5,32,177,Tuesday
+1,1458,7/24/2024,Home,15.44,No,0,20,361,Sunday
+39,1703,1/12/2024,Home,16.23,No,0,37,370,Thursday
+29,1145,9/25/2024,Clothing,13.43,Yes,10,29,301,Friday
+45,1903,3/15/2024,Electronics,3.84,No,0,46,273,Saturday
+18,1856,6/6/2024,Home,3.39,No,0,34,454,Thursday
+23,1716,10/20/2024,Grocery,28.75,Yes,15,23,432,Saturday
+47,1187,8/23/2024,Grocery,10.64,Yes,10,8,119,Friday
+27,1322,2/10/2024,Clothing,3.89,Yes,5,41,452,Sunday
+46,1901,9/26/2024,Home,2.11,Yes,10,37,78,Tuesday
+9,1187,10/4/2024,Personal Care,12.24,No,0,27,190,Saturday
+39,1369,10/9/2024,Personal Care,9.8,No,0,25,410,Sunday
+44,1926,5/28/2024,Home,4.96,No,0,34,53,Monday
+39,1468,11/1/2024,Personal Care,27.76,Yes,0,25,367,Tuesday
+50,1458,7/5/2024,Grocery,19.3,Yes,30,18,486,Thursday
+45,1757,5/30/2024,Home,10.27,No,0,27,223,Monday
+36,1725,1/5/2024,Clothing,7.58,Yes,10,28,494,Thursday
+27,1487,3/7/2024,Grocery,27.11,Yes,0,22,447,Monday
+12,1152,10/9/2024,Home,3.41,No,0,28,249,Wednesday
+50,1203,8/4/2024,Home,17.63,No,0,44,187,Sunday
+15,1405,12/5/2024,Personal Care,22.85,Yes,0,21,187,Sunday
+16,1560,3/4/2024,Home,7.61,Yes,0,16,321,Wednesday
+8,1650,5/30/2024,Clothing,9.7,Yes,30,27,235,Thursday
+1,1158,8/27/2024,Grocery,22.52,No,0,28,256,Wednesday
+20,1661,4/21/2024,Clothing,19.62,No,0,23,494,Saturday
+42,1667,3/7/2024,Personal Care,26.53,No,0,16,204,Saturday
+16,1810,11/1/2024,Electronics,14.22,Yes,0,15,282,Thursday
+41,1015,1/14/2024,Clothing,7.4,Yes,0,37,37,Sunday
+46,1803,1/12/2024,Personal Care,17.77,Yes,0,27,429,Friday
+42,1032,8/10/2024,Clothing,23.33,No,0,33,405,Monday
+43,1283,9/2/2024,Electronics,16.91,No,0,5,434,Tuesday
+50,1198,9/27/2024,Clothing,18.74,No,0,36,375,Wednesday
+19,1528,12/14/2024,Grocery,20.78,No,0,19,382,Friday
+21,1314,5/29/2024,Grocery,19.67,No,0,43,197,Saturday
+49,1607,3/7/2024,Personal Care,2.48,Yes,15,19,465,Tuesday
+42,1556,1/30/2024,Electronics,18.74,No,0,20,161,Wednesday
+34,1837,8/11/2024,Grocery,27.71,No,0,29,379,Wednesday
+9,1013,9/2/2024,Electronics,10,No,0,35,168,Sunday
+6,1933,6/3/2024,Grocery,27.84,No,0,11,262,Tuesday
+26,1946,2/27/2024,Personal Care,8.44,Yes,10,40,406,Friday
+39,1564,4/10/2024,Clothing,8.69,No,0,36,82,Wednesday
+24,1146,5/17/2024,Grocery,0.5,Yes,30,37,435,Saturday
+18,1377,2/3/2024,Personal Care,28.79,Yes,0,24,497,Wednesday
+29,1427,3/26/2024,Grocery,22.57,No,0,35,347,Wednesday
+10,1527,9/4/2024,Home,14.82,No,0,16,407,Saturday
+7,1782,7/19/2024,Personal Care,11.29,No,0,36,71,Monday
+18,1574,4/14/2024,Electronics,12.21,Yes,20,29,453,Friday
+38,1997,5/20/2024,Grocery,22.79,Yes,10,42,303,Thursday
+12,1166,5/23/2024,Electronics,11.01,No,0,7,187,Friday
+49,1482,8/13/2024,Personal Care,3.59,No,0,20,331,Wednesday
+27,1265,2/29/2024,Electronics,1.3,Yes,30,45,471,Friday
+34,1476,1/13/2024,Home,29.53,Yes,30,46,289,Monday
+35,1053,11/3/2024,Grocery,12.24,Yes,15,26,315,Sunday
+7,1337,6/25/2024,Personal Care,29.83,No,0,23,150,Sunday
+24,1131,9/24/2024,Grocery,23.6,Yes,5,36,414,Monday
+23,1557,3/14/2024,Grocery,19.22,Yes,30,49,458,Saturday
+30,1239,1/6/2024,Personal Care,19.38,Yes,30,20,313,Wednesday
+41,1888,7/30/2024,Grocery,29.79,Yes,0,32,286,Monday
+20,1950,6/7/2024,Grocery,17.69,No,0,14,103,Wednesday
+11,1110,12/28/2024,Home,0.9,Yes,0,37,283,Sunday
+30,1519,2/9/2024,Electronics,13.3,No,0,32,297,Friday
+3,1748,11/1/2024,Clothing,28.23,Yes,30,16,188,Tuesday
+7,1292,6/25/2024,Home,24.24,Yes,10,29,145,Thursday
+46,1572,6/16/2024,Grocery,11.44,Yes,10,34,85,Thursday
+7,1186,5/18/2024,Clothing,26.98,No,0,9,112,Tuesday
+3,1530,5/18/2024,Grocery,6.91,Yes,5,18,20,Friday
+42,1963,6/21/2024,Home,1.92,No,0,14,322,Wednesday
+15,1670,5/23/2024,Clothing,27.83,Yes,0,40,310,Sunday
+38,1108,12/27/2024,Electronics,29.98,Yes,5,17,63,Wednesday
+28,1257,2/29/2024,Personal Care,15.2,No,0,17,439,Thursday
+27,1477,3/20/2024,Home,8.26,Yes,30,45,412,Friday
+12,1165,9/10/2024,Clothing,0.64,Yes,10,24,249,Friday
+29,1202,8/13/2024,Clothing,10.22,Yes,20,27,299,Wednesday
+44,1208,5/11/2024,Home,19.12,No,0,34,273,Saturday
+3,1693,11/3/2024,Grocery,18.83,Yes,10,8,87,Thursday
+25,1780,5/14/2024,Home,8.34,Yes,20,19,245,Saturday
+5,1934,8/2/2024,Home,13.26,Yes,20,35,196,Saturday
+43,1964,12/24/2024,Electronics,13.88,Yes,10,42,274,Monday
+9,1964,5/17/2024,Clothing,3.34,Yes,0,5,311,Friday
+40,1954,3/22/2024,Electronics,20.58,Yes,0,37,111,Tuesday
+26,1268,7/24/2024,Home,3.34,No,0,30,200,Monday
+42,1167,6/9/2024,Grocery,13.92,Yes,15,36,86,Monday
+40,1416,8/26/2024,Electronics,14.68,Yes,15,38,126,Thursday
+4,1633,9/17/2024,Electronics,8.77,Yes,15,19,217,Saturday
+11,1596,2/3/2024,Electronics,3.34,Yes,5,16,257,Wednesday
+10,1949,10/26/2024,Personal Care,7.64,No,0,25,403,Saturday
+23,1060,1/12/2024,Electronics,3.21,No,0,10,30,Friday
+33,1836,7/29/2024,Electronics,25.93,Yes,5,15,222,Wednesday
+45,1396,3/20/2024,Electronics,19.81,Yes,0,39,91,Tuesday
+10,1017,4/30/2024,Home,4.54,Yes,20,36,87,Sunday
+43,1136,4/15/2024,Clothing,19.24,Yes,20,30,31,Tuesday
+28,1586,10/4/2024,Grocery,29.3,Yes,10,12,164,Monday
+12,1327,5/24/2024,Clothing,13.91,No,0,21,482,Monday
+25,1149,9/22/2024,Personal Care,10.9,No,0,44,500,Saturday
+36,1937,12/10/2024,Home,15,No,0,32,364,Monday
+32,1427,3/13/2024,Electronics,24.26,No,0,47,194,Saturday
+20,1973,6/26/2024,Home,1.07,Yes,30,35,213,Monday
+39,1845,7/20/2024,Clothing,8.46,No,0,39,432,Friday
+15,1548,4/26/2024,Personal Care,9.77,Yes,20,34,246,Sunday
+27,1271,2/11/2024,Grocery,5.36,Yes,30,23,210,Friday
+1,1653,11/2/2024,Home,7.16,No,0,29,414,Monday
+45,1218,4/22/2024,Home,7.95,Yes,15,3,23,Friday
+23,1919,11/26/2024,Grocery,8.11,Yes,0,34,409,Friday
+49,1287,3/21/2024,Clothing,23.7,Yes,5,34,109,Thursday
+23,1010,2/23/2024,Home,22.94,No,0,42,362,Saturday
+17,1918,6/5/2024,Home,24.22,No,0,30,150,Thursday
+47,1537,7/26/2024,Grocery,10.5,Yes,5,32,394,Tuesday
+39,1550,6/11/2024,Home,11.11,No,0,6,38,Monday
+42,1190,4/7/2024,Grocery,25.93,No,0,21,490,Monday
+21,1878,12/23/2024,Home,6.67,No,0,40,285,Tuesday
+11,1951,6/18/2024,Personal Care,17.89,Yes,30,31,426,Sunday
+20,1047,1/17/2024,Electronics,11.36,No,0,18,397,Tuesday
+36,1850,5/24/2024,Personal Care,1.87,No,0,40,396,Tuesday
+45,1461,4/5/2024,Electronics,2.31,Yes,20,23,90,Tuesday
+19,1497,7/10/2024,Home,29.89,Yes,0,35,54,Friday
+48,1305,11/21/2024,Clothing,24.3,No,0,34,68,Monday
+8,1365,1/18/2024,Grocery,17.77,No,0,17,178,Tuesday
+21,1367,7/14/2024,Electronics,4.76,No,0,20,381,Saturday
+10,1475,8/3/2024,Personal Care,22.4,No,0,45,170,Saturday
+36,1821,9/17/2024,Electronics,14.1,No,0,14,197,Thursday
+6,1862,3/12/2024,Electronics,25.44,Yes,10,26,84,Sunday
+16,1052,7/19/2024,Electronics,26.8,No,0,7,470,Monday
+14,1972,9/17/2024,Personal Care,19.01,Yes,30,36,97,Monday
+6,1067,12/20/2024,Home,11.01,No,0,35,378,Thursday
+21,1437,11/2/2024,Personal Care,19.2,No,0,34,311,Saturday
+48,1459,5/2/2024,Grocery,10.01,No,0,33,237,Tuesday
+23,1158,7/29/2024,Grocery,3.12,Yes,5,19,97,Wednesday
+4,1328,10/26/2024,Personal Care,11.46,Yes,5,27,35,Sunday
+7,1001,4/27/2024,Grocery,25.6,No,0,23,491,Saturday
+18,1136,12/25/2024,Home,19.17,Yes,20,15,53,Tuesday
+4,1135,11/30/2024,Clothing,3.9,No,0,34,312,Saturday
+27,1408,5/30/2024,Electronics,6.95,Yes,5,35,374,Friday
+7,1328,3/29/2024,Electronics,13.78,Yes,30,27,32,Thursday
+10,1244,8/16/2024,Clothing,4.86,Yes,30,35,209,Sunday
+17,1777,2/7/2024,Grocery,4.1,No,0,22,405,Sunday
+8,1352,6/30/2024,Electronics,1.45,No,0,37,360,Wednesday
+24,1106,10/16/2024,Home,23.02,Yes,20,31,152,Thursday
+47,1145,7/27/2024,Electronics,29.17,No,0,20,122,Friday
+2,1199,7/1/2024,Clothing,18.14,No,0,33,438,Sunday
+29,1655,12/23/2024,Personal Care,9.4,No,0,21,330,Saturday
+6,1144,10/11/2024,Electronics,7.21,Yes,0,27,418,Friday
+30,1748,7/3/2024,Grocery,5.23,Yes,30,12,49,Monday
+40,1655,1/13/2024,Home,3.83,No,0,26,51,Wednesday
+45,1822,8/17/2024,Clothing,21.05,Yes,0,29,457,Thursday
+42,1669,3/8/2024,Grocery,4.55,Yes,10,25,237,Monday
+43,1343,8/7/2024,Home,27.36,Yes,10,37,412,Wednesday
+20,1472,9/20/2024,Grocery,18.03,Yes,15,44,381,Sunday
+38,1872,9/23/2024,Home,20.43,Yes,10,22,447,Monday
+46,1614,1/15/2024,Clothing,13.44,Yes,10,24,241,Sunday
+42,1719,5/26/2024,Electronics,3.88,No,0,11,346,Friday
+6,1415,1/21/2024,Grocery,7.89,Yes,10,29,35,Sunday
+39,1950,1/2/2024,Electronics,9.96,Yes,0,40,129,Saturday
+26,1693,6/19/2024,Electronics,5.18,Yes,20,40,465,Monday
+18,1337,1/11/2024,Clothing,4.76,Yes,15,37,445,Sunday
+33,1351,10/8/2024,Clothing,27.13,No,0,26,106,Friday
+13,1721,12/24/2024,Clothing,14.83,Yes,20,42,316,Tuesday
+2,1384,2/20/2024,Home,12.87,No,0,19,190,Friday
+6,1978,12/29/2024,Personal Care,28.69,No,0,12,192,Monday
+37,1888,6/24/2024,Clothing,10.49,No,0,23,98,Sunday
+18,1631,8/8/2024,Personal Care,14.04,Yes,5,33,99,Wednesday
+8,1563,2/22/2024,Clothing,23.36,Yes,20,19,447,Friday
+15,1214,5/12/2024,Personal Care,10.45,Yes,5,16,393,Monday
+3,1395,4/21/2024,Home,8.92,Yes,15,26,346,Wednesday
+3,1743,9/15/2024,Home,12.28,Yes,15,42,225,Monday
+33,1509,8/7/2024,Personal Care,2.63,Yes,30,46,334,Friday
+49,1921,5/19/2024,Grocery,5.42,No,0,13,231,Monday
+4,1756,7/2/2024,Clothing,28.7,No,0,37,152,Saturday
+10,1087,8/24/2024,Grocery,12.72,No,0,31,487,Monday
+30,1518,10/17/2024,Electronics,25.76,Yes,10,24,483,Tuesday
+49,1203,1/19/2024,Electronics,20.58,No,0,11,95,Monday
+31,1573,11/24/2024,Grocery,15.48,No,0,15,117,Tuesday
+34,1958,7/22/2024,Clothing,19.7,No,0,47,214,Sunday
+23,1552,3/26/2024,Personal Care,11.22,No,0,36,266,Monday
+41,1482,6/18/2024,Clothing,21.96,Yes,0,48,262,Saturday
+35,1832,6/29/2024,Electronics,22.61,Yes,0,35,295,Monday
+38,1480,7/4/2024,Electronics,7.72,Yes,0,12,189,Tuesday
+19,1194,3/19/2024,Home,9.31,No,0,24,429,Tuesday
+49,1137,10/25/2024,Personal Care,6.6,Yes,30,29,392,Monday
+13,1594,8/7/2024,Home,7.48,No,0,25,246,Saturday
+35,1749,1/30/2024,Grocery,29.99,No,0,22,462,Wednesday
+34,1434,7/4/2024,Electronics,29.08,No,0,27,230,Sunday
+15,1722,12/13/2024,Electronics,22.65,No,0,38,297,Thursday
+49,1670,8/11/2024,Electronics,21.14,Yes,5,43,91,Sunday
+12,1431,3/25/2024,Personal Care,2.32,Yes,15,32,113,Thursday
+38,1142,8/17/2024,Grocery,23.18,Yes,10,23,220,Wednesday
+7,1925,1/20/2024,Clothing,19.27,No,0,36,189,Wednesday
+37,1542,12/27/2024,Grocery,12.18,Yes,30,29,268,Friday
+37,1746,7/19/2024,Home,3.11,Yes,0,38,461,Wednesday
+44,1404,10/9/2024,Personal Care,15.16,No,0,24,457,Wednesday
+44,1249,11/10/2024,Grocery,24.56,No,0,18,386,Friday
+15,1316,1/18/2024,Personal Care,11.59,No,0,26,194,Thursday
+11,1755,4/16/2024,Electronics,6.88,Yes,10,11,327,Thursday
+41,1399,2/2/2024,Clothing,20.26,Yes,30,26,124,Thursday
+31,1410,2/16/2024,Grocery,9.91,Yes,10,41,117,Tuesday
+28,1704,8/11/2024,Grocery,26.28,No,0,34,173,Sunday
+25,1337,4/7/2024,Personal Care,9.76,No,0,20,390,Sunday
+40,1587,5/13/2024,Electronics,25.12,No,0,13,329,Tuesday
+25,1838,4/29/2024,Home,4.22,Yes,0,33,436,Sunday
+26,1250,6/3/2024,Clothing,13.66,Yes,10,51,397,Sunday
+13,1141,8/7/2024,Clothing,11.91,Yes,20,18,149,Tuesday
+9,1644,1/17/2024,Home,26.42,Yes,20,19,207,Tuesday
+43,1423,12/24/2024,Electronics,7.69,Yes,20,30,287,Tuesday
+13,1404,4/4/2024,Grocery,21.48,No,0,34,371,Sunday
+14,1932,4/26/2024,Clothing,27.04,No,0,17,324,Wednesday
+27,1154,5/28/2024,Electronics,13.78,Yes,5,34,308,Wednesday
+28,1626,3/8/2024,Grocery,16.65,Yes,5,25,385,Sunday
+48,1931,12/23/2024,Home,12.33,Yes,15,38,211,Saturday
+42,1199,4/25/2024,Grocery,27.31,Yes,10,31,496,Saturday
+6,1361,2/18/2024,Home,24.07,No,0,8,392,Thursday
+45,1553,5/19/2024,Home,29.69,Yes,0,10,348,Tuesday
+10,1442,5/31/2024,Electronics,23.73,Yes,5,9,441,Monday
+3,1154,12/3/2024,Home,24,No,0,26,139,Friday
+4,1329,8/2/2024,Personal Care,18.22,Yes,20,19,283,Saturday
+28,1028,8/13/2024,Personal Care,15.34,No,0,28,65,Tuesday
+21,1257,4/29/2024,Personal Care,6.02,No,0,11,291,Monday
+10,1576,11/10/2024,Electronics,4.37,Yes,5,21,227,Thursday
+35,1766,2/27/2024,Personal Care,13.48,Yes,15,17,189,Thursday
+40,1683,11/12/2024,Home,22.09,Yes,5,46,339,Saturday
+21,1196,12/5/2024,Electronics,8.03,No,0,33,154,Monday
+48,1517,4/11/2024,Grocery,10.31,Yes,30,53,238,Saturday
+26,1285,12/31/2024,Personal Care,7.46,No,0,36,135,Saturday
+9,1709,9/19/2024,Home,5.66,Yes,20,30,152,Tuesday
+7,1257,4/11/2024,Electronics,7.48,Yes,15,21,260,Friday
+43,1519,9/9/2024,Clothing,10.39,No,0,22,225,Tuesday
+31,1958,5/3/2024,Clothing,13.36,Yes,30,29,36,Saturday
+25,1258,6/24/2024,Grocery,14.91,No,0,35,401,Monday
+39,1036,11/18/2024,Clothing,12.42,Yes,5,25,64,Saturday
+8,1613,2/9/2024,Clothing,28.9,Yes,15,53,436,Sunday
+49,1574,5/8/2024,Home,4.22,No,0,40,160,Wednesday
+29,1255,12/10/2024,Home,3.07,No,0,21,111,Tuesday
+31,1492,10/7/2024,Clothing,20.77,No,0,9,191,Friday
+11,1924,9/5/2024,Clothing,29.78,No,0,30,444,Sunday
+36,1587,9/5/2024,Clothing,6.32,Yes,20,41,103,Friday
+34,1626,9/23/2024,Grocery,14.31,No,0,40,404,Thursday
+11,1428,6/17/2024,Electronics,18.96,No,0,38,436,Saturday
+25,1873,11/5/2024,Clothing,0.6,Yes,20,44,359,Thursday
+35,1732,11/9/2024,Home,3.87,Yes,20,35,283,Friday
+19,1148,11/29/2024,Grocery,8.38,Yes,0,34,276,Wednesday
+8,1195,11/30/2024,Home,3.73,Yes,0,17,209,Tuesday
+4,1518,7/11/2024,Electronics,22.62,Yes,20,32,194,Sunday
+36,1670,11/6/2024,Personal Care,11.53,No,0,39,257,Wednesday
+46,1654,10/5/2024,Electronics,1.05,Yes,30,53,121,Sunday
+40,1534,4/29/2024,Grocery,5.85,No,0,15,381,Friday
+15,1574,2/25/2024,Home,14.92,Yes,10,31,374,Friday
+37,1430,1/21/2024,Grocery,2.19,No,0,34,338,Thursday
+17,1266,7/10/2024,Grocery,0.86,No,0,31,161,Thursday
+5,1039,9/11/2024,Home,20.58,No,0,43,139,Sunday
+7,1308,10/27/2024,Grocery,23.93,No,0,20,92,Friday
+43,1269,4/16/2024,Personal Care,3.62,Yes,30,43,196,Thursday
+15,1423,9/26/2024,Grocery,12.34,Yes,20,37,162,Wednesday
+2,1307,5/9/2024,Personal Care,17.39,No,0,25,99,Monday
+15,1893,5/1/2024,Grocery,27.53,Yes,0,32,359,Wednesday
+44,1768,10/23/2024,Grocery,23.64,Yes,30,23,332,Thursday
+38,1778,9/17/2024,Home,6.7,No,0,23,378,Wednesday
+2,1759,10/13/2024,Personal Care,9.74,No,0,29,496,Wednesday
+23,1333,4/2/2024,Personal Care,9.62,No,0,40,391,Thursday
+1,1360,6/8/2024,Personal Care,10.48,Yes,20,19,73,Sunday
+21,1262,10/25/2024,Personal Care,2.07,No,0,26,334,Wednesday
+13,1372,5/3/2024,Clothing,9.1,Yes,5,21,29,Wednesday
+19,1564,3/23/2024,Grocery,21.27,Yes,15,45,297,Sunday
+13,1627,2/25/2024,Personal Care,17.1,No,0,19,464,Thursday
+10,1021,6/21/2024,Clothing,13.89,Yes,30,24,325,Sunday
+22,1349,1/24/2024,Clothing,3.78,Yes,10,27,226,Tuesday
+41,1776,9/25/2024,Home,23.58,Yes,0,47,79,Saturday
+49,1749,4/8/2024,Home,15.81,Yes,30,25,368,Saturday
+8,1473,5/21/2024,Home,16.34,No,0,17,374,Friday
+33,1664,6/15/2024,Grocery,6.54,Yes,20,15,368,Monday
+29,1601,11/6/2024,Electronics,20.26,Yes,5,40,78,Tuesday
+41,1329,12/15/2024,Home,0.94,Yes,5,24,252,Sunday
+36,1634,2/17/2024,Electronics,4,Yes,15,14,464,Tuesday
+41,1884,10/7/2024,Clothing,15.93,No,0,37,178,Saturday
+37,1281,2/14/2024,Electronics,1.49,No,0,10,136,Friday
+17,1056,1/10/2024,Grocery,27.59,Yes,30,37,405,Sunday
+48,1993,4/4/2024,Clothing,3.99,Yes,5,25,268,Friday
+27,1709,4/30/2024,Grocery,7.17,Yes,10,25,483,Wednesday
+19,1827,2/20/2024,Grocery,28.72,Yes,15,15,151,Wednesday
+49,1341,1/1/2024,Personal Care,3.89,Yes,10,14,373,Thursday
+25,1804,11/14/2024,Home,2.01,Yes,20,42,336,Monday
+12,1539,5/26/2024,Clothing,11.64,Yes,15,36,248,Friday
+19,1712,1/25/2024,Home,15.95,No,0,23,173,Wednesday
+26,1327,10/22/2024,Personal Care,12.72,Yes,5,16,182,Friday
+39,1334,12/18/2024,Personal Care,7.01,Yes,5,41,110,Thursday
+47,1664,8/24/2024,Clothing,23.21,Yes,30,32,486,Sunday
+6,1817,9/17/2024,Personal Care,23.47,Yes,5,36,127,Sunday
+26,1680,8/26/2024,Electronics,19.82,No,0,18,95,Tuesday
+18,1067,11/5/2024,Grocery,2.95,Yes,20,37,184,Thursday
+29,1018,4/25/2024,Grocery,28.82,Yes,0,17,369,Wednesday
+32,1885,1/19/2024,Home,28.03,No,0,11,111,Wednesday
+13,1546,9/15/2024,Electronics,25.49,No,0,14,369,Tuesday
+6,1551,11/26/2024,Personal Care,9,No,0,26,267,Wednesday
+27,1757,3/14/2024,Clothing,19.06,Yes,5,30,484,Saturday
+20,1151,2/22/2024,Home,3.23,No,0,12,275,Tuesday
+38,1743,9/18/2024,Clothing,29.8,No,0,10,29,Tuesday
+36,1300,12/21/2024,Electronics,29.64,No,0,8,450,Friday
+16,1244,11/14/2024,Grocery,13.58,No,0,16,315,Friday
+36,1136,8/14/2024,Electronics,27.38,No,0,22,405,Monday
+28,1985,4/28/2024,Electronics,17.56,No,0,18,351,Sunday
+45,1040,1/12/2024,Home,23.67,No,0,42,488,Sunday
+24,1110,12/2/2024,Clothing,18.48,Yes,5,22,147,Thursday
+37,1354,1/29/2024,Clothing,27.46,No,0,43,329,Saturday
+40,1137,4/11/2024,Home,19.22,Yes,30,42,368,Saturday
+48,1012,4/3/2024,Grocery,8.23,No,0,15,481,Wednesday
+11,1092,1/30/2024,Clothing,26.77,Yes,15,40,72,Thursday
+50,1157,1/1/2024,Grocery,23.48,No,0,13,204,Thursday
+18,1945,4/10/2024,Grocery,2.41,No,0,22,60,Sunday
+38,1894,5/4/2024,Home,12.55,Yes,15,33,261,Friday
+10,1322,3/9/2024,Personal Care,8.68,Yes,15,39,426,Tuesday
+36,1838,8/7/2024,Personal Care,3.44,No,0,40,148,Tuesday
+17,1765,1/10/2024,Electronics,17.15,Yes,10,11,420,Tuesday
+4,1050,4/14/2024,Clothing,18.88,Yes,20,12,257,Monday
+47,1889,5/27/2024,Electronics,17.25,No,0,33,91,Sunday
+6,1182,12/15/2024,Electronics,22.23,No,0,34,149,Tuesday
+42,1589,12/31/2024,Clothing,20.88,Yes,5,7,305,Friday
+38,1082,12/28/2024,Personal Care,9.58,Yes,5,32,103,Thursday
+26,1397,8/20/2024,Clothing,25.67,No,0,21,80,Wednesday
+49,1464,4/5/2024,Home,13.58,Yes,5,41,279,Monday
+16,1046,12/25/2024,Personal Care,4.76,No,0,48,405,Sunday
+31,1615,9/11/2024,Grocery,2.31,Yes,5,30,319,Friday
+20,1539,2/5/2024,Personal Care,21.94,No,0,38,286,Monday
+32,1813,7/1/2024,Home,6.27,No,0,26,429,Wednesday
+20,1048,1/20/2024,Home,21.63,Yes,5,30,430,Wednesday
+16,1877,4/2/2024,Clothing,26.12,No,0,20,411,Friday
+30,1505,10/26/2024,Home,21.75,No,0,43,146,Sunday
+19,1123,12/2/2024,Clothing,4.58,No,0,30,256,Wednesday
+46,1819,10/4/2024,Personal Care,18.57,No,0,29,420,Saturday
+32,1077,5/2/2024,Electronics,3.99,No,0,13,230,Tuesday
+35,1178,6/11/2024,Grocery,13.84,No,0,31,171,Tuesday
+8,1737,5/31/2024,Personal Care,15.46,No,0,16,211,Friday
+40,1448,2/24/2024,Clothing,14.43,No,0,35,85,Tuesday
+18,1672,6/4/2024,Home,16.56,Yes,10,28,367,Sunday
+46,1580,12/18/2024,Electronics,3.03,Yes,20,27,376,Sunday
+6,1272,8/14/2024,Electronics,0.63,Yes,15,5,37,Monday
+47,1879,4/20/2024,Electronics,12.6,Yes,10,35,287,Wednesday
+37,1747,10/6/2024,Personal Care,2.41,Yes,30,19,317,Monday
+49,1284,10/23/2024,Grocery,12.05,No,0,17,281,Saturday
+4,1946,1/13/2024,Home,19.61,No,0,50,91,Sunday
+27,1626,10/26/2024,Grocery,4.15,No,0,11,149,Thursday
+42,1379,12/15/2024,Personal Care,20.79,No,0,7,351,Thursday
+29,1287,10/7/2024,Electronics,6.22,No,0,24,110,Tuesday
+47,1207,2/1/2024,Personal Care,29.38,Yes,5,16,116,Thursday
+8,1924,8/11/2024,Personal Care,2.26,No,0,13,359,Wednesday
+19,1961,8/19/2024,Home,22.03,Yes,10,41,60,Thursday
+30,1562,1/20/2024,Home,27.32,No,0,36,315,Saturday
+38,1546,11/22/2024,Clothing,4.97,No,0,33,380,Monday
+23,1996,5/28/2024,Grocery,18.17,No,0,17,317,Thursday
+33,1027,9/26/2024,Electronics,21.78,No,0,21,288,Thursday
+32,1876,9/7/2024,Personal Care,1.15,No,0,10,337,Thursday
+46,1518,9/7/2024,Clothing,26.12,No,0,39,232,Thursday
+6,1978,10/10/2024,Personal Care,22.19,No,0,31,251,Thursday
+11,1122,9/3/2024,Personal Care,0.96,No,0,20,378,Thursday
+16,1168,9/13/2024,Personal Care,25.71,Yes,15,32,178,Saturday
+41,1788,11/9/2024,Clothing,28.18,Yes,20,14,412,Wednesday
+29,1582,11/6/2024,Electronics,25.01,No,0,19,113,Monday
+41,1478,12/8/2024,Clothing,21.84,Yes,5,32,155,Thursday
+47,1484,2/27/2024,Home,15.69,Yes,20,9,287,Tuesday
+19,1577,2/14/2024,Electronics,26.11,No,0,12,408,Wednesday
+2,1278,11/22/2024,Electronics,7.05,No,0,26,241,Tuesday
+26,1568,7/7/2024,Electronics,0.69,No,0,37,242,Monday
+36,1331,10/12/2024,Home,13.01,Yes,15,43,475,Friday
+20,1487,12/23/2024,Clothing,13.76,No,0,14,114,Monday
+1,1995,9/11/2024,Electronics,6.56,No,0,18,63,Friday
+2,1207,12/20/2024,Home,15.2,No,0,33,175,Thursday
+8,1512,6/17/2024,Grocery,15.07,No,0,29,29,Saturday
+1,1723,2/14/2024,Home,9.04,Yes,10,30,169,Tuesday
+3,1151,2/16/2024,Electronics,6.36,Yes,15,8,37,Thursday
+6,1250,9/6/2024,Home,6.83,Yes,5,18,106,Tuesday
+39,1362,10/30/2024,Grocery,25.37,No,0,6,96,Tuesday
+45,1267,4/13/2024,Home,20.56,No,0,8,177,Monday
+38,1620,5/10/2024,Personal Care,16.98,No,0,32,268,Tuesday
+33,1527,5/19/2024,Grocery,3.23,No,0,18,436,Saturday
+36,1859,11/8/2024,Home,3.46,Yes,10,18,281,Saturday
+16,1576,6/6/2024,Grocery,28.45,Yes,15,31,186,Monday
+14,1085,8/3/2024,Home,7.93,No,0,33,452,Thursday
+34,1631,1/8/2024,Electronics,27.49,No,0,32,60,Saturday
+3,1888,5/7/2024,Electronics,8.79,Yes,0,16,419,Monday
+20,1639,8/12/2024,Grocery,18.17,No,0,2,49,Friday
+36,1268,2/12/2024,Grocery,5.73,Yes,20,53,264,Saturday
+15,1958,4/21/2024,Personal Care,15.34,No,0,33,118,Friday
+11,1048,10/8/2024,Clothing,8.79,Yes,10,29,500,Saturday
+30,1090,8/17/2024,Grocery,19.74,Yes,20,19,144,Tuesday
+25,1093,3/8/2024,Electronics,16.12,No,0,28,441,Wednesday
+39,1787,11/11/2024,Home,19.86,No,0,30,210,Wednesday
+20,1633,8/9/2024,Clothing,8.22,No,0,24,81,Sunday
+20,1554,3/27/2024,Personal Care,22.88,Yes,5,21,295,Monday
+36,1554,2/18/2024,Personal Care,21.01,Yes,0,23,354,Friday
+33,1644,2/28/2024,Clothing,18.43,Yes,10,7,165,Wednesday
+13,1060,2/3/2024,Electronics,5.17,No,0,28,236,Thursday
+8,1015,4/9/2024,Clothing,25.46,Yes,5,23,39,Thursday
+4,1031,9/3/2024,Home,14.59,Yes,0,42,162,Sunday
+25,1494,6/22/2024,Electronics,20.65,No,0,11,151,Thursday
+32,1976,10/17/2024,Clothing,1.09,No,0,34,452,Thursday
+27,1781,6/14/2024,Electronics,16.04,No,0,30,450,Tuesday
+46,1646,1/15/2024,Electronics,11.75,Yes,20,43,213,Sunday
+19,1340,9/14/2024,Grocery,21.36,No,0,35,308,Tuesday
+5,1930,9/14/2024,Personal Care,17.42,No,0,46,326,Saturday
+40,1624,10/14/2024,Clothing,13.17,No,0,16,435,Monday
+22,1315,10/21/2024,Clothing,25.14,Yes,5,37,109,Monday
+21,1129,11/25/2024,Personal Care,24.66,No,0,31,194,Wednesday
+46,1563,5/3/2024,Grocery,9.09,No,0,18,104,Wednesday
+46,1034,1/28/2024,Home,9.43,Yes,10,18,127,Friday
+15,1996,7/2/2024,Clothing,18.71,Yes,5,36,99,Sunday
+46,1880,7/1/2024,Home,15.13,No,0,34,187,Saturday
+29,1375,2/29/2024,Home,19.31,No,0,37,442,Saturday
+1,1053,3/4/2024,Grocery,11.28,Yes,5,35,207,Friday
+23,1321,9/6/2024,Grocery,7.9,Yes,20,17,342,Monday
+43,1705,8/28/2024,Personal Care,0.72,No,0,30,195,Monday
+21,1549,7/7/2024,Home,16.87,No,0,14,77,Thursday
+18,1556,6/11/2024,Clothing,27.71,No,0,11,494,Monday
+22,1831,8/30/2024,Grocery,21.5,Yes,15,19,393,Sunday
+38,1283,12/5/2024,Clothing,19.49,Yes,20,33,495,Tuesday
+5,1052,5/19/2024,Personal Care,12.44,No,0,20,204,Sunday
+47,1735,11/30/2024,Home,4.2,Yes,10,25,490,Sunday
+27,1988,4/24/2024,Home,27.35,Yes,10,32,375,Tuesday
+17,1065,11/24/2024,Personal Care,11.67,Yes,20,39,361,Wednesday
+10,1683,5/15/2024,Electronics,22.92,Yes,0,39,100,Sunday
+27,1941,3/1/2024,Electronics,15.29,No,0,16,193,Wednesday
+19,1954,3/30/2024,Home,8.06,Yes,0,10,90,Monday
+9,1363,5/26/2024,Grocery,9.24,No,0,34,272,Monday
+38,1216,1/4/2024,Grocery,21.38,No,0,32,415,Wednesday
+15,1824,7/22/2024,Personal Care,13.02,No,0,16,99,Monday
+9,1612,5/20/2024,Electronics,11.84,Yes,0,13,217,Thursday
+13,1687,11/25/2024,Personal Care,6.22,Yes,0,35,49,Friday
+41,1634,2/22/2024,Clothing,6.25,No,0,34,225,Monday
+49,1826,9/16/2024,Home,13.83,No,0,6,156,Friday
+26,1780,5/24/2024,Electronics,0.93,No,0,25,44,Thursday
+23,1254,12/22/2024,Personal Care,11.23,Yes,0,15,339,Thursday
+49,1880,8/10/2024,Electronics,3.3,No,0,34,434,Thursday
+37,1027,8/29/2024,Personal Care,27.72,Yes,10,15,306,Tuesday
+25,1447,10/18/2024,Personal Care,16.75,Yes,20,26,421,Tuesday
+46,1840,8/25/2024,Grocery,2.91,Yes,0,50,275,Saturday
+38,1371,3/22/2024,Electronics,2.84,No,0,15,185,Wednesday
+13,1279,2/5/2024,Electronics,15.61,No,0,25,77,Wednesday
+34,1264,5/28/2024,Personal Care,17.18,No,0,26,112,Saturday
+7,1831,8/30/2024,Personal Care,18.51,Yes,20,13,173,Thursday
+48,1571,8/7/2024,Electronics,10.39,No,0,34,353,Thursday
+44,1385,5/21/2024,Electronics,3.7,No,0,32,473,Friday
+30,1296,1/21/2024,Electronics,3.29,No,0,16,412,Monday
+40,1771,9/11/2024,Grocery,1.93,Yes,0,19,118,Wednesday
+36,1811,7/27/2024,Personal Care,5.76,No,0,42,279,Sunday
+33,1670,8/17/2024,Grocery,8.9,No,0,33,314,Saturday
+47,1258,10/6/2024,Personal Care,1.73,No,0,22,251,Wednesday
+32,1823,9/15/2024,Grocery,8.5,No,0,18,49,Wednesday
+29,1540,12/4/2024,Home,3.53,No,0,34,429,Friday
+7,1502,5/24/2024,Electronics,7.47,Yes,20,12,329,Friday
+35,1051,5/8/2024,Electronics,7.07,No,0,43,348,Saturday
+41,1094,4/11/2024,Electronics,24.05,Yes,15,37,474,Tuesday
+50,1670,9/2/2024,Electronics,21.72,No,0,18,219,Tuesday
+47,1160,7/20/2024,Home,24.16,No,0,1,26,Friday
+46,1584,5/17/2024,Clothing,7.5,Yes,20,22,209,Monday
+3,1817,6/22/2024,Home,18.84,No,0,20,412,Monday
+5,1289,7/16/2024,Clothing,19.64,Yes,30,22,403,Sunday
+33,1595,2/3/2024,Home,12.39,No,0,43,473,Saturday
+8,1274,12/12/2024,Grocery,3.39,Yes,5,26,199,Friday
+32,1226,4/13/2024,Clothing,20.12,No,0,37,490,Thursday
+27,1905,9/25/2024,Grocery,27.46,Yes,5,24,301,Wednesday
+39,1303,2/15/2024,Home,27.63,Yes,5,33,100,Thursday
+39,1127,12/12/2024,Grocery,17.11,No,0,36,250,Monday
+37,1811,5/20/2024,Grocery,12.57,Yes,10,43,361,Saturday
+14,1982,2/28/2024,Clothing,24.64,Yes,10,16,190,Monday
+46,1223,9/19/2024,Home,16.72,No,0,16,313,Sunday
+22,1489,12/31/2024,Clothing,18.98,Yes,15,18,21,Friday
+11,1152,6/12/2024,Personal Care,15.4,No,0,22,89,Friday
+20,1354,6/19/2024,Clothing,29.67,No,0,23,449,Thursday
+49,1564,7/25/2024,Grocery,20.41,Yes,10,40,162,Wednesday
+6,1813,2/11/2024,Clothing,10.3,Yes,5,12,406,Friday
+19,1299,7/1/2024,Clothing,3.84,Yes,10,27,489,Sunday
+20,1233,5/28/2024,Electronics,4.41,No,0,26,370,Monday
+8,1551,2/25/2024,Grocery,14.42,No,0,29,357,Saturday
+1,1408,4/1/2024,Personal Care,20.89,Yes,10,20,63,Monday
+7,1407,1/28/2024,Grocery,25.08,No,0,10,285,Monday
+15,1348,2/8/2024,Clothing,1.56,Yes,0,13,367,Wednesday
+38,1111,9/5/2024,Home,11.49,No,0,15,91,Saturday
+29,1258,8/12/2024,Electronics,14.38,Yes,30,33,450,Monday
+36,1352,12/22/2024,Electronics,20.99,No,0,24,439,Friday
+30,1814,1/20/2024,Clothing,17.73,Yes,10,26,446,Tuesday
+42,1672,7/19/2024,Home,21.5,Yes,20,21,344,Tuesday
+24,1921,2/26/2024,Home,8.69,Yes,15,29,345,Wednesday
+1,1712,8/2/2024,Home,15.37,No,0,9,286,Monday
+29,1206,3/16/2024,Electronics,24.12,Yes,20,37,445,Tuesday
+33,1390,9/7/2024,Electronics,22.39,Yes,5,19,104,Saturday
+14,1140,2/4/2024,Clothing,29.07,No,0,10,236,Thursday
+14,1480,10/4/2024,Grocery,24.4,Yes,10,36,75,Thursday
+39,1935,1/22/2024,Electronics,28.42,No,0,14,438,Wednesday
+41,1768,4/15/2024,Electronics,16.77,Yes,0,31,317,Saturday
+20,1441,6/28/2024,Grocery,6.04,Yes,30,25,72,Tuesday
+34,1972,8/12/2024,Clothing,20.44,Yes,5,25,413,Sunday
+49,1110,4/5/2024,Home,8.87,Yes,5,16,237,Monday
+8,1157,8/13/2024,Clothing,24.15,Yes,5,38,68,Saturday
+30,1409,4/25/2024,Personal Care,25.15,No,0,17,487,Friday
+37,1300,2/24/2024,Clothing,11.42,Yes,10,30,386,Wednesday
+8,1908,1/27/2024,Clothing,1.56,No,0,19,377,Friday
+5,1620,7/17/2024,Electronics,23.26,No,0,18,122,Tuesday
+42,1846,11/25/2024,Electronics,21.68,Yes,0,32,393,Monday
+26,1501,5/7/2024,Electronics,18.96,No,0,18,181,Saturday
+48,1202,10/24/2024,Home,1.14,Yes,15,29,241,Wednesday
+19,1602,8/2/2024,Clothing,2.89,No,0,6,89,Monday
+21,1384,10/17/2024,Personal Care,28.31,No,0,26,457,Tuesday
+8,1108,2/21/2024,Electronics,4.44,Yes,15,28,307,Monday
+47,1919,11/8/2024,Electronics,23.65,Yes,15,13,157,Monday
+31,1154,11/27/2024,Clothing,14.87,Yes,15,22,94,Sunday
+7,1296,2/15/2024,Home,16.58,No,0,32,256,Tuesday
+5,1054,4/17/2024,Electronics,20.32,Yes,15,15,473,Thursday
+18,1273,4/12/2024,Personal Care,2.03,No,0,18,209,Friday
+24,1300,10/2/2024,Grocery,25.98,No,0,37,476,Thursday
+29,1765,2/19/2024,Electronics,1.05,No,0,15,119,Friday
+26,1627,4/21/2024,Grocery,20.19,No,0,6,64,Friday
+3,1227,1/5/2024,Personal Care,9.56,Yes,10,15,36,Friday
+20,1679,2/13/2024,Grocery,0.81,Yes,15,37,466,Thursday
+28,1412,5/23/2024,Electronics,5.18,Yes,5,38,418,Saturday
+45,1141,12/21/2024,Home,13.31,No,0,20,372,Monday
+46,1154,6/28/2024,Clothing,2.22,Yes,0,37,212,Monday
+27,1958,5/17/2024,Clothing,12.02,No,0,8,449,Tuesday
+3,1461,12/7/2024,Personal Care,19.36,No,0,10,84,Friday
+4,1652,6/21/2024,Electronics,6.21,Yes,10,28,220,Sunday
+15,1911,9/16/2024,Clothing,5.51,Yes,0,6,393,Thursday
+12,1606,10/2/2024,Grocery,3.56,Yes,20,37,486,Monday
+24,1809,9/9/2024,Home,15.64,Yes,5,25,160,Wednesday
+50,1238,1/9/2024,Clothing,26.7,Yes,0,26,94,Sunday
+18,1193,4/28/2024,Electronics,8.08,Yes,30,38,356,Tuesday
+39,1962,6/15/2024,Home,17.08,No,0,6,109,Friday
+28,1969,8/16/2024,Electronics,13.91,Yes,5,51,214,Sunday
+22,1910,9/19/2024,Clothing,10.99,No,0,37,129,Tuesday
+43,1667,6/3/2024,Personal Care,27.47,Yes,5,17,209,Tuesday
+20,1506,6/18/2024,Home,20.39,Yes,30,36,294,Tuesday
+14,1927,5/2/2024,Electronics,13.49,Yes,10,38,76,Friday
+44,1957,9/5/2024,Grocery,15.64,Yes,20,43,351,Monday
+39,1213,8/2/2024,Personal Care,8.51,No,0,18,374,Wednesday
+3,1185,2/5/2024,Personal Care,17.04,No,0,11,371,Friday
+40,1355,8/10/2024,Personal Care,18.89,Yes,20,49,436,Sunday
+10,1352,8/20/2024,Personal Care,20.28,Yes,10,20,217,Thursday
+26,1612,2/22/2024,Clothing,16.8,Yes,10,41,244,Tuesday
+44,1653,8/20/2024,Home,11.28,No,0,6,240,Friday
+32,1726,10/1/2024,Clothing,24.67,No,0,12,69,Monday
+43,1836,12/9/2024,Home,5.74,No,0,40,196,Wednesday
+26,1636,7/13/2024,Grocery,27.99,Yes,30,43,441,Thursday
+33,1473,1/9/2024,Home,4.8,Yes,10,20,455,Wednesday
+50,1952,7/23/2024,Personal Care,8.68,No,0,50,53,Saturday
+34,1390,8/23/2024,Home,26.01,Yes,5,29,35,Wednesday
+11,1935,6/23/2024,Grocery,26.66,Yes,30,40,398,Wednesday
+13,1604,8/6/2024,Electronics,20.22,No,0,34,88,Sunday
+8,1498,12/28/2024,Personal Care,22.46,Yes,20,9,304,Monday
+38,1029,6/21/2024,Home,22.84,Yes,0,45,202,Saturday
+7,1527,10/26/2024,Personal Care,26.08,Yes,30,31,52,Tuesday
+36,1025,7/1/2024,Grocery,1.85,No,0,10,169,Thursday
+44,1063,8/16/2024,Clothing,19.96,No,0,19,288,Wednesday
+18,1804,2/19/2024,Grocery,21.19,Yes,5,51,444,Saturday
+39,1504,11/6/2024,Clothing,15.88,No,0,40,67,Tuesday
+29,1901,1/16/2024,Personal Care,2.24,Yes,15,40,270,Sunday
+47,1898,6/10/2024,Home,4.43,No,0,26,140,Tuesday
+24,1503,12/16/2024,Electronics,20.8,No,0,29,411,Sunday
+30,1894,8/1/2024,Clothing,5.7,Yes,15,19,63,Sunday
+39,1027,11/21/2024,Electronics,0.8,Yes,10,49,320,Saturday
+36,1290,12/31/2024,Clothing,13.5,Yes,5,25,187,Monday
+48,1010,8/13/2024,Home,7.84,Yes,30,36,260,Saturday
+29,1575,11/12/2024,Personal Care,17.02,Yes,0,12,463,Friday
+32,1779,1/21/2024,Grocery,25.91,No,0,22,51,Friday
+6,1566,2/11/2024,Clothing,21.43,No,0,16,216,Thursday
+43,1913,9/21/2024,Home,0.92,No,0,28,421,Thursday
+27,1306,12/19/2024,Personal Care,27.05,Yes,10,41,157,Thursday
+11,1885,5/7/2024,Grocery,27.13,Yes,10,16,65,Tuesday
+31,1393,10/27/2024,Grocery,15.51,No,0,39,266,Wednesday
+36,1430,3/6/2024,Personal Care,21.18,Yes,5,30,179,Wednesday
+28,1518,3/24/2024,Electronics,2.57,Yes,0,50,85,Saturday
+15,1732,3/20/2024,Personal Care,17.63,No,0,35,154,Friday
+16,1316,12/20/2024,Personal Care,27.94,Yes,10,17,323,Wednesday
+15,1800,6/11/2024,Clothing,27.97,No,0,20,35,Tuesday
+16,1914,8/1/2024,Grocery,27.85,Yes,30,46,283,Sunday
+20,1527,2/14/2024,Electronics,16.84,Yes,10,23,458,Wednesday
+7,1905,10/29/2024,Electronics,9.07,Yes,10,11,71,Tuesday
+4,1976,2/26/2024,Clothing,14.89,No,0,30,394,Wednesday
+18,1897,9/19/2024,Home,23.16,Yes,30,44,134,Wednesday
+17,1528,10/29/2024,Electronics,1.05,No,0,20,199,Thursday
+37,1098,9/12/2024,Clothing,20.68,No,0,28,276,Thursday
+17,1269,2/9/2024,Clothing,6.26,No,0,14,51,Tuesday
+13,1441,11/5/2024,Clothing,26.76,Yes,15,35,495,Wednesday
+34,1235,1/3/2024,Home,11.17,Yes,0,50,375,Saturday
+48,1218,4/4/2024,Clothing,21.6,Yes,20,27,288,Saturday
+30,1717,8/22/2024,Clothing,5.34,Yes,30,52,364,Sunday
+6,1974,10/4/2024,Personal Care,10.96,No,0,40,464,Saturday
+27,1060,12/6/2024,Home,11.13,No,0,38,248,Tuesday
+19,1226,5/24/2024,Electronics,19.33,No,0,23,446,Wednesday
+8,1571,10/5/2024,Personal Care,26.61,No,0,29,499,Wednesday
+6,1131,11/12/2024,Personal Care,25.85,Yes,30,32,32,Wednesday
+27,1865,5/16/2024,Personal Care,23.95,No,0,19,190,Thursday
+22,1999,11/27/2024,Personal Care,21.49,No,0,48,277,Sunday
+4,1470,1/16/2024,Home,19.23,Yes,10,33,450,Friday
+45,1496,8/23/2024,Electronics,7.65,Yes,5,32,41,Saturday
+29,1089,11/9/2024,Electronics,12.78,Yes,0,24,157,Sunday
+2,1916,8/9/2024,Clothing,26.09,Yes,30,21,365,Thursday
+29,1383,12/19/2024,Electronics,26.77,No,0,35,247,Saturday
+6,1013,8/18/2024,Personal Care,7.01,No,0,28,28,Monday
+43,1918,3/1/2024,Electronics,7.92,Yes,15,36,158,Tuesday
