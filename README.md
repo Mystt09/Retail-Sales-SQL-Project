@@ -19,25 +19,25 @@ sales trends, evaluate discount effectiveness, and compares store performance.
 
 ** Business Questions **
 
-Do discounts increase sales volume?
-Which categories rely most on discounts?
-Which stores perform best overall?
-Which stores benefit the most from discounts?
+- Do discounts increase sales volume?
+- Which categories rely most on discounts?
+- Which stores perform best overall?
+- Which stores benefit the most from discounts?
 
 ** SQL Concepts **
-JOIN
-GROUP BY
-SUM
-COUNT
-ORDER BY
-Aggregate Functions
+- JOIN
+- GROUP BY
+- SUM
+- COUNT
+- ORDER BY
+- Aggregate Functions
 
 ** Items Analysed ** 
 
-Compared sales with and without discounts
-Analyzed which categories relied most on discounts
-Ranked stores by revenue, sales, and transaction count
-Identified stores that benefited most from discounted sales
+- Compared sales with and without discounts
+- Analyzed which categories relied most on discounts
+- Ranked stores by revenue, sales, and transaction count
+- Identified stores that benefited most from discounted sales
 
 ** Dataset Source **
 
