@@ -72,5 +72,34 @@ ORDER BY total_rev DESC;
 
 -- Q4 Which stores benefits the most with discounts? 
 
+SELECT
+    store_id,
 
+    ROUND(
+        SUM(
+            CASE
+                WHEN discount_percent > 0
+                THEN price * units_sold
+                ELSE 0
+            END
+        ),
+        2
+    ) AS discounted_revenue,
 
+    ROUND(SUM(price * units_sold), 2) AS total_revenue,
+
+    ROUND(
+        SUM(
+            CASE
+                WHEN discount_percent > 0
+                THEN price * units_sold
+                ELSE 0
+            END
+        ) * 100.0
+        / SUM(price * units_sold),
+        2
+    ) AS discounted_revenue_percentage
+
+FROM cdata
+GROUP BY store_id
+ORDER BY discounted_revenue_percentage DESC;
