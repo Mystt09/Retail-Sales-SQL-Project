@@ -44,5 +44,5 @@ sales trends, evaluate discount effectiveness, and compares store performance.
 Author: Jaykumar Joshi
 Kaggle Link: https://www.kaggle.com/datasets/jayjoshi37/retail-sales-promotions-and-demand-forecasting
 
-Author
+Author:
 Julitza Reyes
