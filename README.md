@@ -32,12 +32,12 @@ COUNT
 ORDER BY
 Aggregate Functions
 
-** Key Findings ** 
+** Items Analysed ** 
 
-Compared sales performance with and without discounts
-Measured discount dependence across product categories
-Ranked stores based on revenue, units sold, and transaction volume
-Generated business-focused insights from retail sales data
+Compared sales with and without discounts
+Analyzed which categories relied most on discounts
+Ranked stores by revenue, sales, and transaction count
+Identified stores that benefited most from discounted sales
 
 ** Dataset Source **
 
